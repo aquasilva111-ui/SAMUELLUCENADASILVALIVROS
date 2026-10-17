@@ -174,3 +174,10 @@ O subnúcleo possui tratado editorial, banco de dados de criação, dossiê dos 
 Obra autoral de Samuel centrada em Daimon(s), intensidade não moralizada, Energeticum Petroleum e refinaria de alta tecnologia como metáfora de transmutação/ação. Suas capas experimentais recorrem a brochuras de ocultismo oitentista, com figura dentro de quadrado e duas mãos. Integração editorial em 2026-10-17; sem fusão automática com L025 ou com qualquer série.
 
 **Última atualização:** 2026-10-17.
+
+
+## Inclusão de obra autoral — 2026-10-17
+
+**MAG-AUT-003 — Princípios Mágicos do Marketing — Magia e Bruxaria Moderna.** Título trazido diretamente pelo autor. Núcleo de criação documentado em [LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA](../../LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/README.md), com tratado integral, base de dados, fonte bruta, ética, questões, seis prompts e um SVG preliminar. Desenvolvimento conceitual, visual e eventual relação editorial com **Magia às Massas** seguem como propostas da IA não ratificadas. É livro novo, não republicação e não renomeação automática de L025.
+
+**Última atualização desta inclusão: 2026-10-17.**
