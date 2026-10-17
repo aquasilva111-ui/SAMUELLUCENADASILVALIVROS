@@ -2,7 +2,7 @@
 
 **Versão:** 1.0  
 **Data:** 2026-10-16  
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Núcleo:** NUC-MAGIA
 
 ## Objetivo
@@ -194,3 +194,15 @@ Uma associação temática não muda automaticamente o núcleo de uma obra.
 ## Histórico
 
 - **2026-10-16:** criação da estrutura NUC-MAGIA e separação explícita de Core Visions e Beauty Trending.
+
+
+## Registro complementar — MAG-AUT-003 / MAG-MODERNA-001
+
+**Data update:** 2026-10-17.
+**Obra:** Magia Moderna — Como dominar o seu(s) Daimon(s) para o seu benefício e sucesso.
+**Autoria:** Samuel Lucena da Silva.
+**Natureza:** livro autoral em desenvolvimento; Daimon(s), Energeticum Petroleum e refinaria emocional.
+**Tratado específico:** `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/01_NUCLEO_E_CANONE/TRATADO_MESTRE.md`.
+**Base de dados específica:** `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md`.
+**Prompts e referências:** `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/02_IDENTIDADE_VISUAL/IMAGENS_E_PROMPTS.md`.
+**Regra:** L025 tem conceitos relacionados, mas o cânone permanece separado até decisão do autor.
