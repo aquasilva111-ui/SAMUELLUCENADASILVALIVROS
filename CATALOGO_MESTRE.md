@@ -102,3 +102,14 @@ Não inferir relação automática com Psicologia dos Chakras.
 | MAG-CULTO-VIRTUDES-001 | Livro de Magia Moderna — Culto às Virtudes | livro autoral em projeto; enquadramento magia moderna, doutrina ainda indefinida | NUC-MAGIA; independente de Magia Moderna — Daimons até decisão autoral | título e autoria confirmados; tratado de criação, proveniência, base de dados e prompts de exploração documentados em 2026-10-17 |
 
 **Pasta:** [LIVROS/MAGIA_MODERNA_CULTO_AS_VIRTUDES](LIVROS/MAGIA_MODERNA_CULTO_AS_VIRTUDES/README.md). **Nota:** o vínculo entre “Livro de Magia Moderna” e “Culto às Virtudes” como título/subtítulo/série ainda exige definição. Não inferir doutrina, rituais ou lista de virtudes. **Última atualização:** 2026-10-17.
+
+
+## Novo projeto autoral — Delusionism — 2026-10-17
+
+| DELUSIONISM-001 | Delusionism — A Alquimia Intelectual Moderna | conceito autoral sobre crença, impossibilidade/improbabilidade e coerência da realidade com a ideia | relações com outras obras não definidas; não inferir vínculos automaticamente | núcleo conceitual originado em 2026-08-27 e base de dados estruturada em 2026-10-17; sem #esqueleto, capítulos ou identidade visual aprovados |
+
+**Arquivo da obra:** [Delusionism — A Alquimia Intelectual Moderna](LIVROS/DELUSIONISM_A_ALQUIMIA_INTELECTUAL_MODERNA/README.md).
+
+**Definição autoral preservada:** “O processo de acreditar em algo impossível e improvável, independentemente das circunstâncias que se opõem na realidade, até que a realidade se comporte coerentemente com a ideia.”
+
+**Governança específica:** a instrução autoral “não mete o bedelho” acompanha a formulação inicial e foi registrada como restrição contra expansão automática. O ID `DELUSIONISM-001` evita presumir numeração L027 sem decisão explícita. **Data de origem conceitual:** 2026-08-27. **Última atualização:** 2026-10-17.
