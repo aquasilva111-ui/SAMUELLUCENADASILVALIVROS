@@ -206,3 +206,18 @@ Uma associação temática não muda automaticamente o núcleo de uma obra.
 **Base de dados específica:** `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md`.
 **Prompts e referências:** `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/02_IDENTIDADE_VISUAL/IMAGENS_E_PROMPTS.md`.
 **Regra:** L025 tem conceitos relacionados, mas o cânone permanece separado até decisão do autor.
+
+
+## Registro adicional — 2026-10-17
+
+### MAG-AUT-003 — Princípios Mágicos do Marketing — Magia e Bruxaria Moderna
+- obra_id: MAG-AUT-003
+- autor: Samuel Lucena da Silva
+- natureza: obra autoral, título confirmado, núcleo de ideias em organização
+- subnucleo sugerido: magia aplicada à cultura de marcas e símbolos (classificação proposta pela IA)
+- localização: `LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/`
+- entidades criadas: obra, unidade criativa, conceito, matriz comparativa, questão intelectual, fonte, imagem, prompt, versão e update
+- 12 analogias conceituais e 16 princípios de trabalho: **todos propostos pela IA, não aprovados como cânone**
+- imagens: 1 SVG diagramático preliminar; 6 prompts integralmente preservados; nenhuma imagem autoral anexada para este livro na conversa
+- relação com MAG-AUT-002/L025: afinidade, sem fusão editorial ou cosmológica
+- data_update: 2026-10-17
