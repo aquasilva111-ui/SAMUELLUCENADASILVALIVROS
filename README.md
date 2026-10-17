@@ -1,7 +1,7 @@
 # Samuel Lucena da Silva — Biblioteca Pessoal e Base de Criação
 
 **Autor / direção editorial:** Samuel Lucena da Silva  
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-17
 
 ## Escopo geral do repositório
 
@@ -212,3 +212,22 @@ O objetivo é permitir que cada livro e cada projeto editorial cresçam sem perd
 ## Edições adaptadas de clássicos históricos
 
 A iniciativa editorial de linguagem contemporânea de Samuel é registrada **separadamente das obras inéditas autorais** em [CATALOGO_ADAPTACOES.md](CATALOGO_ADAPTACOES.md). O primeiro projeto é [Manifesto Comunista em Português Ordinário](LIVROS/MANIFESTO_COMUNISTA_EM_PORTUGUES_ORDINARIO/README.md) — obra histórica de Marx e Engels em adaptação editorial dirigida por Samuel. **Update: 2026-10-16.**
+
+## Núcleo de Republicações de Magia Planetária — update 2026-10-17
+
+Foi criado um subnúcleo especializado dentro de MAGIA para seis obras históricas e somente elas:
+
+- Agrippa — Three Books of Occult Philosophy;
+- Heptameron;
+- Arbatel of Magick;
+- The Key of Solomon the King;
+- Marsilio Ficino — De Vita Libri Tres;
+- Picatrix / Ghāyat al-Ḥakīm.
+
+Local: REPUBLICACOES/MAGIA/COLECAO_MAGIA_PLANETARIA/
+
+O núcleo contém tratado editorial, base de dados de criação, dossiê individual dos seis livros, matriz de direitos e proveniência, identidade visual, prompts, dois diagramas SVG e histórico datado.
+
+Regra importante: o Picatrix medieval é antigo, mas a edição crítica de David Pingree publicada em 1986 pelo Warburg Institute está marcada como In Copyright e não pode ser tratada como fonte livre.
+
+O escopo está fechado nesses seis títulos até nova decisão autoral.
