@@ -1,7 +1,9 @@
-# Referências e Pesquisa
+# Referências e Pesquisa — L009
 
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-17
 
-Guardar fontes, dados, documentos, livros, links e notas de pesquisa vinculados à obra.
+Esta pasta contém a agenda de verificação histórica, fisiológica, psicológica, religiosa e social da obra.
 
-Separar sempre: FATO DOCUMENTADO → INTERPRETAÇÃO → INFERÊNCIA → HIPÓTESE → ESPECULAÇÃO, quando aplicável.
+Arquivo principal: AGENDA_DE_PESQUISA_E_RIGOR.md.
+
+Regra: separar fonte histórica, fisiologia documentada, interpretação metafísica autoral, analogia funcional, hipótese e questão aberta.
