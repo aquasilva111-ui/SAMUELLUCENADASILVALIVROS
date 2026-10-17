@@ -37,6 +37,9 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 
 | L026 | A Masculinidade Determinista | masculinidade, identidade, desejo, afeto entre homens, psicologia social | ensaio/tratado curto independente; relações com outras obras sobre masculinidade ainda abertas | núcleo de criação consolidado em 2026-10-17; pesquisa, arquitetura e redação pendentes |\n\n| ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
 
+| MAG-AUT-002 | Magia das Sombras Plutônica | magia planetária autoral, filosofia do poder, economia psíquica, riqueza, autonomia | série Magia e Bruxaria Popular Moderna Sincrético-Moderna / NUC-MAGIA | núcleo de criação estabelecido em 2026-09-02; integrado em 2026-10-17 |
+| MAG-AUT-003 | Magia das Sombras Netuniana | magia planetária autoral, livre-arbítrio, alienação, isolamento, autonomia | série Magia e Bruxaria Popular Moderna Sincrético-Moderna / NUC-MAGIA | conceito embrionário estabelecido em 2026-09-03; base criada em 2026-10-17 |
+
 ## Obra removida do catálogo pessoal por correção de escopo
 
 **L013 — LOHAN, o Maior Espião do Século 21** foi migrado conceitualmente para o repositório do **Aesthetic Cinematic Universe**, onde já existe documentação própria. O ID L013 fica reservado no histórico e não é reutilizado.
