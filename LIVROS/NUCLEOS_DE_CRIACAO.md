@@ -37,3 +37,17 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 ## Regra
 
 Nenhuma obra externa à bibliografia pessoal deve ser acrescentada aqui.
+
+
+## Núcleo editorial transversal confirmado em 2026-10-16
+
+### NUC-MAGIA
+O livro **L004 — Magia da Paranoia: O Diabo Todo-Poderoso** passa a pertencer ao Núcleo Magia.
+
+O núcleo também pode conter republicações históricas, porém essas ficam fora de `LIVROS/` para não serem confundidas com a bibliografia pessoal.
+
+Primeira republicação:
+- RM001 — *A Manual of Astrology, or The Book of the Stars*, Robert Cross Smith / Raphael — ver `REPUBLICACOES/MAGIA/`.
+
+### Regra
+Core Visions e Beauty Trending não são aplicados automaticamente ao Núcleo Magia.
