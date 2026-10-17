@@ -27,10 +27,12 @@ Samuel deseja ensinar as bases da astrologia do zero, construindo um guia inici�
 - [Cânone e direção literária](NUCLEO_CANONE.md)
 - [Beats, roteiro e versões](BEATS_E_VERSOES.md)
 - [Pesquisa autoral integral, preservada](PESQUISA_AUTORAL_INTEGRAL.md)
+- [Pesquisa simbólica e arquetípica integral](PESQUISA_SIMBOLICA_E_ARQUETIPOS.md)
+- Fontes brutas completas: [Parte 1](../../FONTES_BRUTAS/ASTROLOGIA_SOLAR_CONVERSA_2025_PARTE_1.md), [Parte 2](../../FONTES_BRUTAS/ASTROLOGIA_SOLAR_CONVERSA_2025_PARTE_2.md), [Parte 3](../../FONTES_BRUTAS/ASTROLOGIA_SOLAR_CONVERSA_2025_PARTE_3.md)
 - [Manuscritos históricos e revisão](MANUSCRITOS_E_VARIANTES.md)
 - [Pesquisa e checagem](FONTES_E_VERIFICACAO.md)
 - [Prompts de criação](PROMPTS_DE_ESCRITA.md)
 - [Imagens, briefings e prompts](VISUAIS_E_PROMPTS.md)
 - [Dados estruturados e histórico](DADOS_E_HISTORICO.md)
 
-**Observação:** a cópia bruta da conversa, se importada na íntegra em `FONTES_BRUTAS/`, deverá permanecer intocada. Nesta organização os trechos autorais são mantidos integralmente, e as diversas respostas da IA são históricas, não cânone automático.
+**Observação:** a conversa histórica foi importada integralmente em três arquivos na pasta `FONTES_BRUTAS/`, preservando cronologia e variantes. Esses arquivos devem permanecer intocados. Nesta organização os trechos autorais são mantidos integralmente, e as diversas respostas da IA são históricas, não cânone automático.
