@@ -93,7 +93,7 @@
 
 ## Q11 — Onde termina este livro e começa Esferas de Poder?
 
-**Resposta estrutural:** L025 explica o cosmos espiritual, as mediações, a realidade como campo e a passagem do divino à matéria. Esferas de Poder explica detalhadamente os sete centros humanos, fisiologia, necessidades psicológicas, estados funcionais, comportamento e dimensão coletiva.
+**Resposta estrutural:** MAG-AUT-002 explica o cosmos espiritual, as mediações, a realidade como campo e a passagem do divino à matéria. Esferas de Poder explica detalhadamente os sete centros humanos, fisiologia, necessidades psicológicas, estados funcionais, comportamento e dimensão coletiva.
 
 **Setup:** MPS-18 menciona que o humano possui órgãos de metabolização.
 
@@ -123,7 +123,7 @@
 
 ### Livro único vs dois livros
 **Versão anterior:** cosmologia, sete Esferas humanas e práticas conviviam no mesmo manuscrito.  
-**Versão atual:** cosmologia e filosofia em L025; aplicação humana em Esferas de Poder.
+**Versão atual:** cosmologia e filosofia em MAG-AUT-002; aplicação humana em Esferas de Poder.
 
 ### Magia às Massas
 **Versão anterior em discussão:** possível título principal.  

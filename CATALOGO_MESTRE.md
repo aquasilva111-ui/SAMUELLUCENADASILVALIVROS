@@ -53,3 +53,18 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | APROF-001 | A Profecia do Alquimista | mitopoética, alquimia da consciência coletiva, Grande Pai, Grande Mãe e Reino dos Filhos | obra independente; relações com outras obras não confirmadas | núcleo editorial, capítulo-proposta, esqueleto e banco de dados registrados em 2026-10-17 |
 
 **Arquivo editorial APROF-001:** [LIVROS/A_PROFECIA_DO_ALQUIMISTA](LIVROS/A_PROFECIA_DO_ALQUIMISTA/README.md). **Última atualização desta inclusão:** 2026-10-17. A obra possui visão original integral preservada, cosmos estruturado, prosa inicial, 8 Major Beats e 23 Beats, controle de convenções, prompts de imagens e histórico de criação. O ID específico evita supor sequência numérica L026, ainda não aprovada.
+
+
+## Obra autoral do Núcleo Magia adicionada em 2026-10-17
+
+### MAG-AUT-002 — A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
+
+- **Autor:** Samuel Lucena da Silva.
+- **Eixo / tipo:** magia, metafísica, sincretismo, filosofia espiritual, cultura digital, história das ideias esotéricas e psicologia simbólica.
+- **Relação:** obra-base cosmológica para a linha Psicologia dos Chakras / Esferas de Poder; não fundir automaticamente os IDs L008 e L009.
+- **Estado:** desenvolvimento avançado; tratado mestre, banco de dados, esqueleto, questões ativas, pesquisa, identidade visual, prompts, diagramas e capítulos 2–3 registrados.
+- **Pasta:** `LIVROS/MAGIA_E_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO/`.
+- **Conceito interno:** Magia às Massas.
+- **Última atualização:** 2026-10-17.
+
+**Nota de ID:** o identificador `MAG-AUT-002` foi usado deliberadamente para não colidir com os IDs L025 e L026 já ocupados por outras obras do catálogo.

@@ -1,6 +1,6 @@
 # A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
 
-**ID editorial do repositório:** L025  
+**ID editorial do repositório:** MAG-AUT-002  
 **ID no Núcleo Magia:** MAG-AUT-002  
 **Autor / direção autoral:** Samuel Lucena da Silva  
 **Natureza:** obra autoral de metafísica, magia, espiritualidade sincrética, filosofia, psicologia simbólica e cultura espiritual contemporânea  

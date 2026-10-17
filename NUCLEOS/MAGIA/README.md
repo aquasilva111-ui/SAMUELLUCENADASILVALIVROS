@@ -167,3 +167,17 @@ O subnúcleo possui tratado editorial, banco de dados de criação, dossiê dos 
 **Regra de escopo:** não adicionar outros títulos automaticamente. A inclusão de qualquer sétimo livro exige decisão autoral explícita.
 
 **Última atualização:** 2026-10-17
+
+## 12. Obra autoral MAG-AUT-002 — 2026-10-17
+
+### A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
+
+- **Identificador:** MAG-AUT-002.
+- **Autor:** Samuel Lucena da Silva.
+- **Natureza:** obra autoral; tratado de metafísica, magia, filosofia espiritual e sincretismo moderno.
+- **Subnúcleo:** magia popular / magia psicológica-autoral / simbolismo e metafísica.
+- **Local principal:** `LIVROS/MAGIA_E_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO/`.
+- **Função:** organizar a espiritualidade sincrética moderna, a relação entre Deus/Fonte e deuses culturais, o Quinto Elemento como princípio de relação, Pléroma, Éons/Virtudes, Esferas Universais, Árvore da Vida, Árvore Inversa, daimons, Energeticum Petroleum, Convenções de Realidade, Gravidade de Realidade e a descida da Virtude até comportamento e matéria.
+- **Relação com L008/L009:** funciona como base cosmológica; não incorpora automaticamente Psicologia dos Chakras ao Núcleo Magia nem funde registros sem decisão autoral.
+- **Estado:** desenvolvimento avançado.
+- **Última atualização:** 2026-10-17.

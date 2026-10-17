@@ -1,6 +1,6 @@
 # Esqueleto Mestre — A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
 
-**ID:** L025 / MAG-AUT-002  
+**ID:** MAG-AUT-002  
 **Data de consolidação:** 2026-10-17  
 **Última atualização:** 2026-10-17  
 **Estado:** arquitetura canônica de trabalho; capítulos e beats podem ser enriquecidos sem alterar silenciosamente a tese

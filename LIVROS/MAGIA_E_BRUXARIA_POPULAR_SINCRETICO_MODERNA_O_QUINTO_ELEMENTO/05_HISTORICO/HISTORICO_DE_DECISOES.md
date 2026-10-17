@@ -1,4 +1,4 @@
-# Histórico de Decisões — L025
+# Histórico de Decisões — MAG-AUT-002
 
 **Data de consolidação:** 2026-10-17  
 **Última atualização:** 2026-10-17
@@ -106,6 +106,6 @@ Foi consolidada uma arquitetura de cinco Partes e vinte capítulos, além do Pre
 
 ## 2026-10-17 — base de dados no GitHub
 
-Criação de L025 no repositório SAMUELLUCENADASILVALIVROS, registro MAG-AUT-002 no Núcleo Magia, tratado mestre, base de dados de criação, esqueleto, dossiê de pesquisa, identidade visual, prompts, diagramas, histórico e manuscrito.
+Criação de MAG-AUT-002 no repositório SAMUELLUCENADASILVALIVROS, registro MAG-AUT-002 no Núcleo Magia, tratado mestre, base de dados de criação, esqueleto, dossiê de pesquisa, identidade visual, prompts, diagramas, histórico e manuscrito.
 
 **Última atualização:** 2026-10-17

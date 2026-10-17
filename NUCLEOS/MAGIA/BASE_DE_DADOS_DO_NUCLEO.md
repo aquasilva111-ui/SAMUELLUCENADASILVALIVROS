@@ -2,7 +2,7 @@
 
 **Versão:** 1.0  
 **Data:** 2026-10-16  
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Núcleo:** NUC-MAGIA
 
 ## Objetivo
@@ -194,3 +194,48 @@ Uma associação temática não muda automaticamente o núcleo de uma obra.
 ## Histórico
 
 - **2026-10-16:** criação da estrutura NUC-MAGIA e separação explícita de Core Visions e Beauty Trending.
+
+
+## Obra registrada em 2026-10-17
+
+### MAG-AUT-002
+**Título:** A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento  
+**Autor:** Samuel Lucena da Silva  
+**Autoria:** autoral  
+**Categoria:** metafísica / magia / filosofia espiritual / sincretismo / cultura espiritual contemporânea  
+**Subnúcleo:** magia popular sincrético-moderna  
+**Natureza editorial:** tratado narrativo de filosofia e metafísica mágica  
+**Idioma-base:** português  
+**Estado:** desenvolvimento avançado  
+**Conceito editorial associado:** Magia às Massas  
+**Local:** `LIVROS/MAGIA_E_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO/`  
+**Banco de dados dedicado:** `BASE_DE_DADOS/MAG_AUT_002_MAGIA_E_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO.md`
+
+### Escopo confirmado de MAG-AUT-002
+
+- Deus/Fonte como centro de gravidade anterior aos nomes.
+- axioma “Deus est deus, deus Est Deus”.
+- Quinto Elemento/Éter como princípio de mediação, relação, tradução, circulação e integração.
+- Rede Mercuriana e espiritualidade sincrética da internet.
+- Reino Sincrético e sincretismo por função.
+- Ciência Metafísica.
+- Convenções de Realidade e Gravidade de Realidade.
+- manifestação como passagem entre imagem, expectativa, vontade, comportamento e consequência.
+- Fonte, Pléroma, Éons/Virtudes.
+- Árvore da Vida como arquitetura das Esferas Universais.
+- Árvore Inversa/Qliphoth como potência em desconexão.
+- deuses como formas culturais de relação com o divino.
+- anjos, daimons e especialização de potências.
+- Energeticum Petroleum.
+- passagem da Virtude à matéria e Magia às Massas.
+
+### Regras de proveniência e cânone
+
+- Diferenciar história documentada, tradição, interpretação, síntese autoral e hipótese metafísica.
+- Não atribuir retroativamente sínteses modernas a tradições antigas.
+- Não substituir termos autorais por terminologia mais convencional sem decisão de Samuel.
+- Registrar datas, versões, prompts, imagens e mudanças de doutrina.
+- Preservar o manuscrito-mãe e sua migração para os dois livros atuais.
+- Não utilizar L025 ou L026 para esta obra; esses IDs já pertencem a outros projetos.
+
+**Última atualização desta inclusão:** 2026-10-17

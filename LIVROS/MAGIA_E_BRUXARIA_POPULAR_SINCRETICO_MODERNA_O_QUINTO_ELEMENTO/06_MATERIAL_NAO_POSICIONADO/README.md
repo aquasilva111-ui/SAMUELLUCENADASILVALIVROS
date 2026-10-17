@@ -8,7 +8,7 @@ Este arquivo preserva ideias que ainda não possuem posição definitiva. Nada a
 ## 1. Atlas das Virtudes do Pléroma
 
 Possibilidades:
-- apêndice curto em L025;
+- apêndice curto em MAG-AUT-002;
 - capítulo MPS-12 ampliado;
 - livro independente “Atlas das Virtudes do Pléroma”.
 
@@ -31,7 +31,7 @@ Possibilidade: princípios de construção ritual em vez de receitas fixas.
 
 ## 4. Ars Goetia e 72 anjos
 
-Existe interesse em classificar por função/Virtude/Esfera e relacionar a anjos quando historicamente defensável. Ainda não definido se entra em L025, Atlas, apêndice ou obra futura.
+Existe interesse em classificar por função/Virtude/Esfera e relacionar a anjos quando historicamente defensável. Ainda não definido se entra em MAG-AUT-002, Atlas, apêndice ou obra futura.
 
 ## 5. Imagens culturais de deuses
 

@@ -16,7 +16,7 @@ Classificações:
 
 ## Princípio I — As Esferas Universais
 
-**Destino principal:** L025, capítulos MPS-12 e MPS-13.  
+**Destino principal:** MAG-AUT-002, capítulos MPS-12 e MPS-13.  
 **Destino secundário:** introdução mínima de Esferas de Poder.
 
 **Classificação:** EVOLUIR / MIGRAR.
@@ -131,7 +131,7 @@ A expressão “Higiene das Esferas” é valiosa como categoria prática, mas n
 
 Higiene das Esferas pode significar conjunto de práticas que preservam circulação, proporção e integração: meditação, oração, contemplação, ritual, estudo, ética, autoconhecimento, regulação e comportamento.
 
-A magia em L025 é maior: também inclui símbolo, manifestação, deidades, Virtudes, Convenções, campos, vontade e relação.
+A magia em MAG-AUT-002 é maior: também inclui símbolo, manifestação, deidades, Virtudes, Convenções, campos, vontade e relação.
 
 ## Fonte Criadora
 
@@ -251,6 +251,6 @@ O retorno não precisa ser apresentado apenas como energia voltando literalmente
 
 Não reescrever o manuscrito antigo de ponta a ponta. Extrair matéria-prima e realocá-la.
 
-A versão antiga é a semente. L025 e Esferas de Poder são duas árvores especializadas que cresceram dela.
+A versão antiga é a semente. MAG-AUT-002 e Esferas de Poder são duas árvores especializadas que cresceram dela.
 
 **Última atualização:** 2026-10-17

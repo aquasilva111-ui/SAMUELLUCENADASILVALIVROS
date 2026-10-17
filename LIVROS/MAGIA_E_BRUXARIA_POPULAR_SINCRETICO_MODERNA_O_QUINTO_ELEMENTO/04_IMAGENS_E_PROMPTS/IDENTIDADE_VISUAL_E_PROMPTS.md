@@ -39,7 +39,7 @@ O conceito visual não deve depender de detalhes decorativos aleatórios. Cada i
 - sexualization without conceptual necessity;
 - copying pose/composition from reference images.
 
-## 4. L025-PROMPT-001 — Capa: O Quinto Elemento
+## 4. MAG-AUT-002-PROMPT-001 — Capa: O Quinto Elemento
 
 **Função:** capa conceitual principal.  
 **Ideia:** o centro não é um objeto mágico, mas a relação capaz de manter mundos diferentes unidos.
@@ -49,27 +49,27 @@ O conceito visual não deve depender de detalhes decorativos aleatórios. Cada i
 **Elementos obrigatórios:** centro/Fonte; quatro diferenciações; quinto princípio relacional; sensação de gravidade/órbita; espaço tipográfico.  
 **Proibidos:** pentagrama óbvio como solução automática; arco-íris; bruxa de chapéu; castelo; excesso de símbolos sem função.
 
-## 5. L025-PROMPT-002 — Rede Mercuriana
+## 5. MAG-AUT-002-PROMPT-002 — Rede Mercuriana
 
 > Esoteric editorial engraving visualizing the internet as a Mercurian network without depicting a literal computer interface. A classical winged messenger archetype stands at the threshold of an immense web of libraries, ports, manuscripts, radio waves, cables and luminous nodes, all rendered as nineteenth-century engraved symbolic architecture. The figure should embody movement, translation, commerce and ambiguity rather than being a literal portrait of Hermes. Streams of symbols travel across borders and transform as they pass from one cultural archive to another. The composition must feel global, electric, mercurial and intellectually dense. Black ink engraving, fine cross-hatching, archival paper, no modern cyberpunk, no glowing blue holograms, no brand logos, no readable text.
 
-## 6. L025-PROMPT-003 — Reino Sincrético
+## 6. MAG-AUT-002-PROMPT-003 — Reino Sincrético
 
 > Philosophical occult engraving of many distinct temples, symbolic architectures and cultural forms arranged around a vast empty central Source. None of the traditions is placed on a throne above the others. Fine geometric bridges connect them through a fifth relational field, while each retains its own silhouette and internal symbolism. The image must communicate correspondence without identity, cultural difference without absolute separation, and God as a center of gravity beyond possession. Museum-quality esoteric engraving, restrained, solemn, intelligent, no collage aesthetic, no random mixing of sacred symbols, no hierarchy of one religion over the others.
 
-## 7. L025-PROMPT-004 — Deus est deus, deus Est Deus
+## 7. MAG-AUT-002-PROMPT-004 — Deus est deus, deus Est Deus
 
 > Black-and-white metaphysical engraving showing an unrepresentable central radiance or void that cannot be given a human face. Around it, multiple culturally distinct masks, statues and symbolic silhouettes emerge through rays or relational filaments, each receiving only a portion of the central light. The forms must remain visibly different and should not fuse into one generic deity. A secondary visual movement shows the forms pointing back toward the center. Concept: God precedes the names; gods are faces; the face can return consciousness to the Source. Classical engraved line work, philosophical rather than devotional propaganda, no single culture visually dominating the composition.
 
-## 8. L025-PROMPT-005 — 0÷1
+## 8. MAG-AUT-002-PROMPT-005 — 0÷1
 
 > Minimalist occult engraving built around the metaphysical passage from indeterminate zero to first differentiation. A vast empty circular zero occupies the upper field; from it emerges a single vertical form or first point, yet the original void remains intact and unconsumed. Below, branching geometries multiply into increasingly complex structures. The image should feel like a nineteenth-century metaphysical diagram crossed with classical engraving, precise, sparse, sacred geometry without pseudo-scientific equations, no readable generated typography.
 
-## 9. L025-PROMPT-006 — Fonte e Pléroma
+## 9. MAG-AUT-002-PROMPT-006 — Fonte e Pléroma
 
 > Esoteric engraved cosmology in which an undifferentiated central or upper Source unfolds into a plenitude of distinct living Virtues. The Source should not be personified. The Pleroma appears as a structured field of differentiated intelligences held in relationship, like a celestial ecology rather than a hierarchy of fantasy characters. Fine line work, paired symmetries, organic geometry, luminous negative space represented through white paper, black ink, no color, no fantasy armor.
 
-## 10. L025-PROMPT-007 — Éon / Virtude
+## 10. MAG-AUT-002-PROMPT-007 — Éon / Virtude
 
 Usar o prompt-mestre de gravura e acrescentar a Virtude específica. A entidade deve comunicar sua função sem depender de legenda.
 
@@ -81,31 +81,31 @@ Exemplo — Zoe/Vida:
 
 > A cosmic intelligence of Life rendered not simply as fertility goddess imagery but as a body from which multiple organized forms emerge: seed, leaf, animal motion and cellular branching translated into classical engraved symbolism. Life should feel like self-propagating continuity and renewal.
 
-## 11. L025-PROMPT-008 — Árvore da Vida como organismo
+## 11. MAG-AUT-002-PROMPT-008 — Árvore da Vida como organismo
 
 > Reimagine the Tree of Life as a living metaphysical organism rather than a flat occult chart. Ten spheres function like organs connected by flowing channels, receiving, transforming, combining and transmitting currents. Kether remains closest to an unpictured Source above it. Yesod appears as an imaginal condensation chamber; Malkuth as embodied material consequence. Nineteenth-century scientific-anatomical engraving fused with restrained occult diagram language. No neon sephiroth, no generic glowing fantasy tree.
 
-## 12. L025-PROMPT-009 — Árvore Inversa
+## 12. MAG-AUT-002-PROMPT-009 — Árvore Inversa
 
 > A metaphysical engraving showing the same fundamental powers of an ordered tree becoming isolated inside hardened shells. Do not depict a simplistic evil upside-down tree. Each node should appear as a functional organ sealed from circulation, still powerful but unable to exchange with the whole. Fine cracks, closed membranes and looping self-feeding channels suggest autonomy, compulsion and disconnection. Black-and-white engraved anatomy, austere, disturbing through structure rather than horror clichés.
 
-## 13. L025-PROMPT-010 — Energeticum Petroleum
+## 13. MAG-AUT-002-PROMPT-010 — Energeticum Petroleum
 
 > Symbolic occult engraving of dense psychic material being refined rather than destroyed. A dark viscous subterranean reservoir rises through an alchemical apparatus that separates rage, fear, desire, grief and obsession from the Virtues trapped within them. The refined current becomes clear structured energy feeding a living tree or human gesture. The visual metaphor should feel like an esoteric refinery, not industrial steampunk. Black ink, fine engraving, white background, no colored flames, no demonic horror caricature.
 
-## 14. L025-PROMPT-011 — Convenções de Realidade
+## 14. MAG-AUT-002-PROMPT-011 — Convenções de Realidade
 
 > Philosophical engraving of ideas as small symbolic nodes forming a mutually reinforcing constellation around a human observer. Individual beliefs connect into a dense interpretive map; that map projects expected forms into a lower imaginal layer and influences the paths available in the material landscape below. The image must communicate feedback without suggesting literal brain wires. Scientific-diagram clarity combined with esoteric engraving.
 
-## 15. L025-PROMPT-012 — Gravidade de Realidade
+## 15. MAG-AUT-002-PROMPT-012 — Gravidade de Realidade
 
 > Black-and-white conceptual engraving of a symbolic convention acquiring gravitational mass. Words are not shown literally; instead, repeated geometric motifs, institutions, memories and human figures accumulate around a dark conceptual center. Perception lines curve toward it, behaviors orbit it, and material consequences return to increase its density. Evoke gravitational lensing through engraved geometry without pretending it is a physics diagram. Philosophical, precise, sober.
 
-## 16. L025-PROMPT-013 — Da Virtude à Matéria
+## 16. MAG-AUT-002-PROMPT-013 — Da Virtude à Matéria
 
 > Vertical metaphysical engraving showing a current descending from an unpictured Source through differentiated Virtues, symbolic structures, imagination, human will, gesture and finally material consequence. Each transition changes the form of the current rather than merely moving the same glowing energy downward. The human is the translation chamber where the invisible becomes behavior. Classical anatomical engraving mixed with occult cosmology.
 
-## 17. L025-PROMPT-014 — Magia às Massas
+## 17. MAG-AUT-002-PROMPT-014 — Magia às Massas
 
 > Large-scale editorial engraving of ordinary contemporary people participating in symbolic practices across a global network: prayer, meditation, tarot, ritual, writing, artistic creation, digital communication and communal gathering. No single practice dominates. Fine Mercurian lines connect them without homogenizing them. The mood is not secret order or elite initiation; it is distributed, popular, modern and intellectually serious. Black-and-white engraving, no social-media logos, no cyberpunk.
 
