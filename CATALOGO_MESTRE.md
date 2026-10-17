@@ -50,6 +50,11 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 5. The Mad King vem antes de Solar Attachment; a natureza editorial exata dessa relação ainda está aberta.
 6. L023 deve distinguir continuamente história documentada, interpretação historiográfica, hipótese autoral e especulação.
 
+| APROF-001 | A Profecia do Alquimista | mitopoética, alquimia da consciência coletiva, Grande Pai, Grande Mãe e Reino dos Filhos | obra independente; relações com outras obras não confirmadas | núcleo editorial, capítulo-proposta, esqueleto e banco de dados registrados em 2026-10-17 |
+
+**Arquivo editorial APROF-001:** [LIVROS/A_PROFECIA_DO_ALQUIMISTA](LIVROS/A_PROFECIA_DO_ALQUIMISTA/README.md). **Última atualização desta inclusão:** 2026-10-17. A obra possui visão original integral preservada, cosmos estruturado, prosa inicial, 8 Major Beats e 23 Beats, controle de convenções, prompts de imagens e histórico de criação. O ID específico evita supor sequência numérica L026, ainda não aprovada.
+
+
 ## Atualizações internas de séries
 
 ### L008 — atualização de 2026-10-17

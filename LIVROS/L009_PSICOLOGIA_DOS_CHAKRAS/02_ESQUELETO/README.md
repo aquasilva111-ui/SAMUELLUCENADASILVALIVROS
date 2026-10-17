@@ -1,7 +1,9 @@
-# Esqueleto
+# Esqueleto — L009
 
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-17
 
-Estrutura para PARTES → CAPÍTULOS → MAJOR BEATS → BEATS → CENAS, conforme a obra exigir.
+Arquivos centrais:
+- ESQUELETO_MESTRE_2026-10-17.md — arquitetura vigente de 11 capítulos.
+- MATRIZ_DAS_7_ESFERAS.md — referência funcional das sete Esferas.
 
-Cada Beat relevante deve registrar fundamento pregresso, função, consequência, setups, payoffs e questões abertas. Não inventar cenas para preencher estrutura.
+A arquitetura vigente transforma cada Esfera num pequeno tratado: Natureza → Psicologia → Glândula → Corpo → Atividades → História do Chakra → Virtudes → Deidades e Cultos → Magia → Coletivo: Passado, Presente e Futuro.

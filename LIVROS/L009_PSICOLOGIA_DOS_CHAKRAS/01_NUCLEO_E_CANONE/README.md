@@ -1,8 +1,9 @@
-# Núcleo e Cânone
+# Núcleo e Cânone — L009
 
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-17
 
-Guardar aqui premissa, tese, conceitos, decisões autorais, níveis de cânone, contradições e questões abertas.
+Esta pasta contém a definição canônica da obra, terminologia autoral, decisões confirmadas, sete Esferas, Virtudes, correspondências, Convenções de Realidade, Gravidade de Realidade, regras de ciência/metafísica e princípios de continuidade.
 
-## Regra
-Separar CONFIRMADO, PROVISÓRIO, POSSIBILIDADE, QUESTÃO ABERTA e SUGESTÃO DA IA. Nunca promover sugestão a cânone sem aprovação.
+Arquivo principal: NUCLEO_COMPLETO.md.
+
+Regra: Samuel define o cânone. Sugestões, hipóteses, pesquisas e analogias não entram silenciosamente como fato confirmado.
