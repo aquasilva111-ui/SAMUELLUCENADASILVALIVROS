@@ -559,4 +559,31 @@ A Virtude precisa circular.
 
 O invisível precisa conseguir chegar ao comportamento e à matéria.
 
+
+## Atualização de cânone — 2026-10-17: capítulos 2 e 3, visualidade e genealogia
+
+### Manuscrito canônico de trabalho
+
+Os capítulos **MPS-02 — A Rede Mercuriana** e **MPS-03 — O Reino Sincrético** foram redigidos integralmente em prosa horizontal segundo o tom Realismo Mágico-Filosófico Sincrético. As versões completas vivem em `07_MANUSCRITO` e devem ser consultadas como fundamento pregresso antes de redigir MPS-04.
+
+MPS-02 estabelece a internet como infraestrutura mercuriana moderna: circulação, tradução, comércio, mensagem, ambiguidade, bibliotecas em encontro, algoritmos como circuitos de retroalimentação entre atenção e realidade percebida, mercado espiritual, popularização e necessidade de arquitetura.
+
+MPS-03 transforma o encontro em método: sincretismo por função, diferença preservada, religião como cultura espiritual, Deus anterior aos nomes, deuses como interfaces culturais, filtro ético, alquimia das diferenças, função como ferramenta comparativa e o problema metafísico da relação que abre diretamente o Quinto Elemento.
+
+### Cadeia causal entre capítulos
+
+**MPS-02:** a tecnologia cria a condição material do encontro.  
+→ **MPS-03:** o encontro exige uma filosofia de integração.  
+→ **MPS-04:** integração exige um princípio de relação e passagem.  
+→ **Quinto Elemento:** resposta metafísica ao problema aberto pelo Reino Sincrético.
+
+### Visualidade consolidada
+
+Foi criado o diretório `04_IMAGENS_E_PROMPTS` com prompts mestres e diagramas SVG iniciais. A imagem deve funcionar como cartografia do pensamento, não como decoração. A estética geral combina gravura ocultista, diagrama filosófico e clareza editorial contemporânea.
+
+### Genealogia
+
+O manuscrito antigo das Sete Esferas passa a ser tratado formalmente como manuscrito-mãe. Nenhuma ideia relevante deve ser descartada sem classificação SALVAR, EVOLUIR, MIGRAR ou ARQUIVAR. A separação em dois livros é descompactação do sistema, não abandono da teoria anterior.
+
+
 **Última atualização:** 2026-10-17
