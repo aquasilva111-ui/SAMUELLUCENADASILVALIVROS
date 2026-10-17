@@ -123,3 +123,18 @@ Não inferir relação automática com Psicologia dos Chakras.
 | DED-001 | Deus Est Deus — O Deus e Suas Emanações | teologia / filosofia do divino e das emanações (campo interpretativo provisório) | obra independente; vínculos com outros núcleos não confirmados | título e subtítulo autorais registrados; banco e prompts exploratórios; conteúdo metafísico não ratificado |
 
 **Arquivo editorial:** [Deus Est Deus](LIVROS/DEUS_EST_DEUS/README.md). **Última atualização:** 2026-10-17. O nome e o subtítulo são os únicos conceitos expressamente formulados pelo autor nesta conversa; proposições sobre Absoluto, multiplicidade, comparativismo e linguagem visual são sugestões da IA, identificadas como tais e preservadas em sua fonte integral. Nenhuma imagem atribuída à obra foi gerada ou anexada.
+
+
+## Obra autoral do Núcleo Magia adicionada em 2026-10-17
+
+### MAG-AUT-002 — A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
+
+- **Autor:** Samuel Lucena da Silva.
+- **Eixo / tipo:** magia, metafísica, sincretismo, filosofia espiritual, cultura digital, história das ideias esotéricas e psicologia simbólica.
+- **Relação:** obra-base cosmológica para a linha Psicologia dos Chakras / Esferas de Poder; não fundir automaticamente os IDs L008 e L009.
+- **Estado:** desenvolvimento avançado; tratado mestre, banco de dados, esqueleto, questões ativas, pesquisa, identidade visual, prompts, diagramas e capítulos 2–3 registrados.
+- **Pasta:** `LIVROS/MAGIA_E_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO/`.
+- **Conceito interno:** Magia às Massas.
+- **Última atualização:** 2026-10-17.
+
+**Nota de ID:** o identificador `MAG-AUT-002` foi usado deliberadamente para não colidir com os IDs L025 e L026 já ocupados por outras obras do catálogo.
