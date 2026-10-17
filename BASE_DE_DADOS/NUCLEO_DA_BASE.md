@@ -1,6 +1,6 @@
 # Núcleo da Base de Dados de Criação
 
-**Versão:** 2.0  
+**Versão:** 2.1  
 **Última atualização:** 2026-10-17  
 **Função:** preservar produto final, processo criativo, genealogia das decisões, fontes, imagens, prompts, cânone e versões.
 
@@ -538,3 +538,120 @@ A subbase expande as entidades gerais deste arquivo com testemunho textual, tran
 Ela deve permanecer vinculada à base geral sem contaminar outros livros ou republicações com regras específicas da magia planetária.
 
 **Última atualização desta integração:** 2026-10-17
+
+## 25. ENTIDADES PARA ENSAIO FACTUAL
+
+**Adicionado em:** 2026-10-17  
+**Origem:** necessidades metodológicas de L001 — Sobrevivendo Abaixo da Linha Vermelha.
+
+### 25.1 ZONA_MODELO
+- zona_id
+- obra_id
+- nome
+- definicao_autoral
+- status: confirmado/provisório
+- dimensoes[]
+- critérios_entrada[]
+- critérios_saida[]
+- unidade_analise
+- temporalidade
+- exemplos[]
+- contraexemplos[]
+- dados_necessarios[]
+- limitações[]
+- data_update
+
+### 25.2 DADO_METRICA
+- dado_id
+- obra_id
+- conceito
+- valor
+- unidade
+- população
+- geografia
+- período
+- fonte_id
+- definição_da_fonte
+- transformação_aplicada
+- incerteza
+- limitações
+- status_verificacao
+- data_update
+
+### 25.3 ALEGACAO
+Serve para impedir que frase repetida vire fato por inércia.
+- alegacao_id
+- obra_id
+- texto
+- origem
+- tipo: fato/interpretação/hipótese/metáfora/cenário
+- evidencias[]
+- evidencias_contrarias[]
+- escopo
+- confiança
+- status: não verificada/verificada/parcial/rejeitada
+- destinos_no_texto[]
+- data_update
+
+### 25.4 EXPERIENCIA_AUTORAL
+- experiencia_id
+- obra_id
+- pessoa
+- descrição_literal
+- data_do_relato
+- período_relatado
+- contexto
+- interpretação_do_autor
+- inferências_editoriais_separadas[]
+- pode_ser_publicado
+- posição_estrutural
+- status
+
+Regra: nunca completar experiência autobiográfica com inferência da IA.
+
+### 25.5 METODOLOGIA_DE_CLASSIFICACAO
+- metodologia_id
+- obra_id
+- versão
+- objetivo
+- unidade_analise
+- dimensoes[]
+- indicadores[]
+- pesos[]
+- limiares[]
+- regras_de_dados_ausentes
+- regras_de_sobreposicao
+- validações[]
+- análise_de_sensibilidade
+- limitações[]
+- resultados[]
+- data_update
+
+### 25.6 CENARIO_DE_FUTURO
+- cenario_id
+- obra_id
+- nome
+- premissas[]
+- mecanismos[]
+- horizonte_temporal
+- evidencias_de_base[]
+- componentes_especulativos[]
+- riscos[]
+- alternativas[]
+- status
+- data_update
+
+Regra: cenário futuro nunca deve ser escrito como descrição factual do presente.
+
+## 26. MATRIZ EPISTEMOLÓGICA
+
+Para obras de não ficção, toda afirmação importante deve poder ser classificada como:
+1. experiência pessoal;
+2. conceito autoral;
+3. dado;
+4. literatura externa;
+5. interpretação;
+6. hipótese;
+7. cenário futuro.
+
+A base deve preservar a passagem de uma categoria para outra. Uma hipótese só se torna fato documental após verificação; uma metáfora não se torna mecanismo científico por repetição.
