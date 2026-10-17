@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Sigilo circular preto — estudo vetorial">
+  <g fill="none" stroke="#000000" stroke-width="22" stroke-linecap="square" stroke-linejoin="miter">
+    <circle cx="500" cy="500" r="440"/>
+    <circle cx="500" cy="500" r="345"/>
+    <path d="M500 255 V585 M300 585 H700"/>
+    <path d="M500 430 C560 430 575 470 575 520 C575 575 545 605 545 660 C545 715 580 745 630 725"/>
+    <path d="M455 275 H545 M475 255 V295 M455 255 L475 275 M545 255 L525 275"/>
+    <path d="M275 545 V625 M245 565 H325 M255 545 L275 565 M255 625 L275 605 M315 545 L295 565 M315 625 L295 605"/>
+    <path d="M675 545 V625 M645 565 H725 M655 545 L675 565 M655 625 L675 605 M715 545 L695 565 M715 625 L695 605"/>
+  </g>
+  <g fill="#000000" font-family="serif" font-size="70" text-anchor="middle">
+    <text x="500" y="115">L</text>
+    <text x="824" y="300" transform="rotate(55 824 300)">I</text>
+    <text x="820" y="710" transform="rotate(125 820 710)">L</text>
+    <text x="500" y="945">I</text>
+    <text x="175" y="710" transform="rotate(-125 175 710)">L</text>
+    <text x="175" y="300" transform="rotate(-55 175 300)">H</text>
+  </g>
+</svg>
