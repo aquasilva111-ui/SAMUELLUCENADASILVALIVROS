@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f4f0e6"/>
+  <rect x="70" y="60" width="1460" height="880" rx="28" fill="none" stroke="#1f1f1f" stroke-width="4"/>
+  <text x="800" y="125" text-anchor="middle" font-family="Georgia, serif" font-size="44" fill="#1f1f1f">Mapa Editorial dos Seis Livros</text>
+  <text x="800" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">Criação editorial contemporânea — não é diagrama histórico</text>
+
+  <circle cx="800" cy="505" r="145" fill="#e6dfcf" stroke="#1f1f1f" stroke-width="4"/>
+  <text x="800" y="485" text-anchor="middle" font-family="Georgia, serif" font-size="31" fill="#1f1f1f">MAGIA</text>
+  <text x="800" y="525" text-anchor="middle" font-family="Georgia, serif" font-size="31" fill="#1f1f1f">PLANETÁRIA</text>
+  <text x="800" y="565" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#555">núcleo de republicações</text>
+
+  <line x1="690" y1="410" x2="420" y2="290" stroke="#444" stroke-width="3"/>
+  <line x1="800" y1="360" x2="800" y2="245" stroke="#444" stroke-width="3"/>
+  <line x1="910" y1="410" x2="1180" y2="290" stroke="#444" stroke-width="3"/>
+  <line x1="675" y1="585" x2="405" y2="725" stroke="#444" stroke-width="3"/>
+  <line x1="800" y1="650" x2="800" y2="775" stroke="#444" stroke-width="3"/>
+  <line x1="925" y1="585" x2="1195" y2="725" stroke="#444" stroke-width="3"/>
+
+  <g>
+    <rect x="190" y="210" width="460" height="170" rx="18" fill="#fffdf8" stroke="#1f1f1f" stroke-width="3"/>
+    <text x="420" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f1f1f">AGRIPPA</text>
+    <text x="420" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#444">Three Books of Occult Philosophy</text>
+    <text x="420" y="335" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">arquitetura de correspondências</text>
+  </g>
+
+  <g>
+    <rect x="570" y="185" width="460" height="150" rx="18" fill="#fffdf8" stroke="#1f1f1f" stroke-width="3"/>
+    <text x="800" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f1f1f">HEPTAMERON</text>
+    <text x="800" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">arquitetura temporal e ritual</text>
+    <text x="800" y="302" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#666">dias • horas • anjos • operação</text>
+  </g>
+
+  <g>
+    <rect x="950" y="210" width="460" height="170" rx="18" fill="#fffdf8" stroke="#1f1f1f" stroke-width="3"/>
+    <text x="1180" y="255" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f1f1f">ARBATEL</text>
+    <text x="1180" y="295" text-anchor="middle" font-family="Georgia, serif" font-size="21" fill="#444">Arbatel of Magick</text>
+    <text x="1180" y="335" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">inteligências planetárias</text>
+  </g>
+
+  <g>
+    <rect x="175" y="650" width="460" height="180" rx="18" fill="#fffdf8" stroke="#1f1f1f" stroke-width="3"/>
+    <text x="405" y="695" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f1f1f">KEY OF SOLOMON</text>
+    <text x="405" y="735" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">arquitetura gráfica e cerimonial</text>
+    <text x="405" y="772" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#666">pentáculos • nomes • operação</text>
+  </g>
+
+  <g>
+    <rect x="570" y="735" width="460" height="150" rx="18" fill="#fffdf8" stroke="#1f1f1f" stroke-width="3"/>
+    <text x="800" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f1f1f">DE VITA</text>
+    <text x="800" y="820" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">simpatia • vida • ambiente</text>
+    <text x="800" y="852" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#666">música • matéria • cosmos</text>
+  </g>
+
+  <g>
+    <rect x="965" y="650" width="460" height="180" rx="18" fill="#fffdf8" stroke="#1f1f1f" stroke-width="3"/>
+    <text x="1195" y="695" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#1f1f1f">PICATRIX</text>
+    <text x="1195" y="735" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#555">arquitetura astral e talismânica</text>
+    <text x="1195" y="772" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#666">imagem • matéria • eleição • talismã</text>
+  </g>
+
+  <text x="800" y="922" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#555">NUC-MAGIA-REP-PLAN • Update 2026-10-17</text>
+</svg>
