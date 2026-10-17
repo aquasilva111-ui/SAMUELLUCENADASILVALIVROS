@@ -655,3 +655,66 @@ Para obras de não ficção, toda afirmação importante deve poder ser classifi
 7. cenário futuro.
 
 A base deve preservar a passagem de uma categoria para outra. Uma hipótese só se torna fato documental após verificação; uma metáfora não se torna mecanismo científico por repetição.
+
+
+## 27. SUBBASE ESPECIALIZADA — MAGIA DAS SOMBRAS
+
+**Adicionada em:** 2026-10-17
+
+A série autoral Magia e Bruxaria Popular Moderna Sincrético-Moderna passa a possuir subbase especializada para registrar, por planeta:
+
+- força original;
+- virtude;
+- estado da definição da virtude;
+- deformação sombria;
+- objetivo;
+- objeto de captura;
+- mecanismo;
+- fórmula;
+- aplicação individual;
+- aplicação coletiva;
+- economia psíquica;
+- contraparte virtuosa;
+- status da contraparte virtuosa;
+- combinações com outras forças;
+- camadas epistêmicas;
+- imagens;
+- prompts;
+- histórico.
+
+### Obras registradas
+
+**L025 — Magia das Sombras Plutônica / MAG-AUT-002**
+- primeira formulação registrada: 2026-09-02;
+- objetivo: domínio/captura da riqueza e potência do outro;
+- fórmula: POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO;
+- forma virtuosa: em desenvolvimento.
+
+**L026 — Magia das Sombras Netuniana / MAG-AUT-003**
+- primeira formulação registrada: 2026-09-03;
+- objetivo: dominar o livre-arbítrio;
+- mecanismo central: alienação e isolamento;
+- fórmula completa: ainda em desenvolvimento.
+
+### Regra de lacuna doutrinária
+
+Correspondências astrológicas, mitológicas ou esotéricas externas podem servir como pesquisa, mas não podem preencher automaticamente uma lacuna do sistema autoral. A base deve registrar “campo em desenvolvimento” quando Samuel ainda não fechou a doutrina.
+
+### Regra epistêmica
+
+Cada afirmação relevante deve poder ser distinguida como:
+- conceito autoral;
+- fato documentado;
+- análise histórica/econômica/social;
+- interpretação mágico-simbólica;
+- hipótese;
+- especulação;
+- metáfora/símbolo.
+
+### Local das bases
+
+- LIVROS/L025_MAGIA_DAS_SOMBRAS_PLUTONICA/BASE_DE_DADOS_DE_CRIACAO.md
+- LIVROS/L026_MAGIA_DAS_SOMBRAS_NETUNIANA/BASE_DE_DADOS_DE_CRIACAO.md
+- NUCLEOS/MAGIA/BASE_DE_DADOS_DO_NUCLEO.md
+
+**Última atualização desta integração:** 2026-10-17
