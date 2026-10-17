@@ -1,0 +1,115 @@
+{
+  "id": "ADP-001",
+  "titulo_confirmado": "Manifesto Comunista em Português Ordinário",
+  "titulo_literal_digitado": "Manifesto Comunista Em portugues ordinario",
+  "autoria_historica": [
+    "Karl Marx",
+    "Friedrich Engels"
+  ],
+  "direcao_editorial": "Samuel Lucena da Silva",
+  "atualizado_em": "2026-10-16",
+  "natureza": "adaptação linguística contemporânea de clássico político histórico",
+  "idiomas": {
+    "em_trabalho": [
+      "pt-BR"
+    ],
+    "planejados": [
+      "en",
+      "es"
+    ]
+  },
+  "estado": "rascunho",
+  "publicado": false,
+  "capa_final_aprovada": false,
+  "texto_revisado_e_aprovado": false,
+  "decisoes_confirmadas": [
+    "iniciativa de clássicos de comunismo, socialismo e esquerda",
+    "não centrar diferencial comercial em mera recompilação de domínio público",
+    "modernizar o dialeto para público sem formação superior",
+    "fluência de leitura como romance de massa sem transformar em ficção",
+    "título Manifesto Comunista em Português Ordinário",
+    "responder somente com texto quando ele pedir adaptação",
+    "simplificar ainda mais o prefácio de 1872",
+    "salvar máximo de documentação no Github com data update"
+  ],
+  "fontes": [
+    {
+      "id": "FR-1872",
+      "caminho": "03_REFERENCIAS_E_PESQUISA/FONTES_1872_E_ABERTURA.md",
+      "origem": "texto colado na conversa"
+    },
+    {
+      "id": "FR-1883-1893",
+      "caminho": "03_REFERENCIAS_E_PESQUISA/FONTE_INTEGRAL_1883_A_1893.txt",
+      "origem": "arquivo fornecido Texto colado(2).txt",
+      "linhas": 553
+    },
+    {
+      "id": "FR-ABERTURA",
+      "caminho": "03_REFERENCIAS_E_PESQUISA/FONTES_1872_E_ABERTURA.md",
+      "origem": "texto colado na conversa"
+    }
+  ],
+  "unidades": [
+    {
+      "id": "PRE-1872",
+      "data": "1872-06-24",
+      "estado": "rascunho PT-BR B arquivado"
+    },
+    {
+      "id": "PRE-1883",
+      "data": "1883-06-28",
+      "estado": "rascunho PT-BR arquivado"
+    },
+    {
+      "id": "PRE-1888",
+      "data": "1888-01-30",
+      "estado": "texto histórico integral arquivado; redação PT-BR extensa existe na conversa"
+    },
+    {
+      "id": "PRE-1890",
+      "data": "1890-05-01",
+      "estado": "texto histórico integral arquivado; redação PT-BR extensa existe na conversa"
+    },
+    {
+      "id": "PRE-1892",
+      "data": "1892-02-10",
+      "estado": "texto histórico integral arquivado; redação PT-BR extensa existe na conversa"
+    },
+    {
+      "id": "PRE-1893",
+      "data": "1893-02-01",
+      "estado": "texto histórico integral arquivado; redação PT-BR extensa existe na conversa"
+    },
+    {
+      "id": "ABERTURA",
+      "data": "1848",
+      "estado": "rascunho PT-BR arquivado"
+    }
+  ],
+  "artes": [
+    {
+      "arquivo": "04_IMAGENS_E_PROMPTS/CAPA_01.svg",
+      "tipo": "mockup",
+      "aprovado": false
+    },
+    {
+      "arquivo": "04_IMAGENS_E_PROMPTS/CAPA_02.svg",
+      "tipo": "mockup",
+      "aprovado": false
+    }
+  ],
+  "restricoes": [
+    "não resumir originais para substituir versão integral",
+    "não atribuir adaptação literalmente a Marx/Engels",
+    "não inventar notas/datas",
+    "direitos de tradução e edição de base a conferir",
+    "separar autoria original e direção editorial"
+  ],
+  "prox_revisao": [
+    "transcrever literalmente adaptações de 1888 a 1893",
+    "cotejo histórico de notas e datas",
+    "verificar direitos de tradução de base",
+    "aprovação da capa"
+  ]
+}
