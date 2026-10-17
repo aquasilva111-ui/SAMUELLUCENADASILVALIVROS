@@ -203,3 +203,8 @@ Toda alteração material deve registrar:
 **DATA → ELEMENTO → ESTADO ANTERIOR → NOVO ESTADO → MOTIVO → ORIGEM → APROVAÇÃO.**
 
 O objetivo é permitir que cada livro e cada projeto editorial cresçam sem perder a genealogia de suas ideias, fontes, imagens, traduções e decisões.
+
+## Nova coleção de republicações — Como Pensa a Elite
+
+- **CPAE001 / PSI-REP-001**: [Como Pensa a Elite](REPUBLICACOES/PSICOLOGIA_DAS_MASSAS/CPAE001_COMO_PENSA_A_ELITE/README.md), nome escolhido por Samuel em 2026-10-10 para livros de psicologia das massas, interpretados como forma de entender o pensamento das minorias poderosas. Autor referido como “Jean” ainda não identificado; não substituir o autor histórico. Base editorial, sete núcleos, pesquisa, fontes, imagens SVG e prompts disponíveis. Registro no repositório: **2026-10-16**.
+- **Núcleo temático:** [Psicologia das Massas](NUCLEOS/PSICOLOGIA_DAS_MASSAS/README.md). Não confundir com os livros autorais de Samuel.

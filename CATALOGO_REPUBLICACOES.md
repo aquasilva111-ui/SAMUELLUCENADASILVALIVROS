@@ -24,6 +24,7 @@ A presença neste catálogo **não atribui autoria histórica a Samuel**.
 | ID | Núcleo | Obra histórica | Autor histórico | Ano-base | Projeto editorial | Estado |
 |---|---|---|---|---:|---|---|
 | MAG-REP-001 | MAGIA | A Manual of Astrology, or The Book of the Stars | Robert Cross Smith (“Raphael”) | 1828 | tradução, restauração e republicação multilíngue | núcleo criado em 2026-10-16 |
+| PSI-REP-001 / CPAE001 | PSICOLOGIA_DAS_MASSAS | Corpus de psicologia das massas associado por Samuel a “Jean” (obras por identificar) | Autor histórico ainda não confirmado | a confirmar | **Como Pensa a Elite** — título de Samuel para edição/coleção; leitura das “minorias poderosas” | título decidido em 2026-10-10; núcleo implantado 2026-10-16; bibliografia e direitos em aberto |
 
 ## Ordem linguística inicialmente proposta para MAG-REP-001
 
