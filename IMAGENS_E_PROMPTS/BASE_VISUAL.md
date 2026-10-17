@@ -1,73 +1,112 @@
 # Base Visual — Imagens e Prompts
 
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-16  
+**Versão:** 2.0
 
-Esta pasta integra o banco criativo; não é só galeria.
+Esta pasta integra o banco de criação. Não é apenas galeria.
 
-## Direção visual registrada
+## 1. Princípio visual geral registrado
 
-Em projetos conceituais, Samuel indicou preferência por imagens cujo objetivo principal é **sensação e ideia**, não acumulação de detalhe. A imagem deve comunicar conceito antes de ornamentação.
+Para projetos conceituais, Samuel indicou uma direção em que **a sensação e a ideia importam mais que a acumulação de detalhe**.
 
-Isso não deve ser aplicado automaticamente a todos os livros; é uma direção contextual registrada.
+A imagem deve conseguir sobreviver conceitualmente à redução de elementos.
 
-## Registro por imagem
+Isso não significa minimalismo obrigatório. Significa:
+- conceito antes de decoração;
+- sensação antes de virtuosismo técnico;
+- símbolo antes de ruído;
+- composição a serviço da ideia.
 
-Cada imagem deve receber:
-- imagem_id;
-- obra;
-- arquivo;
-- data;
-- versão;
-- função: capa, concept art, personagem, cenário, símbolo, editorial, storyboard, identidade;
-- descrição integral;
-- sensação/intenção;
-- conceito central;
-- cena/personagem associado;
-- prompt original;
-- prompt atualizado;
-- negative prompt;
-- ferramenta/modelo, quando conhecido;
-- proporção;
-- referências;
-- feedback do autor;
-- elementos obrigatórios;
-- elementos proibidos;
-- status.
+## 2. Core Visions — direção visual registrada em 14/04/2026
 
-## Arquivos visuais presentes nesta sessão
+Quando uma obra for formalmente identificada como Core Visions, existe uma linguagem-base documentada:
 
+### Cores
+- Azul — visão e lógica.
+- Preto/Branco — controle e domínio.
+- Roxo — mistério e profundidade.
+
+### Tipografia
+- títulos minimalistas;
+- espaçamento amplo;
+- aparência fria/controlada;
+- corpo de texto limpo e legível.
+
+### Elementos
+- diagramas mentais;
+- símbolos quase místicos, mas racionais;
+- respiro visual;
+- identidade de “objeto” e não apenas livro.
+
+Não aplicar automaticamente a livros que não forem confirmados como Core Visions.
+
+## 3. Registro obrigatório por imagem
+
+- imagem_id
+- obra_id
+- arquivo
+- data_criacao
+- data_importacao
+- versão
+- função
+- descrição visual integral
+- sensação/intenção
+- conceito central
+- cena/personagem/conceito
+- prompt original
+- prompt revisado
+- negative prompt
+- ferramenta/modelo
+- proporção
+- referências
+- feedback autoral
+- elementos obrigatórios
+- elementos proibidos
+- status
+
+## 4. Referências visuais presentes na sessão de 2026-10-16
+
+Arquivos locais disponíveis:
 - FORMULA NINJA 2000.png
 - FORMULA NINJA 3000.png
 - FORMULA NINJA 4000.png
 
-**Status:** referência disponível no Laboratório, mas associação com obra/conceito ainda não definida. Não inferir função apenas pelo nome.
+### Status de associação
+**NÃO ASSOCIADOS A UMA OBRA.**
 
-> Observação técnica deste update: o conector GitHub usado nesta sessão permite gravação textual, mas os binários locais dessas três imagens não foram inseridos automaticamente no repositório nesta passagem. Os nomes e a necessidade de associação ficaram preservados aqui para posterior importação binária, sem fingir que os arquivos já foram enviados.
+Não inferir relação pelo nome do arquivo.
 
-## Template de prompt
+### Status técnico
+Os arquivos binários estão disponíveis no ambiente de trabalho, mas o conector textual de GitHub usado para esta edição não oferece passagem direta do arquivo local como upload binário. A base preserva os nomes e o estado de associação; o upload do binário deve ser feito quando houver um caminho seguro de transferência sem converter ou degradar o original.
+
+Não registrar como “imagem enviada” até o binário existir de fato no repositório.
+
+## 5. Template de prompt visual
 
 **Prompt ID:**  
 **Obra:**  
+**Imagem associada:**  
 **Data de criação:**  
 **Última atualização:**  
-**Função:**  
+**Função:** capa / concept art / personagem / cenário / símbolo / editorial / storyboard  
 **Status:** confirmado / provisório / referência / rejeitado
 
 ### Intenção
-O que a imagem deve fazer o espectador sentir ou entender?
+O que a imagem deve fazer o espectador sentir ou compreender?
 
 ### Conceito central
-Qual ideia precisa sobreviver mesmo se detalhes forem removidos?
+Qual ideia deve permanecer mesmo se detalhes forem retirados?
 
 ### Composição
 - enquadramento;
 - distância;
 - ponto de vista;
 - posição dos elementos;
-- relação figura/fundo;
+- figura/fundo;
 - espaço negativo;
 - direção do olhar;
-- escala.
+- escala;
+- hierarquia visual.
 
 ### Linguagem visual
 - técnica;
@@ -77,23 +116,33 @@ Qual ideia precisa sobreviver mesmo se detalhes forem removidos?
 - época;
 - referências estéticas;
 - luz;
-- atmosfera.
+- atmosfera;
+- densidade de detalhe.
 
 ### Elementos obrigatórios
+Registrar explicitamente.
 
 ### Elementos proibidos
+Registrar explicitamente.
 
-### Prompt integral V1
-Guardar sem apagar.
+### Prompt V1
+Preservar integralmente.
 
-### Revisão V2
-Registrar o que mudou e por quê.
+### Revisões
+V2, V3, V4 etc., com motivo das alterações.
 
 ### Feedback autoral
+Registrar linguagem do autor sem normalizar.
 
 ### Resultado associado
 Arquivo / imagem_id.
 
-## Regra de evolução
+## 6. Regra de evolução
 
-Prompts não devem ser sobrescritos. O histórico da mudança visual faz parte da criação e precisa continuar reconstruível.
+Prompt e imagem formam uma genealogia criativa.
+
+Nunca:
+- sobrescrever o prompt original;
+- apagar versão rejeitada;
+- declarar uma imagem canônica sem aprovação;
+- associar imagem a obra só por semelhança estética.
