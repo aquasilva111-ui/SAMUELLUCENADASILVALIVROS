@@ -257,3 +257,11 @@ Foram integrados ao repositório:
 | TMAF-001 | The Myth of the Apocalypse: Fundamentalism | ensaio/projeto autoral sobre imaginários apocalípticos e fundamentalismo; inclui profecia autorrealizável e manifestação coletiva | obra independente até nova decisão; relação com Pronoia apenas sugerida pela IA | título e dois temas confirmados pelo autor; núcleo de criação, tratado, arquitetura provisória, base de dados, histórico e prompts visuais registrados em 2026-10-17 |
 
 **Pasta editorial:** [The Myth of the Apocalypse: Fundamentalism](LIVROS/THE_MYTH_OF_THE_APOCALYPSE_FUNDAMENTALISM/README.md). **Data de atualização:** 2026-10-17. O identificador técnico próprio evita reutilização de IDs legados. A tese interpretativa, as cinco partes sugeridas, o capítulo “The World Ends the Way We Expect It To”, as imagens conceituais e a conexão com Pronoia permanecem propostas da IA, ainda sem aprovação autoral. Os temas **self-fulfilling prophecy** e **collective manifestation** foram solicitados expressamente pelo autor.
+
+
+## Registros adicionados em 2026-10-17
+
+- **O Pilar e o Silício: A Arquitetura do Masculino Sagrado** — tratado de soberania masculina; título revisado por decisão autoral, sem a expressão «na Era Digital». Registro: [README](LIVROS/O_PILAR_E_O_SILICIO_A_ARQUITETURA_DO_MASCULINO_SAGRADO/README.md). Conteúdo original integral e detalhes dos três pilares pendentes de recuperação.
+- **The Gen Z Zeitgeist: Premature Burnout** — projeto da linha editorial de crônicas jornalísticas The Zeitgeist, potencialmente expansível a livro; não converter automaticamente em livro definitivo. Registro: [README](LIVROS/THE_GEN_Z_ZEITGEIST_PREMATURE_BURNOUT/README.md).
+
+**Atualização:** 2026-10-17.
