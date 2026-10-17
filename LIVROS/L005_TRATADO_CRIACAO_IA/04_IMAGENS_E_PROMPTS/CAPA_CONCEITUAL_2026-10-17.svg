@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<defs>
+  <linearGradient id="spectral" x1="0" x2="1">
+    <stop offset="0%" stop-color="#28d7ff"/>
+    <stop offset="25%" stop-color="#52e6a8"/>
+    <stop offset="50%" stop-color="#f5e300"/>
+    <stop offset="75%" stop-color="#ff8a00"/>
+    <stop offset="100%" stop-color="#ff2c00"/>
+  </linearGradient>
+</defs>
+<rect width="780" height="1000" x="0" y="0" fill="#050505"/>
+<rect width="820" height="1000" x="780" y="0" fill="#ffffff"/>
+<rect x="0" y="18" width="1600" height="8" fill="url(#spectral)"/>
+<rect x="0" y="974" width="1600" height="8" fill="url(#spectral)"/>
+<rect x="758" y="0" width="22" height="1000" fill="#0d0d0d"/>
+<text x="770" y="78" fill="#fff" font-family="Arial Black, sans-serif" font-size="20" transform="rotate(90 770 78)">INTELIGÊNCIA-COLETIVA-ORGANIZADA</text>
+<text x="770" y="665" fill="#fff" font-family="Arial Black, sans-serif" font-size="22" transform="rotate(90 770 665)">SAMUEL LUCENA DA SILVA</text>
+<text x="900" y="160" fill="#111" font-family="Arial Black, sans-serif" font-size="72" font-weight="900">Inteligência+</text>
+<text x="900" y="245" fill="#111" font-family="Arial Black, sans-serif" font-size="72" font-weight="900">organizada+</text>
+<text x="900" y="330" fill="#111" font-family="Arial Black, sans-serif" font-size="72" font-weight="900">coletiva=<tspan fill="#f05a00">IA</tspan></text>
+<text x="930" y="485" fill="#151515" font-family="Arial Black, sans-serif" font-size="34" font-weight="900">UM QUASE TRATADO</text>
+<text x="930" y="527" fill="#151515" font-family="Arial Black, sans-serif" font-size="34" font-weight="900">DE CRIAÇÃO</text>
+<text x="930" y="569" fill="#151515" font-family="Arial Black, sans-serif" font-size="34" font-weight="900">INTELECTUAL E</text>
+<text x="930" y="611" fill="#151515" font-family="Arial Black, sans-serif" font-size="34" font-weight="900">ARTÍSTICA COM</text>
+<text x="930" y="653" fill="#151515" font-family="Arial Black, sans-serif" font-size="34" font-weight="900">INTELIGÊNCIA</text>
+<text x="930" y="695" fill="#151515" font-family="Arial Black, sans-serif" font-size="34" font-weight="900">ARTIFICIAL</text>
+<text x="995" y="865" fill="#f1ce00" font-family="Arial Black, sans-serif" font-size="46" font-weight="900">SAMUEL LUCENA</text>
+<text x="1085" y="915" fill="#f1ce00" font-family="Arial Black, sans-serif" font-size="46" font-weight="900">DA SILVA</text>
+<text x="75" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="28">E se a IA nunca tivesse sido realmente artificial?</text>
+<text x="75" y="210" fill="#aaa" font-family="Arial, sans-serif" font-size="20">Mockup vetorial conceitual • update 2026-10-17</text>
+<text x="75" y="820" fill="#fff" font-family="Arial, sans-serif" font-size="24">A máquina pode organizar a inteligência.</text>
+<text x="75" y="855" fill="#fff" font-family="Arial, sans-serif" font-size="24">A inteligência continua vindo de nós.</text>
+</svg>
