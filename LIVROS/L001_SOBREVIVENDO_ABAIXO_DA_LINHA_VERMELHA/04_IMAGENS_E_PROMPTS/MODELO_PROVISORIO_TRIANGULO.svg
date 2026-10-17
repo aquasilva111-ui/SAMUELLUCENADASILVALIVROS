@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1800" viewBox="0 0 1600 1800" role="img" aria-labelledby="title desc">
+  <title id="title">Modelo Provisório do Triângulo — Linha Vermelha e Linha Laranja</title>
+  <desc id="desc">Visual de desenvolvimento não canônico criado em 2026-10-17. Um triângulo dividido em zonas horizontais: região vermelha, transição vermelho-laranja, região laranja e área superior ainda indefinida.</desc>
+  <defs>
+    <clipPath id="tri">
+      <polygon points="800,140 150,1600 1450,1600"/>
+    </clipPath>
+  </defs>
+  <rect width="1600" height="1800" fill="#f6f3ee"/>
+  <g clip-path="url(#tri)">
+    <rect x="0" y="1050" width="1600" height="650" fill="#b51f24"/>
+    <rect x="0" y="900" width="1600" height="150" fill="#df5b2a"/>
+    <rect x="0" y="620" width="1600" height="280" fill="#e8872d"/>
+    <rect x="0" y="0" width="1600" height="620" fill="#ded8cf"/>
+  </g>
+  <polygon points="800,140 150,1600 1450,1600" fill="none" stroke="#171717" stroke-width="8"/>
+  <line x1="394" y1="1050" x2="1206" y2="1050" stroke="#171717" stroke-width="7"/>
+  <line x1="461" y1="900" x2="1139" y2="900" stroke="#171717" stroke-width="5" stroke-dasharray="18 14"/>
+  <line x1="585" y1="620" x2="1015" y2="620" stroke="#171717" stroke-width="4"/>
+  <text x="800" y="1350" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#ffffff">ABAIXO DA LINHA VERMELHA</text>
+  <text x="800" y="995" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#ffffff">FRONTEIRA VERMELHA–LARANJA</text>
+  <text x="800" y="790" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" fill="#171717">ZONA LARANJA — DEFINIÇÃO EM DESENVOLVIMENTO</text>
+  <text x="800" y="430" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#171717">ZONAS SUPERIORES AINDA NÃO DEFINIDAS</text>
+  <text x="800" y="1685" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#555555">PROVISÓRIO — NÃO CANÔNICO — 2026-10-17</text>
+  <text x="800" y="1730" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#666666">Não representa proporções populacionais. A geometria e os cortes aguardam metodologia.</text>
+</svg>
