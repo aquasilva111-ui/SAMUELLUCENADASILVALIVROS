@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="900" viewBox="0 0 1900 900">
+<rect width="1900" height="900" fill="white"/>
+<style>.t{font-family:Arial,Helvetica,sans-serif;fill:#111}.h{font-size:46px;font-weight:700}.b{font-size:27px;font-weight:700}.s{font-size:23px}</style>
+<text x="950" y="80" text-anchor="middle" class="t h">Convenção → Esfera → Pêndulo → Manifestação</text>
+<rect x="70" y="300" width="250" height="210" rx="22" fill="white" stroke="#111" stroke-width="4"/>
+ <text x="195" y="365" text-anchor="middle" class="t b">CORE</text>
+ <text x="195" y="420" text-anchor="middle" class="t s">WOUND · FEAR · VALUE</text><text x="195" y="454" text-anchor="middle" class="t s">HOPE · BELIEF</text><rect x="390" y="300" width="250" height="210" rx="22" fill="white" stroke="#111" stroke-width="4"/>
+ <text x="515" y="365" text-anchor="middle" class="t b">CONVENÇÃO</text>
+ <text x="515" y="420" text-anchor="middle" class="t s">síntese reutilizável</text><text x="515" y="454" text-anchor="middle" class="t s">de significado</text><rect x="710" y="300" width="250" height="210" rx="22" fill="white" stroke="#111" stroke-width="4"/>
+ <text x="835" y="365" text-anchor="middle" class="t b">ESFERA</text>
+ <text x="835" y="420" text-anchor="middle" class="t s">potência · direção</text><text x="835" y="454" text-anchor="middle" class="t s">prioridade</text><rect x="1030" y="300" width="250" height="210" rx="22" fill="white" stroke="#111" stroke-width="4"/>
+ <text x="1155" y="365" text-anchor="middle" class="t b">PÊNDULO</text>
+ <text x="1155" y="420" text-anchor="middle" class="t s">dinâmica recorrente</text><text x="1155" y="454" text-anchor="middle" class="t s">oscilação / convergência</text><rect x="1350" y="300" width="250" height="210" rx="22" fill="white" stroke="#111" stroke-width="4"/>
+ <text x="1475" y="365" text-anchor="middle" class="t b">COMPORTAMENTO</text>
+ <text x="1475" y="420" text-anchor="middle" class="t s">decisão · ação</text><text x="1475" y="454" text-anchor="middle" class="t s">relação</text><rect x="1670" y="300" width="250" height="210" rx="22" fill="white" stroke="#111" stroke-width="4"/>
+ <text x="1795" y="365" text-anchor="middle" class="t b">REALIDADE</text>
+ <text x="1795" y="420" text-anchor="middle" class="t s">consequência</text><text x="1795" y="454" text-anchor="middle" class="t s">nova experiência</text>
+<line x1="320" y1="405" x2="380" y2="405" stroke="#111" stroke-width="4"/><polygon points="380,405 365,395 365,415" fill="#111"/><line x1="640" y1="405" x2="700" y2="405" stroke="#111" stroke-width="4"/><polygon points="700,405 685,395 685,415" fill="#111"/><line x1="960" y1="405" x2="1020" y2="405" stroke="#111" stroke-width="4"/><polygon points="1020,405 1005,395 1005,415" fill="#111"/><line x1="1280" y1="405" x2="1340" y2="405" stroke="#111" stroke-width="4"/><polygon points="1340,405 1325,395 1325,415" fill="#111"/><line x1="1600" y1="405" x2="1660" y2="405" stroke="#111" stroke-width="4"/><polygon points="1660,405 1645,395 1645,415" fill="#111"/>
+<path d="M1795 560 C1600 760, 450 760, 190 560" fill="none" stroke="#555" stroke-width="4"/>
+<polygon points="190,560 220,555 205,585" fill="#555"/>
+<text x="950" y="735" text-anchor="middle" class="t s">A experiência retorna ao sistema e pode confirmar, revisar ou romper Convenções.</text>
+<text x="950" y="800" text-anchor="middle" class="t s">“A Convenção é conteúdo sintetizado. A Esfera é potência. O Pêndulo é dinâmica. A manifestação é resultado.”</text>
+<text x="950" y="850" text-anchor="middle" class="t s">L009 — atualização 2026-10-17</text>
+</svg>
