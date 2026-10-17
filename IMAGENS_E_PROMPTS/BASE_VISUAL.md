@@ -146,3 +146,22 @@ Nunca:
 - apagar versão rejeitada;
 - declarar uma imagem canônica sem aprovação;
 - associar imagem a obra só por semelhança estética.
+
+
+## Assets editoriais de MAG-AUT-002 — Magia das Sombras Plutônica
+
+**Adicionado em:** 2026-10-17  
+**Local:** LIVROS/MAG-AUT-002_MAGIA_DAS_SOMBRAS_PLUTONICA/IMAGENS_E_PROMPTS/
+
+### Imagens SVG registradas
+- IMG-MAG-AUT-002-001 — FORMULA_PLUTONICA.svg — Potência do Outro → Controle → Extração → Concentração.
+- IMG-MAG-AUT-002-002 — TRIADE_SATURNO_PLUTAO_NETUNO.svg — Saída / Potência / Autodeterminação.
+- IMG-MAG-AUT-002-003 — ECONOMIA_PSIQUICA_PLUTONICA.svg — produção, controle, extração e concentração.
+
+### Prompts
+PROMPTS_DE_CRIACAO.md preserva capas, ilustrações conceituais, plutocracia sem caricatura, Saturno + Plutão, economia psíquica, autonomia e edições alternativas.
+
+### Regra de associação
+FORMULA NINJA 2000.png, FORMULA NINJA 3000.png e FORMULA NINJA 4000.png continuam NÃO ASSOCIADOS a MAG-AUT-002 ou MAG-AUT-003. A criação destes assets não altera o estado desses arquivos.
+
+**Última atualização desta seção:** 2026-10-17
