@@ -798,3 +798,37 @@ Regra visual: imagens devem priorizar sensação e ideia, com símbolos legívei
 **Caminho:** `LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md`
 
 A subbase organiza de forma rastreável título autoral, tese proposta pela IA, matriz de analogias, 16 princípios candidatos, questões intelectuais, ética, imagens, prompts, evidência, fontes, versões e histórico. Regras: preservar fonte literal, não promover sugestões automaticamente a cânone e separar símbolos/metáforas de afirmações verificáveis. **Última atualização:** 2026-10-17.
+
+
+## SUBBASE ESPECIALIZADA — MAGIA DAS SOMBRAS
+
+**Adicionada em:** 2026-10-17
+
+A série autoral Magia e Bruxaria Popular Moderna Sincrético-Moderna passa a possuir subbase especializada para registrar, por planeta: força original; virtude e estado da definição; deformação sombria; objetivo; objeto de captura; mecanismo; fórmula; aplicações individual e coletiva; economia psíquica; contraparte virtuosa e seu status; combinações com outras forças; camadas epistêmicas; imagens; prompts; histórico.
+
+### Obras registradas
+
+**MAG-AUT-002 — Magia das Sombras Plutônica**
+- primeira formulação registrada: 2026-09-02;
+- objetivo: domínio/captura da riqueza e potência do outro;
+- fórmula: POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO;
+- forma virtuosa: em desenvolvimento.
+
+**MAG-AUT-003 — Magia das Sombras Netuniana**
+- primeira formulação registrada: 2026-09-03;
+- objetivo: dominar o livre-arbítrio;
+- mecanismo central: alienação e isolamento;
+- fórmula completa: ainda em desenvolvimento.
+
+### Regra de lacuna doutrinária
+Correspondências astrológicas, mitológicas ou esotéricas externas podem servir como pesquisa, mas não podem preencher automaticamente uma lacuna do sistema autoral.
+
+### Regra epistêmica
+Cada afirmação relevante deve distinguir conceito autoral, fato documentado, análise histórica/econômica/social, interpretação mágico-simbólica, hipótese, especulação e metáfora/símbolo.
+
+### Local das bases
+- LIVROS/MAG-AUT-002_MAGIA_DAS_SOMBRAS_PLUTONICA/BASE_DE_DADOS_DE_CRIACAO.md
+- LIVROS/MAG-AUT-003_MAGIA_DAS_SOMBRAS_NETUNIANA/BASE_DE_DADOS_DE_CRIACAO.md
+- NUCLEOS/MAGIA/BASE_DE_DADOS_DO_NUCLEO.md
+
+**Última atualização desta integração:** 2026-10-17
