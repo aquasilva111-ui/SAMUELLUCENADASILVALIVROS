@@ -19,7 +19,7 @@
 
 ## 2026-10-08 — Novos prefácios
 **Origem:** TXT de 553 linhas com 1883, 1888, 1890, 1892, 1893.  
-**Ação:** a assistência redige adaptações longas desses prefácios em duas mensagens grandes. A fonte íntegra foi preservada. **Estado da transferência das adaptações:** três rascunhos arquivados individualmente (1872, 1883, abertura); demais saídas longas devem ser recuperadas literalmente, não substituídas por sínteses falsas.  
+**Ação:** a assistência redige adaptações longas desses prefácios em duas mensagens grandes. A fonte íntegra foi preservada. **Estado da transferência das adaptações:** todos os seis prefácios adaptados (1872, 1883, 1888, 1890, 1892 e 1893) e a abertura receberam arquivos integrais individuais, com as versões em revisão preservadas.  
 **Status:** produção da conversa, revisão final pendente.
 
 ## 2026-10-08 — Abertura
