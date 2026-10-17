@@ -1,0 +1,37 @@
+{
+  "obra_id": "MAG-MODERNA-001",
+  "data_update": "2026-10-17",
+  "imagens": [
+    {
+      "id": "MAGMOD-IMG-01",
+      "arquivo": "a_retro_1980s_style_book_cover_poster_illustrati.png",
+      "tipo": "capa_gerada",
+      "prompt": "MAGMOD-PROMPT-01",
+      "dimensoes": "1024x1536",
+      "geracao": "c91c296a-79f6-4e67-959b-5e3595efff6e"
+    },
+    {
+      "id": "MAGMOD-IMG-02",
+      "arquivo": "a_vintage_occult_book_cover_poster_style_illustr.png",
+      "tipo": "capa_gerada",
+      "prompt": "MAGMOD-PROMPT-02",
+      "dimensoes": "1024x1536",
+      "geracao": "86ee2f16-2ea4-413b-8db3-6327438169f2"
+    },
+    {
+      "id": "MAGMOD-REF-01",
+      "arquivo": "IMG_8092.jpeg",
+      "tipo": "referencia_usuario"
+    },
+    {
+      "id": "MAGMOD-REF-02",
+      "arquivo": "IMG_8091.jpeg",
+      "tipo": "referencia_usuario"
+    },
+    {
+      "id": "MAGMOD-REF-03",
+      "arquivo": "IMG_8090.jpeg",
+      "tipo": "referencia_usuario"
+    }
+  ]
+}
