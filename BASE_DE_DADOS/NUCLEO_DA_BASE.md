@@ -686,3 +686,55 @@ Regra epistemológica:
 A subbase não permite produzir percentuais nacionais diretamente por impressão. Toda classificação deve preservar versão metodológica, período, fontes, justificativa e margem de incerteza.
 
 **Última atualização desta integração:** 2026-10-17
+
+
+## 26. SUBBASE ESPECIALIZADA — L009 PSICOLOGIA DOS CHAKRAS: ESFERAS DE PODER
+
+**Adicionada em:** 2026-10-17  
+**Arquivo mestre:** BASE_DE_DADOS/L009_PSICOLOGIA_DOS_CHAKRAS.md
+
+A subbase L009 especializa as entidades gerais desta base para registrar:
+
+- Esfera de Poder;
+- pergunta existencial;
+- Virtudes;
+- chakra;
+- glândula;
+- território corporal;
+- psicologia;
+- estados funcionais;
+- compensações entre Esferas;
+- Convenções de Realidade;
+- Gravidade de Realidade;
+- atividades de integração;
+- história do chakra;
+- deidades e cultos;
+- práticas mágicas;
+- Esferas Universais / Sephiroth;
+- dimensão coletiva em passado, presente e futuro;
+- pesquisas históricas, fisiológicas, psicológicas e religiosas;
+- imagens e prompts visuais;
+- versões de capítulo e migrações estruturais.
+
+### Regra de proveniência do L009
+
+A subbase deve distinguir explicitamente:
+1. cânone autoral;
+2. interpretação metafísica autoral;
+3. tradição histórica;
+4. fisiologia / ciência;
+5. analogia funcional;
+6. hipótese;
+7. possibilidade editorial;
+8. questão aberta.
+
+O núcleo canônico específico vive em:
+LIVROS/L009_PSICOLOGIA_DOS_CHAKRAS/01_NUCLEO_E_CANONE/NUCLEO_COMPLETO.md
+
+O esqueleto vigente vive em:
+LIVROS/L009_PSICOLOGIA_DOS_CHAKRAS/02_ESQUELETO/ESQUELETO_MESTRE_2026-10-17.md
+
+O banco visual vive em:
+LIVROS/L009_PSICOLOGIA_DOS_CHAKRAS/04_IMAGENS_E_PROMPTS/
+
+**Última atualização desta integração:** 2026-10-17
