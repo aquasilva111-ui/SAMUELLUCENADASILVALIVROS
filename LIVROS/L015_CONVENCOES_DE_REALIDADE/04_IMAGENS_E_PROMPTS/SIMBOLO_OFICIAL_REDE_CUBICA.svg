@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+<title id="title">Símbolo das Convenções de Realidade</title>
+<desc id="desc">Rede cúbica formada por círculos interconectados, com núcleo central.</desc>
+<rect width="512" height="512" fill="#ffffff"/>
+<g stroke="#111111" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <path d="M256 70 L405 154 L405 358 L256 442 L107 358 L107 154 Z"/>
+  <path d="M256 70 L256 442"/>
+  <path d="M107 154 L256 238 L405 154"/>
+  <path d="M107 358 L256 274 L405 358"/>
+  <path d="M183 197 L256 238 L329 197"/>
+  <path d="M183 315 L256 274 L329 315"/>
+  <path d="M183 197 L183 315"/>
+  <path d="M329 197 L329 315"/>
+  <path d="M183 197 L256 256 L329 197"/>
+  <path d="M183 315 L256 256 L329 315"/>
+</g>
+<g fill="#111111">
+  <circle cx="256" cy="70" r="22"/>
+  <circle cx="107" cy="154" r="22"/>
+  <circle cx="405" cy="154" r="22"/>
+  <circle cx="107" cy="358" r="22"/>
+  <circle cx="405" cy="358" r="22"/>
+  <circle cx="256" cy="442" r="22"/>
+  <circle cx="256" cy="238" r="16"/>
+  <circle cx="256" cy="274" r="16"/>
+  <circle cx="183" cy="197" r="16"/>
+  <circle cx="329" cy="197" r="16"/>
+  <circle cx="183" cy="315" r="16"/>
+  <circle cx="329" cy="315" r="16"/>
+  <circle cx="256" cy="256" r="30"/>
+</g>
+</svg>
