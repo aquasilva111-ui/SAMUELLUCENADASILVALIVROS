@@ -351,4 +351,34 @@ Nenhuma versão anterior relevante deve ser destruída. A genealogia intelectual
 
 Não apagar registros históricos. Quando uma tese mudar, criar nova versão e marcar a anterior como superada, preservando data.
 
+
+## ENTIDADE UPDATE_2026_10_17 — expansão de registro
+
+### Manuscritos adicionados
+- MPS-02 — A Rede Mercuriana — versão horizontal integral em `07_MANUSCRITO/CAPITULO_02_A_REDE_MERCURIANA.md`.
+- MPS-03 — O Reino Sincrético — versão horizontal integral em `07_MANUSCRITO/CAPITULO_03_O_REINO_SINCRETICO.md`.
+
+### Núcleo detalhado
+- arquivo: `01_NUCLEO_E_CANONE/NUCLEO_DA_BASE_DE_DADOS.md`
+- função: consolidar identidade, teses, leis, cadeia cosmológica, voz, migração do manuscrito antigo, estado de capítulos e sistema visual.
+
+### Arquivos visuais e prompts
+- `04_IMAGENS_E_PROMPTS/PROMPTS_VISUAIS_MESTRES.md`
+- `04_IMAGENS_E_PROMPTS/IMG_QUINTO_ELEMENTO_RELACAO.svg`
+- outros diagramas permanecem no inventário de produção até geração/validação final.
+
+### Histórico
+- `05_HISTORICO/2026-10-17_GENEALOGIA_E_MIGRACAO.md`
+
+### Estado conceitual consolidado
+A passagem MPS-02 → MPS-03 → MPS-04 funciona como cadeia causal:
+**infraestrutura de encontro → método de integração → princípio metafísico de relação.**
+
+### Proveniência
+O manuscrito primitivo das Sete Esferas é reconhecido como ancestral intelectual dos dois livros atuais. Preservar conteúdo e classificar por SALVAR / EVOLUIR / MIGRAR / ARQUIVAR antes de qualquer exclusão.
+
+### Regra de densidade
+A base de dados não deve resumir até perder genealogia, nuances, fórmulas, cadeias causais, distinções epistemológicas ou decisões autorais. Sempre preservar o máximo de informação descritiva de valor e registrar data de update.
+
+
 **Última atualização:** 2026-10-17
