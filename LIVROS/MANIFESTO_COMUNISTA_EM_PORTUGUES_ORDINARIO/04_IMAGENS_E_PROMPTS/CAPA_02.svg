@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800" role="img" aria-label="Capa conceito com ondas de comunicação">
+<rect width="1200" height="1800" fill="#8f1c28"/>
+<g fill="none" stroke="#efc8af" opacity=".42" stroke-width="5">
+<circle cx="610" cy="982" r="140"/><circle cx="610" cy="982" r="225"/><circle cx="610" cy="982" r="320"/><circle cx="610" cy="982" r="420"/><circle cx="610" cy="982" r="530"/><circle cx="610" cy="982" r="655"/><circle cx="610" cy="982" r="785"/></g>
+<rect x="483" y="870" width="260" height="230" fill="#f1e7d3" stroke="#27201e" stroke-width="10"/>
+<path d="M514 904 H710 M514 940 H710 M514 976 H710 M514 1012 H710 M514 1048 H678" stroke="#7d554b" stroke-width="10"/>
+<rect x="50" y="63" width="1100" height="660" fill="#8f1c28" opacity=".98"/>
+<text x="74" y="235" fill="#f6ead7" font-family="Arial,sans-serif" font-size="155" font-weight="900" textLength="1040" lengthAdjust="spacingAndGlyphs">MANIFESTO</text>
+<text x="74" y="405" fill="#f6ead7" font-family="Arial,sans-serif" font-size="155" font-weight="900" textLength="1040" lengthAdjust="spacingAndGlyphs">COMUNISTA</text>
+<text x="78" y="517" fill="#f6ead7" font-family="Arial,sans-serif" font-size="70" font-weight="800">EM PORTUGUÊS</text>
+<text x="75" y="662" fill="#f6ead7" font-family="Arial,sans-serif" font-size="119" font-weight="900">ORDINÁRIO</text>
+<rect x="0" y="1400" width="1200" height="400" fill="#24201d"/>
+<text x="78" y="1555" fill="#f6ead7" font-family="Georgia,serif" font-size="77" font-weight="bold">Karl Marx</text>
+<text x="78" y="1665" fill="#f6ead7" font-family="Georgia,serif" font-size="77" font-weight="bold">Friedrich Engels</text>
+</svg>
