@@ -1,6 +1,6 @@
 # Núcleos de Criação — Índice
 
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Escopo:** somente livros pessoais de Samuel.
 
 O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são estáveis e não devem ser renumerados quando uma obra for realocada para outro repositório.
@@ -30,6 +30,9 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 - L022 — AI-HUMANIZE-2003
 - L023 — Sabatismo Frankista e A Teoria da Escatologia
 
+- L025 — Magia das Sombras Plutônica
+- L026 — Magia das Sombras Netuniana
+
 ## ID reservado / realocado
 
 - L013 — LOHAN — realocado para Aesthetic Cinematic Universe; não pertence mais à estrutura pessoal deste repositório.
@@ -51,3 +54,17 @@ Primeira republicação:
 
 ### Regra
 Core Visions e Beauty Trending não são aplicados automaticamente ao Núcleo Magia.
+
+
+## Expansão do Núcleo Magia confirmada em 2026-10-17
+
+### MAG-AUT-002 — L025 — Magia das Sombras Plutônica
+Obra autoral de Samuel. Núcleo conceitual formalizado em 2026-09-02 e integrado ao repositório em 2026-10-17. Fórmula canônica: POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO.
+
+### MAG-AUT-003 — L026 — Magia das Sombras Netuniana
+Obra autoral em estado embrionário. Conceito registrado em 2026-09-03: domínio do livre-arbítrio por alienação e isolamento. A fórmula detalhada e a forma virtuosa permanecem abertas.
+
+### Regra
+Os volumes de Magia das Sombras compartilham o princípio de autonomia da coleção, mas cada planeta deve conservar mecanismo, virtude, deformação, objeto de captura e histórico próprios. Não preencher automaticamente um planeta a partir de outro.
+
+**Última atualização desta expansão:** 2026-10-17
