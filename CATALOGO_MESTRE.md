@@ -20,7 +20,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L011 | The Inner Villain | psicologia, sombra, antagonismo interno | independente | conceito |
 | L012 | The Authenticity & My Diamond Mind: The Biography of a 22 Year Old | autobiografia | autobiografia de Samuel | conceito |
 | L014 | The Alternative Reality of Gen Z | sociologia geracional, cultura, futuro | eixo Gen Z | conceito |
-| L015 | CONVENÇÕES DE REALIDADE — Volume 1: Conceito, Teoria e Inteligência Artificial | teoria autoral, realidade, IA | série / volume 1 | desenvolvimento |
+| L015 | CONVENÇÕES DE REALIDADE — Volume 1: Conceito, Teoria e Inteligência Artificial | teoria autoral, realidade, cognição, IA, Autômatos | série / volume 1 | tratado, banco de dados, esqueleto de 16 capítulos, Autômatos e identidade visual atualizados em 2026-10-17 |
 | L016 | Sociedades Solares e o Dilema Lunar | teoria social / civilizacional | a definir | conceito |
 | L017 | Personal Love: The Collective Power | amor, psicologia, poder coletivo | a definir | conceito |
 | L018 | Predictive Hisstory and Herstory | história, revisionismo, teoria social, futuro | coleção de vários volumes | metodologia definida |
@@ -156,3 +156,30 @@ Exemplos iniciais citados pelo autor: racismo, xenofobia e feminicídio. A compa
 **Tratado:** [Tratado de Criação 2026-10-17](LIVROS/L006_BRASIL_GIGANTE_ATROFICO/01_NUCLEO_E_CANONE/TRATADO_DE_CRIACAO_2026-10-17.md).  
 **Banco de dados:** [Banco de Dados Criativo 2026-10-17](LIVROS/L006_BRASIL_GIGANTE_ATROFICO/01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md).  
 **Última atualização desta inclusão:** 2026-10-17.
+
+
+## Atualização L015 — 2026-10-17
+
+**Convenções de Realidade — Volume 1: Conceito, Teoria e Inteligência Artificial** recebeu atualização estrutural maior.
+
+Foram registrados:
+- tratado de criação extensivo;
+- banco de dados criativo com unidades conceituais;
+- arquitetura de Ideias-Crenças, Alcateias, Convenções, Gravidade, Crenças Guarda-Chuva e Grande Núcleo;
+- protocolo Eu acredito / Eu tenho medo / Eu tenho esperança / Eu valorizo / Ferida original;
+- Fato / Ideologia / Sentir / Intuição;
+- eixos Expansivo/Limitante e Criativo/Destrutivo;
+- Paranoia/Pronoia;
+- reconhecimento, consolidação e memória sintética;
+- Autômatos e Inteligência Organizada Unida;
+- esqueleto atual de 16 capítulos;
+- Beats estruturais completos dos capítulos 1 e 2;
+- identidade visual de rede cúbica;
+- três diagramas SVG e prompts de criação;
+- histórico de atualização e regras epistemológicas.
+
+**Arquivo editorial:** [L015 — Convenções de Realidade](LIVROS/L015_CONVENCOES_DE_REALIDADE/README.md).  
+**Tratado:** [Tratado de Criação 2026-10-17](LIVROS/L015_CONVENCOES_DE_REALIDADE/01_NUCLEO_E_CANONE/TRATADO_DE_CRIACAO_2026-10-17.md).  
+**Banco:** [Banco de Dados Criativo 2026-10-17](LIVROS/L015_CONVENCOES_DE_REALIDADE/01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md).  
+**Esqueleto:** [Esqueleto Atual 2026-10-17](LIVROS/L015_CONVENCOES_DE_REALIDADE/02_ESQUELETO/ESQUELETO_ATUAL_2026-10-17.md).  
+**Última atualização:** 2026-10-17.
