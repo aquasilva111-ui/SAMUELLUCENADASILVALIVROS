@@ -3,7 +3,7 @@
 **ID do núcleo:** NUC-MAGIA  
 **Criador / direção autoral:** Samuel Lucena da Silva  
 **Data de criação:** 2026-10-16  
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Estado:** ativo / estrutura editorial inicial  
 **Escopo:** obras autorais, estudos, traduções e republicações editoriais ligadas a magia, astrologia histórica, ocultismo e tradições esotéricas, desde que Samuel confirme sua inclusão.
 
@@ -148,3 +148,22 @@ Não misturar automaticamente com Core Visions.
 Não misturar automaticamente com Beauty Trending.  
 Não dissolver magia dentro de psicologia, estética ou espiritualidade genérica.  
 Cada obra conserva sua própria identidade, proveniência, cânone e histórico.
+
+## 11. Subnúcleo de republicações planetárias — 2026-10-17
+
+Foi criado o subnúcleo NUC-MAGIA-REP-PLAN para organizar exclusivamente seis obras históricas:
+
+- MAG-REP-002 — Three Books of Occult Philosophy — Agrippa;
+- MAG-REP-003 — Heptameron;
+- MAG-REP-004 — Arbatel of Magick;
+- MAG-REP-005 — The Key of Solomon the King;
+- MAG-REP-006 — De Vita Libri Tres — Marsilio Ficino;
+- MAG-REP-007 — Picatrix / Ghāyat al-Ḥakīm.
+
+Local principal: REPUBLICACOES/MAGIA/COLECAO_MAGIA_PLANETARIA/
+
+O subnúcleo possui tratado editorial, banco de dados de criação, dossiê dos seis livros, matriz de direitos, imagens SVG, prompts e histórico próprio.
+
+**Regra de escopo:** não adicionar outros títulos automaticamente. A inclusão de qualquer sétimo livro exige decisão autoral explícita.
+
+**Última atualização:** 2026-10-17
