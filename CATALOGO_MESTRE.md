@@ -90,3 +90,8 @@ Não inferir relação automática com Psicologia dos Chakras.
 | TOM-001 | The Oppressed Men | crítica das masculinidades, opressão de homens em sociedades patriarcais, limites da generalização de privilégio masculino | obra independente por enquanto; relações com outros livros ainda não aprovadas | núcleo completo da conversa, Convenções de Realidade, pesquisa, prompts e histórico registrados em 2026-10-17 |
 
 **Arquivo editorial:** [The Oppressed Men](LIVROS/THE_OPPRESSED_MEN/README.md). A numeração TOM-001 foi escolhida para evitar reutilizar IDs existentes. **Última atualização:** 2026-10-17.
+
+
+## Projeto autoral sem ID definitivo — 2026-10-17
+
+**Anitta e o Avatar de Lilith — A História da Female Rage (Raiva Feminina)** — ensaio narrativo mágico, psicologia cultural, arquétipos, cultura pop, gênero, persona e teoria autoral. **Estado:** manuscrito desenvolvido; Prefácio + 12 capítulos + Epílogo estruturados; núcleo de criação, base de dados, cadeia causal, regras epistemológicas, textos integrais disponíveis, identidade visual, prompts, histórico e materiais Amazon KDP registrados. **Publicação planejada:** eBook Kindle + paperback. **Pasta:** [LIVROS/ANITTA_E_O_AVATAR_DE_LILITH_A_HISTORIA_DA_FEMALE_RAGE](LIVROS/ANITTA_E_O_AVATAR_DE_LILITH_A_HISTORIA_DA_FEMALE_RAGE/README.md). **ID:** pendente de decisão autoral; não reutilizar L013. **Última atualização desta inclusão:** 2026-10-17.
