@@ -69,3 +69,10 @@ Dados confirmados:
 - número de volume: ainda não definido.
 
 Não inferir relação automática com Psicologia dos Chakras.
+
+
+## Obra autoral adicionada em 2026-10-17
+
+| MAG-MODERNA-001 | Magia Moderna — Como dominar o seu(s) Daimon(s) para o seu benefício e sucesso | magia psicológico-filosófica, Daimons, Energeticum Petroleum, refino emocional | núcleo NUC-MAGIA; relação com L025 ainda a definir | núcleo de criação, tratado, identidade visual e banco de dados iniciados | 
+
+**Pasta:** [LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS](LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/README.md). Identificador local dedicado, sem alterar numeração legada nem IDs duplicados existentes. **Última atualização:** 2026-10-17.
