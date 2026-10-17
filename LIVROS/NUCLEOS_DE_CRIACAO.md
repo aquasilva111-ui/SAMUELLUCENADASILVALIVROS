@@ -61,3 +61,8 @@ Em 2026-10-17, a série **Esferas do Poder** recebeu seu primeiro núcleo espec�
 - **L008-TMOS — The Male from the Orange Sphere**.
 
 O material vive dentro de `LIVROS/L008_ESFERAS_DO_PODER/` e possui cópia estruturada no núcleo da base de dados. A relação com chakras continua aberta e não deve ser inferida.
+
+
+## Novo núcleo individual — 2026-10-17
+
+- **MAG-MODERNA-001 — Magia Moderna: Como dominar o seu(s) Daimon(s) para o seu benefício e sucesso** — obra autoral de Samuel Lucena da Silva. Local: `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/`. Núcleo editorial NUC-MAGIA. Mantém ID dedicado provisório para não renumerar registros históricos do repositório.
