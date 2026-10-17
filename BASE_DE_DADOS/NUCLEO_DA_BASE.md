@@ -789,3 +789,12 @@ Regra de psicologia conceitual: “ego”, “alter ego” e “superego” apar
 Regra visual: imagens devem priorizar sensação e ideia, com símbolos legíveis de vigilância, prova, divisão interna, proximidade afetiva, julgamento social e identidade condicionada.
 
 **Última atualização desta integração:** 2026-10-17
+
+
+## 28. SUBBASE DE CRIAÇÃO — PRINCÍPIOS MÁGICOS DO MARKETING
+
+**Adicionada em:** 2026-10-17  
+**Obra:** MAG-AUT-003 — Princípios Mágicos do Marketing — Magia e Bruxaria Moderna  
+**Caminho:** `LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md`
+
+A subbase organiza de forma rastreável título autoral, tese proposta pela IA, matriz de analogias, 16 princípios candidatos, questões intelectuais, ética, imagens, prompts, evidência, fontes, versões e histórico. Regras: preservar fonte literal, não promover sugestões automaticamente a cânone e separar símbolos/metáforas de afirmações verificáveis. **Última atualização:** 2026-10-17.
