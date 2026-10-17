@@ -19,7 +19,6 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L010 | Mass Psychology: Social Petroleum — Volume 1: The Great War Against Lilith; The Suppression of Female Power | psicologia coletiva, gênero, história | coleção / volume 1 | conceito |
 | L011 | The Inner Villain | psicologia, sombra, antagonismo interno | independente | conceito |
 | L012 | The Authenticity & My Diamond Mind: The Biography of a 22 Year Old | autobiografia | autobiografia de Samuel | conceito |
-| L013 | LOHAN, o Maior Espião do Século 21 — Volume 1: A Missão Zombie e o Portal 888 | ficção, espionagem, aventura | série / volume 1 | conceito |
 | L014 | The Alternative Reality of Gen Z | sociologia geracional, cultura, futuro | eixo Gen Z | conceito |
 | L015 | CONVENÇÕES DE REALIDADE — Volume 1: Conceito, Teoria e Inteligência Artificial | teoria autoral, realidade, IA | série / volume 1 | desenvolvimento |
 | L016 | Sociedades Solares e o Dilema Lunar | teoria social / civilizacional | a definir | conceito |
@@ -29,6 +28,10 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L020 | Solar Attachment — Ancoramento do Sol | ficção | sucede The Mad King | conceito |
 | L021 | O Mistério Falo | a definir | a definir | título registrado |
 | L022 | AI-HUMANIZE-2003 | ficção científica, IA, humanidade | a definir | conceito |
+
+## Obra removida do catálogo pessoal por correção de escopo
+
+**L013 — LOHAN, o Maior Espião do Século 21** foi migrado conceitualmente para o repositório do **Aesthetic Cinematic Universe**, onde já existe documentação própria. O ID L013 fica reservado no histórico e não é reutilizado.
 
 ## Relações editoriais ainda abertas
 
