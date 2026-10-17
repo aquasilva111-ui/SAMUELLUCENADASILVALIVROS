@@ -18,7 +18,11 @@ Samuel inicialmente pensou em uma iniciativa de livros de comunismo, socialismo 
 - [Prefácio alemão 1872, adaptação mais ordinária](07_TEXTOS_ADAPTADOS/PREFACIO_1872.md)
 - [Prefácio alemão 1883, adaptação](07_TEXTOS_ADAPTADOS/PREFACIO_1883.md)
 - [Abertura “PARTIDO COMUNISTA”, adaptação](07_TEXTOS_ADAPTADOS/ABERTURA.md)
-- [Rastreio 1888, 1890, 1892, 1893](07_TEXTOS_ADAPTADOS/CONTROLE_1888_A_1893.md)
+- [Prefácio de 1888 — texto adaptado completo](07_TEXTOS_ADAPTADOS/PREFACIO_1888.md)
+- [Prefácio de 1890 — texto adaptado completo](07_TEXTOS_ADAPTADOS/PREFACIO_1890.md)
+- [Prefácio de 1892 — texto adaptado completo](07_TEXTOS_ADAPTADOS/PREFACIO_1892.md)
+- [Prefácio de 1893 — texto adaptado completo](07_TEXTOS_ADAPTADOS/PREFACIO_1893.md)
+- [Controle temático e histórico de 1888–1893](07_TEXTOS_ADAPTADOS/CONTROLE_1888_A_1893.md)
 - [Direção visual e prompts](04_IMAGENS_E_PROMPTS/PROMPTS.md)
 - [Mockup SVG tipográfico](04_IMAGENS_E_PROMPTS/CAPA_01.svg)
 - [Mockup SVG de propagação de ideias](04_IMAGENS_E_PROMPTS/CAPA_02.svg)
@@ -26,4 +30,4 @@ Samuel inicialmente pensou em uma iniciativa de livros de comunismo, socialismo 
 - [Questões abertas](06_MATERIAL_NAO_POSICIONADO/PENDENCIAS.md)
 
 ## Critério de autenticidade
-“Fonte fornecida” ≠ “obra alemã original” ≠ “adaptação contemporânea” ≠ “tradução aprovada para venda”. A tradução lusitana de base foi fornecida sem dados bibliográficos completos: verificar direitos antes de divulgação comercial. Os rascunhos ainda devem ser cotejados com texto alemão ou edição crítica.
+“Fonte fornecida” ≠ “obra alemã original” ≠ “adaptação contemporânea” ≠ “tradução aprovada para venda”. A tradução lusitana de base foi fornecida sem dados bibliográficos completos: verificar direitos antes de divulgação comercial. As seis adaptações de prefácios trabalhados (1872, 1883, 1888, 1890, 1892 e 1893), mais a abertura, foram arquivadas individualmente em versões longas, sem substituir o texto bruto integral. Os rascunhos ainda devem ser cotejados com texto alemão ou edição crítica.
