@@ -30,6 +30,8 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L022 | AI-HUMANIZE-2003 | ficção científica, IA, humanidade | a definir | conceito |
 | L023 | Sabatismo Frankista e A Teoria da Escatologia | história das religiões, messianismo, escatologia, Convenções de Realidade | ensaio histórico-teórico | núcleo de criação iniciado |
 
+| L024 | A Direita e a Extrema Direita São a Descrição do Diabo | ensaio crítico, filosofia política, simbolismo do Diabo e Convenções de Realidade | independente; conexões com Pronoia e outras obras apenas sugeridas | núcleo de criação iniciado em 2026-10-16 |
+
 | ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
 
 ## Obra removida do catálogo pessoal por correção de escopo
