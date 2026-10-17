@@ -58,3 +58,26 @@ Azul-noite, preto, dourado, estrelas, constelações e símbolos astrológicos; 
 ## Regra
 
 Cada obra deve ter seu próprio arquivo de identidade visual. Estes prompts são base de exploração, não arte final aprovada.
+
+
+## Linha visual autoral — Magia das Sombras
+
+**Adicionada em:** 2026-10-17  
+**Estado:** orientação; cada volume conserva identidade própria.
+
+Para estes livros, evitar reduzir “sombra” a horror, satanismo, demonologia ou witchcore.
+
+### MAG-AUT-002 — Plutão
+Eixos: potência concentrada; riqueza subterrânea; pressão e transformação; fluxo capturado; controle; extração; concentração; autonomia versus domínio; produção coletiva versus concentração vertical.
+
+Prompts completos: LIVROS/MAG-AUT-002_MAGIA_DAS_SOMBRAS_PLUTONICA/IMAGENS_E_PROMPTS/PROMPTS_DE_CRIACAO.md
+
+Diagramas: FORMULA_PLUTONICA.svg; TRIADE_SATURNO_PLUTAO_NETUNO.svg; ECONOMIA_PSIQUICA_PLUTONICA.svg.
+
+### MAG-AUT-003 — Netuno
+Ainda sem identidade visual definida. Não copiar automaticamente a linguagem plutônica. O núcleo confirmado é domínio do livre-arbítrio por alienação e isolamento.
+
+### Regra
+A iconografia planetária precisa distinguir força original, deformação sombria, interpretação social e imagem editorial. Um planeta não deve ser desenhado como maligno por natureza apenas porque o volume trata de sua sombra.
+
+**Última atualização:** 2026-10-17
