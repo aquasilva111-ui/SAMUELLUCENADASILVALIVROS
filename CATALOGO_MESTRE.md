@@ -83,3 +83,10 @@ Não inferir relação automática com Psicologia dos Chakras.
 | MAG-AUT-003 | Princípios Mágicos do Marketing — Magia e Bruxaria Moderna | marketing, simbologia, magia moderna, percepção, desejo, atenção | NUC-MAGIA; relações com “Magia às Massas” por aprovar | título autoral registrado; tratado conceitual e imagens/prompts propostos pela IA; núcleo criado em 2026-10-17 |
 
 **Arquivo da obra:** [Princípios Mágicos do Marketing](LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/README.md). A numeração MAG-AUT-003 evita reutilizar IDs L025 sobrepostos já existentes no catálogo. **Última atualização desta inclusão: 2026-10-17.**
+
+
+## Nova obra registrada — 2026-10-17
+
+| TOM-001 | The Oppressed Men | crítica das masculinidades, opressão de homens em sociedades patriarcais, limites da generalização de privilégio masculino | obra independente por enquanto; relações com outros livros ainda não aprovadas | núcleo completo da conversa, Convenções de Realidade, pesquisa, prompts e histórico registrados em 2026-10-17 |
+
+**Arquivo editorial:** [The Oppressed Men](LIVROS/THE_OPPRESSED_MEN/README.md). A numeração TOM-001 foi escolhida para evitar reutilizar IDs existentes. **Última atualização:** 2026-10-17.
