@@ -738,3 +738,10 @@ O banco visual vive em:
 LIVROS/L009_PSICOLOGIA_DOS_CHAKRAS/04_IMAGENS_E_PROMPTS/
 
 **Última atualização desta integração:** 2026-10-17
+
+
+## 26. Subbase específica — Magia Moderna (2026-10-17)
+
+Local: `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md`.
+
+Entidades: obra, unidade criativa, conceito, questão, imagem, prompt, proveniência, update. Os conceitos Daimon, Energeticum Petroleum, refinaria de alta tecnologia e domínio têm definições mínimas autorais e expansões propostas pela IA registradas separadamente. Origem das falas e prompts integrais documentados; vínculo interobras com L025 é referência, não fusão. **Data update:** 2026-10-17.
