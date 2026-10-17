@@ -208,3 +208,7 @@ O objetivo é permitir que cada livro e cada projeto editorial cresçam sem perd
 
 - **CPAE001 / PSI-REP-001**: [Como Pensa a Elite](REPUBLICACOES/PSICOLOGIA_DAS_MASSAS/CPAE001_COMO_PENSA_A_ELITE/README.md), nome escolhido por Samuel em 2026-10-10 para livros de psicologia das massas, interpretados como forma de entender o pensamento das minorias poderosas. Autor referido como “Jean” ainda não identificado; não substituir o autor histórico. Base editorial, sete núcleos, pesquisa, fontes, imagens SVG e prompts disponíveis. Registro no repositório: **2026-10-16**.
 - **Núcleo temático:** [Psicologia das Massas](NUCLEOS/PSICOLOGIA_DAS_MASSAS/README.md). Não confundir com os livros autorais de Samuel.
+
+## Edições adaptadas de clássicos históricos
+
+A iniciativa editorial de linguagem contemporânea de Samuel é registrada **separadamente das obras inéditas autorais** em [CATALOGO_ADAPTACOES.md](CATALOGO_ADAPTACOES.md). O primeiro projeto é [Manifesto Comunista em Português Ordinário](LIVROS/MANIFESTO_COMUNISTA_EM_PORTUGUES_ORDINARIO/README.md) — obra histórica de Marx e Engels em adaptação editorial dirigida por Samuel. **Update: 2026-10-16.**

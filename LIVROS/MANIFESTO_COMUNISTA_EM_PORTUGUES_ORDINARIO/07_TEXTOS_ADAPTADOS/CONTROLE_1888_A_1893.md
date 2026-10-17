@@ -1,0 +1,18 @@
+# Prefácios de 1888, 1890, 1892, 1893 — registro de continuidade e integridade
+**Update: 2026-10-16.**
+
+No diálogo foram produzidas adaptações **longas** e sequenciais de todos esses prefácios em linguagem ordinária. Os rascunhos extensos desses quatro prefácios foram agora **arquivados individualmente**, além de a fonte histórica de 553 linhas permanecer integral. Este arquivo funciona como controle de proveniência e temas, não substitui os quatro textos completos.
+
+### 1888 — pontos que a versão existente da conversa trabalhou, na ordem
+Liga dos Comunistas e caráter secreto; congresso novembro 1847 e impressões 1848; traduções iniciais; derrota operária parisiense de junho 1848 e a repressão após ela; julgamento dos comunistas de Colônia de outubro a novembro de 1852, penas e dissolução; ascensão da Internacional dos Trabalhadores; sindicatos britânicos, proudhonianos, lassalleanos; estratégia de Marx para programa amplo que permitisse educação da classe trabalhadora pelas lutas e debates; mudança entre 1864 e dissolução da Internacional; traduções inglesas, francesas, russas, dinamarquesas e espanholas, personalidades e jornais nomeados; tradução armênia frustrada em Constantinopla; razão pela qual “socialista” e “comunista” tinham sentidos políticos distintos em 1847; atribuição da tese socioeconômica central a Marx; formulação antes de 1845 e reencontro em Bruxelas; autoria da versão inglesa por Samuel Moore e notas adicionais de Engels.
+
+### 1890 — pontos na sequência e estrutura interna
+Nova edição alemã; Engels perdeu original alemão do prefácio à edição russa de 1882 e o retraduz; cita integralmente texto de Marx e Engels de 1882 sobre Estados Unidos e Rússia: papel material no capitalismo europeu, emigração e agricultura americanas, indústria, concorrência, concentração de propriedade, repressão czarista e movimentos russos, possibilidade condicional de usar terras comuns russas como ponto de partida comunista quando combinada a revolução na Europa ocidental. Depois, registro de traduções polonesa, dinamarquesa com omissões, francesa de 1886, espanhola de 1886, tentativa armênia; Samuel Moore e 1888; repressão e retomada do movimento, Internacional, diferença entre socialismo e comunismo em 1847; autoemancipação da classe operária; jornada de oito horas e 1º de maio de 1890; lamento “Pudesse Marx estar ainda ao meu lado”.
+
+### 1892 — pontos
+Nova edição polonesa, demanda pelo livro como indicador do crescimento industrial e da consciência dos trabalhadores; Polônia sob Império Russo, indústria concentrada, vantagem comercial, concorrência e tarifas, organização dos trabalhadores; independência nacional, lembrança 1848, levante polonês 1863, expectativas de Engels relativas aos trabalhadores poloneses e à autonomia de todos os povos europeus.
+
+### 1893 — pontos
+Março 1848, Milão e Berlim, divisão das nações e domínios estrangeiros, unificações; trabalhadores fazem barricadas, burguesia recebe ganhos, caso singular das reivindicações dos trabalhadores de Paris; limite socioeconômico da revolução socialista naquele estágio; capitalismo como transformador de estruturas feudais e criador da classe que pode superá-lo; independência para solidariedade internacional; Itália, Dante como transição entre época medieval e moderna e imagem de um novo Dante da era proletária.
+
+**Importação registrada em 2026-10-16:** `PREFACIO_1888.md`, `PREFACIO_1890.md`, `PREFACIO_1892.md` e `PREFACIO_1893.md` contêm as adaptações longas. Permanecem rascunhos de trabalho, não edições definitivas, e devem ser conferidos linha a linha com o texto de base.

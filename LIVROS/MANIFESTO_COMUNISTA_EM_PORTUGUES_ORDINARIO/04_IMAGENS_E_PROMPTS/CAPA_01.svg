@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800" role="img" aria-label="Capa editorial conceitual tipográfica de Manifesto Comunista em Português Ordinário">
+<rect width="1200" height="1800" fill="#f3ebd9"/>
+<rect x="65" y="64" width="1070" height="10" fill="#26201e"/>
+<rect x="65" y="116" width="248" height="30" fill="#ad2730"/>
+<text x="67" y="224" fill="#302b28" font-family="Arial,sans-serif" font-size="32" letter-spacing="5" font-weight="700">CLÁSSICO EM LINGUAGEM ATUAL</text>
+<text x="62" y="440" fill="#292321" font-family="Arial,sans-serif" font-size="170" font-weight="900" textLength="1067" lengthAdjust="spacingAndGlyphs">MANIFESTO</text>
+<text x="62" y="620" fill="#ad2730" font-family="Arial,sans-serif" font-size="166" font-weight="900" textLength="1067" lengthAdjust="spacingAndGlyphs">COMUNISTA</text>
+<path d="M65 685 H1135" stroke="#292321" stroke-width="7"/>
+<text x="69" y="799" fill="#292321" font-family="Arial,sans-serif" font-size="71" font-weight="800">EM PORTUGUÊS</text>
+<text x="68" y="922" fill="#292321" font-family="Arial,sans-serif" font-size="109" font-weight="900">ORDINÁRIO</text>
+<rect x="65" y="1010" width="1070" height="330" fill="#ad2730"/>
+<g fill="#f3ebd9" opacity=".92"><path d="M110 1050 v245 M142 1050 v245 M174 1050 v245 M206 1050 v245 M238 1050 v245 M270 1050 v245 M302 1050 v245 M334 1050 v245 M366 1050 v245 M398 1050 v245 M430 1050 v245 M462 1050 v245 M494 1050 v245 M526 1050 v245 M558 1050 v245 M590 1050 v245 M622 1050 v245 M654 1050 v245 M686 1050 v245 M718 1050 v245 M750 1050 v245 M782 1050 v245 M814 1050 v245 M846 1050 v245 M878 1050 v245 M910 1050 v245 M942 1050 v245 M974 1050 v245 M1006 1050 v245 M1038 1050 v245 M1070 1050 v245" stroke="#f3ebd9" stroke-width="5"/></g>
+<text x="70" y="1515" fill="#292321" font-family="Georgia,serif" font-size="79" font-weight="bold">Karl Marx</text>
+<text x="70" y="1615" fill="#292321" font-family="Georgia,serif" font-size="79" font-weight="bold">Friedrich Engels</text>
+<path d="M65 1692 H1135" stroke="#292321" stroke-width="8"/>
+</svg>
