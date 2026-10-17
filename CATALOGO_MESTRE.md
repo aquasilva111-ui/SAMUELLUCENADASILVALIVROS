@@ -11,7 +11,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L002 | Lei da Mente Privada | psicologia, autenticidade, pensamento | psicologia autoral | desenvolvimento conceitual |
 | L003 | Samuel e a Pronoia | autobiográfico, psicológico, espiritual-filosófico | relacionado à Pronoia | conceito |
 | L004 | Magia da Paranoia: O Diabo Todo-Poderoso | psicologia, paranoia, magia, símbolo | possível coleção de magia moderna | conceito |
-| L005 | Tratado de Criação Intelectual e Artística com Inteligência Artificial | autoria, criatividade, IA | tratado | desenvolvimento avançado |
+| L005 | Tratado de Criação Intelectual e Artística com Inteligência Artificial / Inteligência-Coletiva-Organizada | autoria, criatividade, IA, filosofia da tecnologia, governança informacional | tratado / manifesto | desenvolvimento avançado; núcleo completo, banco de dados, esqueleto, manifesto, epílogo, identidade visual e materiais Amazon consolidados em 2026-10-17 |
 | L006 | Brasil, o Gigante Autofágico Antropófago [título de trabalho atual] | Brasil, identidade, antropofagia, autofagia, alquimização, teoria social | formulação atual; “Gigante Atrófico Adormecido — Volume 1: Brasil Core” preservado como versão anterior; relação com L007 aberta | núcleo conceitual e banco de dados atualizados em 2026-10-17 |
 | L007 | Brasil Core: Um Fenômeno Muito Além da Internet | cultura brasileira, internet, identidade | relação com L006 aberta | conceito |
 | L008 | Esferas do Poder | psicologia autoral, poder, simbolismo, masculinidades | série; inclui **The Male from the Orange Sphere** (L008-TMOS), numeração interna ainda aberta | desenvolvimento conceitual; núcleo L008-TMOS criado em 2026-10-17 |
@@ -182,4 +182,39 @@ Foram registrados:
 **Tratado:** [Tratado de Criação 2026-10-17](LIVROS/L015_CONVENCOES_DE_REALIDADE/01_NUCLEO_E_CANONE/TRATADO_DE_CRIACAO_2026-10-17.md).  
 **Banco:** [Banco de Dados Criativo 2026-10-17](LIVROS/L015_CONVENCOES_DE_REALIDADE/01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md).  
 **Esqueleto:** [Esqueleto Atual 2026-10-17](LIVROS/L015_CONVENCOES_DE_REALIDADE/02_ESQUELETO/ESQUELETO_ATUAL_2026-10-17.md).  
+**Última atualização:** 2026-10-17.
+
+
+## Atualização L005 — 2026-10-17
+
+**Tratado de Criação Intelectual e Artística com Inteligência Artificial / Inteligência-Coletiva-Organizada** foi consolidado como um dos tratados autorais centrais do catálogo.
+
+### Núcleo atual
+A obra começou como tentativa de classificar graus de uso de IA em processos criativos e evoluiu para uma teoria de genealogia da inteligência, autoria, automação, propriedade, governança e rebranding tecnológico.
+
+### Conceito central
+**Inteligência-Coletiva-Organizada:** infraestrutura tecnologicamente mediada que organiza, relaciona, transforma e mobiliza conhecimento, linguagem, dados e estruturas produzidas coletivamente pela humanidade.
+
+### Conceitos registrados
+Inteligência-Coletiva-Organizada; Alucinação Relacional; Golemização; Desgolemização; Patente Humana; Eugenização da Criatividade; Autoria Humana Mediada por Sistemas de Linguagem; Democracia Informacional; Servidão Informacional.
+
+### Arquitetura atual
+11 capítulos principais + capítulo 8.2, incluindo Direito à Inteligência Coletiva, Golemização, Rebranding, Manifesto e epílogo “Depois da Inteligência Artificial”.
+
+### Arquivos
+- [README do L005](LIVROS/L005_TRATADO_CRIACAO_IA/README.md)
+- [Tratado de Criação](LIVROS/L005_TRATADO_CRIACAO_IA/01_NUCLEO_E_CANONE/TRATADO_DE_CRIACAO_2026-10-17.md)
+- [Banco de Dados Criativo](LIVROS/L005_TRATADO_CRIACAO_IA/01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md)
+- [Esqueleto Atual](LIVROS/L005_TRATADO_CRIACAO_IA/02_ESQUELETO/ESQUELETO_ATUAL_2026-10-17.md)
+- [Identidade Visual e Prompts](LIVROS/L005_TRATADO_CRIACAO_IA/04_IMAGENS_E_PROMPTS/IDENTIDADE_VISUAL_E_PROMPTS_2026-10-17.md)
+- [Capa Conceitual SVG](LIVROS/L005_TRATADO_CRIACAO_IA/04_IMAGENS_E_PROMPTS/CAPA_CONCEITUAL_2026-10-17.svg)
+- [Base de Dados Global](BASE_DE_DADOS/L005_TRATADO_CRIACAO_IA.md)
+
+### Formulações-chave
+“A inteligência não nasceu dentro da máquina. Atravessou a humanidade antes de chegar até ela.”
+
+“Automação não mede humanidade. Automação mede automação.”
+
+“A máquina pode organizar a inteligência. A inteligência continua vindo de nós.”
+
 **Última atualização:** 2026-10-17.
