@@ -15,7 +15,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L006 | Brasil, o Gigante Atrófico Adormecido — Volume 1: Brasil Core | Brasil, identidade, sociologia | série / volume 1 | conceito |
 | L007 | Brasil Core: Um Fenômeno Muito Além da Internet | cultura brasileira, internet, identidade | relação com L006 aberta | conceito |
 | L008 | Esferas do Poder | psicologia, poder, simbolismo | a definir | conceito |
-| L009 | Psicologia dos Chakras | psicologia, espiritualidade | a definir | conceito |
+| L009 | Psicologia dos Chakras: Esferas de Poder | psicologia, magia, simbolismo, espiritualidade, corpo, teoria social | a definir | desenvolvimento |
 | L010 | Mass Psychology: Social Petroleum — Volume 1: The Great War Against Lilith; The Suppression of Female Power | psicologia coletiva, gênero, história | coleção / volume 1 | conceito |
 | L011 | The Inner Villain | psicologia, sombra, antagonismo interno | independente | conceito |
 | L012 | The Authenticity & My Diamond Mind: The Biography of a 22 Year Old | autobiografia | autobiografia de Samuel | conceito |
