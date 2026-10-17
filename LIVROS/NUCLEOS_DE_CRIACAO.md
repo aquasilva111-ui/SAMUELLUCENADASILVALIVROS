@@ -1,6 +1,6 @@
 # Núcleos de Criação — Índice
 
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Escopo:** somente livros pessoais de Samuel.
 
 O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são estáveis e não devem ser renumerados quando uma obra for realocada para outro repositório.
@@ -15,7 +15,7 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 - L006 — Brasil, o Gigante Atrófico Adormecido — Volume 1: Brasil Core
 - L007 — Brasil Core: Um Fenômeno Muito Além da Internet
 - L008 — Esferas do Poder
-- L009 — Psicologia dos Chakras
+- L009 — Psicologia dos Chakras: Esferas de Poder
 - L010 — Mass Psychology: Social Petroleum — Volume 1: The Great War Against Lilith; The Suppression of Female Power
 - L011 — The Inner Villain
 - L012 — The Authenticity & My Diamond Mind: The Biography of a 22 Year Old
