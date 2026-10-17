@@ -29,6 +29,8 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L021 | O Mistério Falo | a definir | a definir | título registrado |
 | L022 | AI-HUMANIZE-2003 | ficção científica, IA, humanidade | a definir | conceito |
 
+| ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
+
 ## Obra removida do catálogo pessoal por correção de escopo
 
 **L013 — LOHAN, o Maior Espião do Século 21** foi migrado conceitualmente para o repositório do **Aesthetic Cinematic Universe**, onde já existe documentação própria. O ID L013 fica reservado no histórico e não é reutilizado.
