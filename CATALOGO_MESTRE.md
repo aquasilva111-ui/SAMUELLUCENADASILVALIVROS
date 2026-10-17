@@ -35,7 +35,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 
 | L025 | Teoria das Subdemocracias / Democracia Fracionada [títulos de trabalho] | teoria política, democracia, distribuição de soberania, metodologia comparativa | obra independente; possíveis conexões conceituais com Esferas do Poder ainda não aprovadas | núcleo de criação e metodologia iniciados em 2026-10-17; título definitivo em aberto |
 
-| ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
+| L026 | A Masculinidade Determinista | masculinidade, identidade, desejo, afeto entre homens, psicologia social | ensaio/tratado curto independente; relações com outras obras sobre masculinidade ainda abertas | núcleo de criação consolidado em 2026-10-17; pesquisa, arquitetura e redação pendentes |\n\n| ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
 
 ## Obra removida do catálogo pessoal por correção de escopo
 

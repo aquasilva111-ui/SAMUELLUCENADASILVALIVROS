@@ -745,3 +745,47 @@ LIVROS/L009_PSICOLOGIA_DOS_CHAKRAS/04_IMAGENS_E_PROMPTS/
 Local: `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md`.
 
 Entidades: obra, unidade criativa, conceito, questão, imagem, prompt, proveniência, update. Os conceitos Daimon, Energeticum Petroleum, refinaria de alta tecnologia e domínio têm definições mínimas autorais e expansões propostas pela IA registradas separadamente. Origem das falas e prompts integrais documentados; vínculo interobras com L025 é referência, não fusão. **Data update:** 2026-10-17.
+
+
+## 28. SUBBASE ESPECIALIZADA — MASCULINIDADE DETERMINISTA
+
+**Adicionada em:** 2026-10-17  
+**Obra vinculada:** L026 — A Masculinidade Determinista  
+**Data autoral de origem da ideia:** 2026-08-31
+
+Caminho principal:
+LIVROS/L026_MASCULINIDADE_DETERMINISTA/01_NUCLEO_E_CANONE/BASE_DE_DADOS_DE_CRIACAO.md
+
+Objetivo: preservar a genealogia completa do livro, distinguindo afirmações autorais, teses a investigar, conceitos do livro, hipóteses explicativas, propostas editoriais da IA, evidência externa futura e decisões de redação.
+
+Entidades especializadas:
+- TESE_AUTORAL;
+- NORMA_DE_MASCULINIDADE;
+- PROVA_DE_MASCULINIDADE;
+- EXPERIENCIA_AFETIVA;
+- EXPERIENCIA_EROTICA;
+- MECANISMO_DE_VIGILANCIA_IDENTITARIA;
+- CONFLITO_EGO_ALTEREGO_SUPEREGO;
+- RELACAO_MULHER_COMO_VALIDACAO;
+- RELACAO_ENTRE_HOMENS;
+- ALEGACAO_PESQUISAVEL;
+- CONTRAEXEMPLO;
+- EVIDENCIA;
+- HIPOTESE_DE_DESENVOLVIMENTO;
+- IMAGEM_CONCEITUAL;
+- PROMPT_VISUAL;
+- DECISAO_AUTORAL;
+- QUESTAO_ABERTA.
+
+Regra epistemológica:
+afirmação autoral → classificação → pergunta pesquisável → evidência favorável/contrária → delimitação → formulação editorial.
+
+Regra especial: a proposição de que a maioria dos homens teria capacidade romântica de amar outro homem deve permanecer registrada como tese/proposição autoral a investigar até que a pesquisa delimite o que se entende por amor, capacidade romântica, orientação romântica, orientação sexual, intimidade, vínculo, desejo e população de referência.
+
+Regra de linguagem: não transformar automaticamente afeto, admiração, intimidade, ternura, vínculo, desejo sexual, orientação sexual e orientação romântica em sinônimos.
+
+Regra de psicologia conceitual: “ego”, “alter ego” e “superego” aparecem no material autoral como eixos úteis para organizar o conflito do homem com a masculinidade determinista. A obra ainda precisa decidir se serão vocabulário autoral, diálogo com tradições psicanalíticas ou metáfora estrutural.
+
+Regra visual: imagens devem priorizar sensação e ideia, com símbolos legíveis de vigilância, prova, divisão interna, proximidade afetiva, julgamento social e identidade condicionada.
+
+**Última atualização desta integração:** 2026-10-17

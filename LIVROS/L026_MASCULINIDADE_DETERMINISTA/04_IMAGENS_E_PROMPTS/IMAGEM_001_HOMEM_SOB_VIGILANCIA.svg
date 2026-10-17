@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+<title id="title">Homem sob vigilância — conceito visual L026</title>
+<desc id="desc">Figura masculina contida por moldura rígida e observada por sinais de vigilância, com segunda forma interna tentando expandir-se.</desc>
+<rect width="1200" height="1600" fill="white"/>
+<rect x="285" y="180" width="630" height="1190" rx="18" fill="none" stroke="black" stroke-width="14"/>
+<circle cx="600" cy="410" r="115" fill="none" stroke="black" stroke-width="18"/>
+<path d="M430 620 Q600 535 770 620 L840 1185 Q600 1335 360 1185 Z" fill="none" stroke="black" stroke-width="20"/>
+<path d="M600 545 C510 685 455 780 475 930 C495 1085 545 1215 600 1305 C655 1215 705 1085 725 930 C745 780 690 685 600 545 Z" fill="none" stroke="black" stroke-width="7" stroke-dasharray="24 20"/>
+<path d="M470 820 C330 740 235 750 155 825" fill="none" stroke="black" stroke-width="8"/>
+<path d="M730 820 C870 740 965 750 1045 825" fill="none" stroke="black" stroke-width="8"/>
+<path d="M440 1040 C310 1090 245 1180 205 1280" fill="none" stroke="black" stroke-width="8"/>
+<path d="M760 1040 C890 1090 955 1180 995 1280" fill="none" stroke="black" stroke-width="8"/>
+<g fill="white" stroke="black" stroke-width="10">
+<ellipse cx="145" cy="825" rx="72" ry="42"/><circle cx="145" cy="825" r="18" fill="black"/>
+<ellipse cx="1055" cy="825" rx="72" ry="42"/><circle cx="1055" cy="825" r="18" fill="black"/>
+<ellipse cx="190" cy="1310" rx="72" ry="42"/><circle cx="190" cy="1310" r="18" fill="black"/>
+<ellipse cx="1010" cy="1310" rx="72" ry="42"/><circle cx="1010" cy="1310" r="18" fill="black"/>
+</g>
+<text x="600" y="1450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" letter-spacing="8">IDENTIDADE EM PROVA</text>
+<text x="600" y="1510" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25">proposta visual • 2026-10-17 • não canônica</text>
+</svg>

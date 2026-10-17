@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1400" role="img" aria-labelledby="title desc">
+<title id="title">Ego, Alter Ego e Superego — mapa conceitual L026</title>
+<desc id="desc">Triângulo conceitual entre Ego, Alter Ego e Superego em torno da pergunta Eu/Homem.</desc>
+<rect width="1400" height="1400" fill="white"/>
+<polygon points="700,175 220,1120 1180,1120" fill="none" stroke="black" stroke-width="12"/>
+<circle cx="700" cy="720" r="165" fill="white" stroke="black" stroke-width="12"/>
+<text x="700" y="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64">EU</text>
+<text x="700" y="775" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48">HOMEM?</text>
+<circle cx="700" cy="175" r="120" fill="white" stroke="black" stroke-width="10"/>
+<circle cx="220" cy="1120" r="120" fill="white" stroke="black" stroke-width="10"/>
+<circle cx="1180" cy="1120" r="120" fill="white" stroke="black" stroke-width="10"/>
+<text x="700" y="165" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34">SUPEREGO</text>
+<text x="700" y="210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22">vigia</text>
+<text x="220" y="1110" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40">EGO</text>
+<text x="220" y="1150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22">identidade</text>
+<text x="1180" y="1105" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31">ALTER EGO</text>
+<text x="1180" y="1150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22">não integrado</text>
+<text x="700" y="1310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24">mapa conceitual provisório • 2026-10-17 • não clínico</text>
+</svg>
