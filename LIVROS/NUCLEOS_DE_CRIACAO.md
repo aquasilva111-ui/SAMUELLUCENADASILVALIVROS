@@ -16,7 +16,7 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 - L007 — Brasil Core: Um Fenômeno Muito Além da Internet
 - L008 — Esferas do Poder
   - L008-TMOS — **The Male from the Orange Sphere** — núcleo ativo; meta 35.000–50.000 palavras; chamada de capa **THE POST WOMAN MEN**; integrado ao banco em 2026-10-17
-- L009 — Psicologia dos Chakras
+- L009 — Psicologia dos Chakras: Esferas de Poder
 - L010 — Mass Psychology: Social Petroleum — Volume 1: The Great War Against Lilith; The Suppression of Female Power
 - L011 — The Inner Villain
 - L012 — The Authenticity & My Diamond Mind: The Biography of a 22 Year Old
