@@ -167,3 +167,10 @@ O subnúcleo possui tratado editorial, banco de dados de criação, dossiê dos 
 **Regra de escopo:** não adicionar outros títulos automaticamente. A inclusão de qualquer sétimo livro exige decisão autoral explícita.
 
 **Última atualização:** 2026-10-17
+
+## 12. Magia Moderna — 2026-10-17
+
+**MAG-AUT-003 / MAG-MODERNA-001 (identificadores locais provisórios):** [Magia Moderna — Como dominar o seu(s) Daimon(s) para o seu benefício e sucesso](../../LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/README.md).
+Obra autoral de Samuel centrada em Daimon(s), intensidade não moralizada, Energeticum Petroleum e refinaria de alta tecnologia como metáfora de transmutação/ação. Suas capas experimentais recorrem a brochuras de ocultismo oitentista, com figura dentro de quadrado e duas mãos. Integração editorial em 2026-10-17; sem fusão automática com L025 ou com qualquer série.
+
+**Última atualização:** 2026-10-17.
