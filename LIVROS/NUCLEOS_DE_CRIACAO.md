@@ -28,6 +28,7 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 - L020 — Solar Attachment — Ancoramento do Sol
 - L021 — O Mistério Falo
 - L022 — AI-HUMANIZE-2003
+- L023 — Sabatismo Frankista e A Teoria da Escatologia
 
 ## ID reservado / realocado
 
