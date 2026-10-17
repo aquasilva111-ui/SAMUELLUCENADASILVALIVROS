@@ -58,3 +58,7 @@ Ver:
 ## Observação
 
 Nenhum número global herdado da versão antiga é automaticamente válido. Nenhuma imagem externa é associada à obra sem decisão explícita.
+
+## Arquivo expandido desta conversa — atualização 2026-10-17
+
+Foi acrescentado o diretório [`07_FONTES_DESTA_CONVERSA`](07_FONTES_DESTA_CONVERSA/README.md) com fonte autoral, valores históricos não validados, transcrição extensa da prosa em inglês (caps. 1–5 e 10), núcleo da Economia Laranja, índice retrospectivo, questões abertas e prompts conceituais. Esta inclusão não altera a hierarquia do cânone vigente, não aprova imagens e não converte números históricos em estatísticas verificadas.
