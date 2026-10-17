@@ -49,3 +49,8 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 4. “Hisstory” deve ser preservado como grafia autoral enquanto Samuel assim definir.
 5. The Mad King vem antes de Solar Attachment; a natureza editorial exata dessa relação ainda está aberta.
 6. L023 deve distinguir continuamente história documentada, interpretação historiográfica, hipótese autoral e especulação.
+
+
+## Projetos autorais sem ID definitivo
+
+- **Anitta e o Avatar de Lilith — A História da Female Rage (Raiva Feminina)** — ensaio narrativo mágico, psicologia cultural, arquétipos, celebridade, gênero e teoria autoral. Estado em 2026-10-17: manuscrito desenvolvido, arquitetura integral concluída, preparação editorial para Amazon KDP eBook + paperback. Pasta: `LIVROS/ANITTA_E_O_AVATAR_DE_LILITH_A_HISTORIA_DA_FEMALE_RAGE/`. **ID pendente de decisão autoral; não reutilizar L013.**
