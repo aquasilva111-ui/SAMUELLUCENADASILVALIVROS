@@ -31,6 +31,9 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 - L022 — AI-HUMANIZE-2003
 - L023 — Sabatismo Frankista e A Teoria da Escatologia\n- L026 — A Masculinidade Determinista — núcleo conceitual criado em 2026-08-31 e consolidado no repositório em 2026-10-17
 
+- MAG-AUT-002 — Magia das Sombras Plutônica
+- MAG-AUT-003 — Magia das Sombras Netuniana
+
 ## ID reservado / realocado
 
 - L013 — LOHAN — realocado para Aesthetic Cinematic Universe; não pertence mais à estrutura pessoal deste repositório.
@@ -71,3 +74,17 @@ O material vive dentro de `LIVROS/L008_ESFERAS_DO_PODER/` e possui cópia estrut
 ## Novo núcleo individual — 2026-10-17
 
 - **TOM-001 — The Oppressed Men** — crítica da ideia de privilégio universal dos homens e investigação de homens oprimidos e perseguidos em estruturas patriarcais. Arquivo: `LIVROS/THE_OPPRESSED_MEN/`. Núcleo conceitual com transcrição literal e desenvolvimento da assistência, distinção de proveniência, Convenções de Realidade, agenda investigativa e 5 prompts visuais. Relações com outras obras não aprovadas. **Atualização:** 2026-10-17.
+
+
+## Expansão do Núcleo Magia confirmada em 2026-10-17
+
+### MAG-AUT-002 — Magia das Sombras Plutônica
+Obra autoral de Samuel. Núcleo conceitual formalizado em 2026-09-02. Fórmula canônica: POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO.
+
+### MAG-AUT-003 — Magia das Sombras Netuniana
+Obra autoral em estado embrionário. Conceito registrado em 2026-09-03: domínio do livre-arbítrio por alienação e isolamento. Fórmula detalhada e forma virtuosa permanecem abertas.
+
+### Regra
+Os volumes compartilham o princípio de autonomia da coleção, mas cada planeta conserva mecanismo, virtude, deformação, objeto de captura e histórico próprios. Não preencher automaticamente um planeta a partir de outro.
+
+**Última atualização desta expansão:** 2026-10-17
