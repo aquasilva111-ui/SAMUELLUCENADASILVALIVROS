@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+  <rect width="1600" height="500" fill="#ffffff"/>
+  <text x="800" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#111111">MAGIA DAS SOMBRAS PLUTÔNICA</text>
+  <text x="800" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#444444">Fórmula conceitual canônica — atualização 2026-10-17</text>
+
+  <g font-family="Arial, sans-serif" font-size="26" text-anchor="middle">
+    <rect x="70" y="190" width="310" height="120" rx="18" fill="none" stroke="#111111" stroke-width="3"/>
+    <text x="225" y="240" fill="#111111">POTÊNCIA</text>
+    <text x="225" y="278" fill="#111111">DO OUTRO</text>
+
+    <rect x="470" y="190" width="250" height="120" rx="18" fill="none" stroke="#111111" stroke-width="3"/>
+    <text x="595" y="260" fill="#111111">CONTROLE</text>
+
+    <rect x="810" y="190" width="250" height="120" rx="18" fill="none" stroke="#111111" stroke-width="3"/>
+    <text x="935" y="260" fill="#111111">EXTRAÇÃO</text>
+
+    <rect x="1150" y="190" width="380" height="120" rx="18" fill="none" stroke="#111111" stroke-width="3"/>
+    <text x="1340" y="240" fill="#111111">CONCENTRAÇÃO</text>
+    <text x="1340" y="278" fill="#111111">DE PODER</text>
+  </g>
+
+  <g stroke="#111111" stroke-width="4" fill="none">
+    <line x1="380" y1="250" x2="460" y2="250"/>
+    <line x1="720" y1="250" x2="800" y2="250"/>
+    <line x1="1060" y1="250" x2="1140" y2="250"/>
+  </g>
+
+  <g fill="#111111">
+    <polygon points="460,250 442,240 442,260"/>
+    <polygon points="800,250 782,240 782,260"/>
+    <polygon points="1140,250 1122,240 1122,260"/>
+  </g>
+
+  <text x="800" y="400" text-anchor="middle" font-family="Georgia, serif" font-size="25" fill="#222222">“Aquilo que você produz pertence a mim.”</text>
+  <text x="800" y="445" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#555555">Diagrama editorial de trabalho — não representa afirmação científica ou causal sobre fenômenos históricos.</text>
+</svg>
