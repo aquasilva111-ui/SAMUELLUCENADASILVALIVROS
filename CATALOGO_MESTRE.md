@@ -95,3 +95,10 @@ Não inferir relação automática com Psicologia dos Chakras.
 ## Projeto autoral sem ID definitivo — 2026-10-17
 
 **Anitta e o Avatar de Lilith — A História da Female Rage (Raiva Feminina)** — ensaio narrativo mágico, psicologia cultural, arquétipos, cultura pop, gênero, persona e teoria autoral. **Estado:** manuscrito desenvolvido; Prefácio + 12 capítulos + Epílogo estruturados; núcleo de criação, base de dados, cadeia causal, regras epistemológicas, textos integrais disponíveis, identidade visual, prompts, histórico e materiais Amazon KDP registrados. **Publicação planejada:** eBook Kindle + paperback. **Pasta:** [LIVROS/ANITTA_E_O_AVATAR_DE_LILITH_A_HISTORIA_DA_FEMALE_RAGE](LIVROS/ANITTA_E_O_AVATAR_DE_LILITH_A_HISTORIA_DA_FEMALE_RAGE/README.md). **ID:** pendente de decisão autoral; não reutilizar L013. **Última atualização desta inclusão:** 2026-10-17.
+
+
+## Registro autoral — 2026-10-17: Culto às Virtudes
+
+| MAG-CULTO-VIRTUDES-001 | Livro de Magia Moderna — Culto às Virtudes | livro autoral em projeto; enquadramento magia moderna, doutrina ainda indefinida | NUC-MAGIA; independente de Magia Moderna — Daimons até decisão autoral | título e autoria confirmados; tratado de criação, proveniência, base de dados e prompts de exploração documentados em 2026-10-17 |
+
+**Pasta:** [LIVROS/MAGIA_MODERNA_CULTO_AS_VIRTUDES](LIVROS/MAGIA_MODERNA_CULTO_AS_VIRTUDES/README.md). **Nota:** o vínculo entre “Livro de Magia Moderna” e “Culto às Virtudes” como título/subtítulo/série ainda exige definição. Não inferir doutrina, rituais ou lista de virtudes. **Última atualização:** 2026-10-17.
