@@ -203,3 +203,7 @@ Toda alteração material deve registrar:
 **DATA → ELEMENTO → ESTADO ANTERIOR → NOVO ESTADO → MOTIVO → ORIGEM → APROVAÇÃO.**
 
 O objetivo é permitir que cada livro e cada projeto editorial cresçam sem perder a genealogia de suas ideias, fontes, imagens, traduções e decisões.
+
+## Edições adaptadas de clássicos históricos
+
+A iniciativa editorial de linguagem contemporânea de Samuel é registrada **separadamente das obras inéditas autorais** em [CATALOGO_ADAPTACOES.md](CATALOGO_ADAPTACOES.md). O primeiro projeto é [Manifesto Comunista em Português Ordinário](LIVROS/MANIFESTO_COMUNISTA_EM_PORTUGUES_ORDINARIO/README.md) — obra histórica de Marx e Engels em adaptação editorial dirigida por Samuel. **Update: 2026-10-16.**
