@@ -351,4 +351,29 @@ Nenhuma versão anterior relevante deve ser destruída. A genealogia intelectual
 
 Não apagar registros históricos. Quando uma tese mudar, criar nova versão e marcar a anterior como superada, preservando data.
 
+
+## ENTIDADE UPDATE_2026_10_17 — expansão de registro
+
+### Manuscritos adicionados
+- MPS-02 — A Rede Mercuriana — versão horizontal integral registrada na pasta da obra.
+- MPS-03 — O Reino Sincrético — versão horizontal integral registrada na pasta da obra.
+
+### Núcleo detalhado
+- `LIVROS/L025_MAGIA_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO/01_NUCLEO_E_CANONE/NUCLEO_DA_BASE_DE_DADOS.md`
+
+### Visualidade e prompts
+- prompts mestres para cadeia cosmológica, Quinto Elemento, Deus como centro de gravidade, Reino Sincrético, Rede Mercuriana, Gravidade de Realidade, Árvore da Vida, Árvore Inversa, Energeticum Petroleum e capa;
+- diagrama SVG inicial do Quinto Elemento registrado.
+
+### Genealogia
+O manuscrito primitivo das Sete Esferas é ancestral intelectual dos dois livros atuais. Toda matéria anterior deve ser classificada como SALVAR / EVOLUIR / MIGRAR / ARQUIVAR antes de descarte.
+
+### Cadeia causal dos capítulos iniciais
+**Rede Mercuriana → Reino Sincrético → Quinto Elemento**
+= infraestrutura de encontro → método de integração → princípio metafísico de relação.
+
+### Regra de densidade documental
+Não resumir até perder nuances, genealogia, causalidade, fórmulas, distinções epistemológicas, decisões autorais ou terminologia própria. Registrar update em cada alteração substantiva.
+
+
 **Última atualização:** 2026-10-17
