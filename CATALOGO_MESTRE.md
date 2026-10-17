@@ -250,3 +250,10 @@ Foram integrados ao repositório:
 **Visual:** [Identidade Visual e Prompts](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/04_IMAGENS_E_PROMPTS/IDENTIDADE_VISUAL_E_PROMPTS_2026-10-17.md).  
 **Base global:** [L018 na Base de Dados](BASE_DE_DADOS/L018_PREDICTIVE_HISSTORY_HERSTORY.md).  
 **Última atualização:** 2026-10-17.
+
+
+## TMAF-001 — The Myth of the Apocalypse: Fundamentalism — atualização 2026-10-17
+
+| TMAF-001 | The Myth of the Apocalypse: Fundamentalism | ensaio/projeto autoral sobre imaginários apocalípticos e fundamentalismo; inclui profecia autorrealizável e manifestação coletiva | obra independente até nova decisão; relação com Pronoia apenas sugerida pela IA | título e dois temas confirmados pelo autor; núcleo de criação, tratado, arquitetura provisória, base de dados, histórico e prompts visuais registrados em 2026-10-17 |
+
+**Pasta editorial:** [The Myth of the Apocalypse: Fundamentalism](LIVROS/THE_MYTH_OF_THE_APOCALYPSE_FUNDAMENTALISM/README.md). **Data de atualização:** 2026-10-17. O identificador técnico próprio evita reutilização de IDs legados. A tese interpretativa, as cinco partes sugeridas, o capítulo “The World Ends the Way We Expect It To”, as imagens conceituais e a conexão com Pronoia permanecem propostas da IA, ainda sem aprovação autoral. Os temas **self-fulfilling prophecy** e **collective manifestation** foram solicitados expressamente pelo autor.
