@@ -47,3 +47,14 @@ A IA funciona como assistente de organização, continuidade e desenvolvimento, 
 
 ## Histórico
 - 2026-10-16 — pasta individual criada e metodologia central registrada.
+
+## Estudo de caso: classificação racial e branquitude (2026-10-16)
+
+A pergunta autoral sobre percepções raciais de judeus e árabes em relação a negros foi registrada como **pesquisa exploratória**, sem atribuir uma interpretação da IA ao cânone aprovado. Estão disponíveis:
+
+- [Pesquisa extensa, pergunta literal, resposta preservada, distinções e hipóteses](03_REFERENCIAS_E_PESQUISA/ESTUDO_DE_CASO_RACIALIZACAO_JUDEUS_ARABES_NEGROS_2026-10-16.md)
+- [Fichas da teoria e sete núcleos](01_NUCLEO_E_CANONE/CASO_RACIALIZACAO_SETE_NUCLEOS.md)
+- [Laboratório visual e prompts de imagens](04_IMAGENS_E_PROMPTS/RACIALIZACAO_IDENTIDADE_VISUAL_PROMPTS.md)
+- [Diagrama ilustrativo SVG](04_IMAGENS_E_PROMPTS/DIAGRAMA_LENTES_DA_IDENTIDADE.svg)
+
+**Última atualização deste estudo:** 2026-10-16. A incorporação definitiva em capítulo depende de aprovação de Samuel.
