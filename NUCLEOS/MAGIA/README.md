@@ -181,3 +181,18 @@ Obra autoral de Samuel centrada em Daimon(s), intensidade não moralizada, Energ
 **MAG-AUT-003 — Princípios Mágicos do Marketing — Magia e Bruxaria Moderna.** Título trazido diretamente pelo autor. Núcleo de criação documentado em [LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA](../../LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/README.md), com tratado integral, base de dados, fonte bruta, ética, questões, seis prompts e um SVG preliminar. Desenvolvimento conceitual, visual e eventual relação editorial com **Magia às Massas** seguem como propostas da IA não ratificadas. É livro novo, não republicação e não renomeação automática de L025.
 
 **Última atualização desta inclusão: 2026-10-17.**
+
+
+## 12. Obra autoral MAG-AUT-002 — 2026-10-17
+
+### A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
+
+- **Identificador:** MAG-AUT-002.
+- **Autor:** Samuel Lucena da Silva.
+- **Natureza:** obra autoral; tratado de metafísica, magia, filosofia espiritual e sincretismo moderno.
+- **Subnúcleo:** magia popular / magia psicológica-autoral / simbolismo e metafísica.
+- **Local principal:** `LIVROS/MAGIA_E_BRUXARIA_POPULAR_SINCRETICO_MODERNA_O_QUINTO_ELEMENTO/`.
+- **Função:** organizar a espiritualidade sincrética moderna, a relação entre Deus/Fonte e deuses culturais, o Quinto Elemento como princípio de relação, Pléroma, Éons/Virtudes, Esferas Universais, Árvore da Vida, Árvore Inversa, daimons, Energeticum Petroleum, Convenções de Realidade, Gravidade de Realidade e a descida da Virtude até comportamento e matéria.
+- **Relação com L008/L009:** funciona como base cosmológica; não incorpora automaticamente Psicologia dos Chakras ao Núcleo Magia nem funde registros sem decisão autoral.
+- **Estado:** desenvolvimento avançado.
+- **Última atualização:** 2026-10-17.

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000">
+<rect width="1200" height="1000" fill="white"/>
+<g font-family="serif" stroke="black" stroke-width="2" fill="white">
+<circle cx="600" cy="500" r="125"/>
+<circle cx="600" cy="135" r="90"/><circle cx="920" cy="290" r="95"/><circle cx="980" cy="650" r="95"/>
+<circle cx="600" cy="855" r="95"/><circle cx="220" cy="650" r="95"/><circle cx="280" cy="290" r="95"/>
+<line x1="600" y1="375" x2="600" y2="225"/><line x1="700" y1="425" x2="840" y2="335"/>
+<line x1="720" y1="550" x2="885" y2="625"/><line x1="600" y1="625" x2="600" y2="760"/>
+<line x1="480" y1="550" x2="315" y2="625"/><line x1="500" y1="425" x2="360" y2="335"/>
+<g fill="black" stroke="none" text-anchor="middle">
+<text x="600" y="490" font-size="30">DEUS / FONTE</text><text x="600" y="525" font-size="20">centro sem proprietário</text>
+<text x="600" y="130" font-size="23">ESPIRITUALIDADE</text><text x="920" y="285" font-size="23">FILOSOFIA</text>
+<text x="980" y="645" font-size="23">CIÊNCIA</text><text x="600" y="850" font-size="23">PSICOLOGIA</text>
+<text x="220" y="645" font-size="23">MAGIA</text><text x="280" y="285" font-size="23">RELIGIÕES</text>
+</g>
+</g>
+<text x="600" y="965" text-anchor="middle" font-family="serif" font-size="22">Nenhuma linguagem ocupa o trono; cada uma ilumina dimensões distintas em relação.</text>
+</svg>

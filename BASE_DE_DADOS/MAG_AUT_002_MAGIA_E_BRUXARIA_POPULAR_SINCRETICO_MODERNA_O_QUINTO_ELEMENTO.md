@@ -1,7 +1,7 @@
-# Base de Dados de Criação — L025
+# Base de Dados de Criação — MAG-AUT-002
 
 **Título:** A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento  
-**Obra ID:** L025  
+**Obra ID:** MAG-AUT-002  
 **Núcleo ID:** NUC-MAGIA  
 **Núcleo-obra ID:** MAG-AUT-002  
 **Autor:** Samuel Lucena da Silva  
@@ -11,7 +11,7 @@
 
 ## ENTIDADE OBRA
 
-- obra_id: L025
+- obra_id: MAG-AUT-002
 - magia_obra_id: MAG-AUT-002
 - titulo_canonico: A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
 - autor: Samuel Lucena da Silva
@@ -28,130 +28,130 @@
 
 ## ENTIDADE TESE_CENTRAL
 
-### L025-TES-001 — Sincretismo por função
+### MAG-AUT-002-TES-001 — Sincretismo por função
 status: confirmado  
 definicao: tradições diferentes não precisam ser idênticas para participar de uma arquitetura comum. Comparação prioriza função, Virtude, relação e consequência.  
 formula: Correspondência não é identidade, mas diferença também não significa separação absoluta.
 
-### L025-TES-002 — Deus est deus, deus Est Deus
+### MAG-AUT-002-TES-002 — Deus est deus, deus Est Deus
 status: confirmado  
 definicao: Deus é Fonte universal anterior às culturas; deus é forma cultural humana de relação com manifestações do divino.  
 cadeia_descida: Deus → emanação → Virtude → experiência → símbolo → deus  
 cadeia_retorno: deus → Virtude → origem → Deus
 
-### L025-TES-003 — Quinto Elemento
+### MAG-AUT-002-TES-003 — Quinto Elemento
 status: confirmado  
 definicao: princípio de mediação, relação, tradução, circulação e integração que permite diferença em relação.
 
-### L025-TES-004 — Deus como centro de gravidade
+### MAG-AUT-002-TES-004 — Deus como centro de gravidade
 status: confirmado  
 definicao: Deus funciona metafisicamente como centro comum que não pertence a uma cultura específica.
 
-### L025-TES-005 — Magia às Massas
+### MAG-AUT-002-TES-005 — Magia às Massas
 status: confirmado como conceito  
 definicao: retorno popular, digital, descentralizado e sincrético da magia ao cotidiano contemporâneo.
 
-### L025-TES-006 — Realidade maior do que uma linguagem
+### MAG-AUT-002-TES-006 — Realidade maior do que uma linguagem
 status: confirmado  
 definicao: ciência, psicologia, sociologia, filosofia, esoterismo, espiritualidade e magia podem observar dimensões diferentes do mesmo fenômeno sem confisco mútuo.
 
 ## ENTIDADE LEI
 
-### L025-LEI-001
+### MAG-AUT-002-LEI-001
 texto: O universal explica a recorrência. A cultura explica a diferença.
 
-### L025-LEI-002
+### MAG-AUT-002-LEI-002
 texto: A unidade verdadeira não é uniformidade.
 
-### L025-LEI-003
+### MAG-AUT-002-LEI-003
 texto: O Quinto Elemento é a memória da Unidade dentro da diferença.
 
-### L025-LEI-004
+### MAG-AUT-002-LEI-004
 texto: O Uno precisa diferenciar-se para manifestar-se, mas não precisa esquecer-se de si para diferenciar-se.
 
-### L025-LEI-005
+### MAG-AUT-002-LEI-005
 texto: Virtude não é endereço. Virtude é corrente.
 
-### L025-LEI-006
+### MAG-AUT-002-LEI-006
 texto: A sombra não possui combustível próprio. Ela queima luz em estado de separação.
 
-### L025-LEI-007
+### MAG-AUT-002-LEI-007
 texto: A compulsão é uma Virtude que perdeu a capacidade de reconhecer quando sua função terminou.
 
-### L025-LEI-008
+### MAG-AUT-002-LEI-008
 texto: O comportamento é a Virtude em ação.
 
-### L025-LEI-009
+### MAG-AUT-002-LEI-009
 texto: A Esfera de Poder digere divindade.
 
-### L025-LEI-010
+### MAG-AUT-002-LEI-010
 texto: Uma crença organiza pensamento. Uma Convenção de Realidade organiza um campo. Quando esse campo acumula massa suficiente, começa a produzir gravidade.
 
 ## ENTIDADE CONCEITO
 
 Campos: conceito_id, nome, definição, status, origem, relações, capítulos, data_update.
 
-### L025-CON-001 — Rede Mercuriana
+### MAG-AUT-002-CON-001 — Rede Mercuriana
 definicao: internet como analogia tecnológica de circulação, tradução, comércio, mensagem, mediação e ambiguidade.
 capitulos: MPS-02
 status: confirmado
 
-### L025-CON-002 — Reino Sincrético
+### MAG-AUT-002-CON-002 — Reino Sincrético
 definicao: arquitetura filosófica de integração relacional sem apagamento de diferenças.
 capitulos: MPS-03
 status: confirmado
 
-### L025-CON-003 — Quinto Elemento
+### MAG-AUT-002-CON-003 — Quinto Elemento
 definicao: meio/princípio da relação entre níveis e diferenças.
 capitulos: MPS-04
 status: confirmado
 
-### L025-CON-004 — Fonte
+### MAG-AUT-002-CON-004 — Fonte
 definicao: Unidade anterior a toda diferenciação.
 capitulos: MPS-05, MPS-11
 status: confirmado
 
-### L025-CON-005 — Pléroma
+### MAG-AUT-002-CON-005 — Pléroma
 definicao: plenitude diferenciada em relação.
 capitulos: MPS-11, MPS-12
 status: confirmado
 
-### L025-CON-006 — Virtude
+### MAG-AUT-002-CON-006 — Virtude
 definicao: qualidade divina fundamental da existência.
 capitulos: MPS-12 em diante
 status: confirmado
 
-### L025-CON-007 — Esfera Universal
+### MAG-AUT-002-CON-007 — Esfera Universal
 definicao: órgão/campo da arquitetura de manifestação que recebe, transforma, combina e transmite Virtudes.
 capitulos: MPS-13
 status: confirmado
 
-### L025-CON-008 — Árvore Inversa
+### MAG-AUT-002-CON-008 — Árvore Inversa
 definicao: ecologia de potências em perda de relação e autonomia.
 capitulos: MPS-14
 status: confirmado
 
-### L025-CON-009 — Energeticum Petroleum
+### MAG-AUT-002-CON-009 — Energeticum Petroleum
 definicao: matéria-prima psíquica/energética de alta densidade a ser refinada.
 capitulos: MPS-17
 status: confirmado
 
-### L025-CON-010 — Convenção de Realidade
+### MAG-AUT-002-CON-010 — Convenção de Realidade
 definicao: sistema de ideias-crenças mutuamente reforçadas.
 capitulos: MPS-08
 status: confirmado
 
-### L025-CON-011 — Gravidade de Realidade
+### MAG-AUT-002-CON-011 — Gravidade de Realidade
 definicao: capacidade adquirida por Convenção de atrair percepções, expectativas, comportamentos, relações e acontecimentos coerentes.
 capitulos: MPS-09
 status: confirmado
 
-### L025-CON-012 — Ciência Metafísica
+### MAG-AUT-002-CON-012 — Ciência Metafísica
 definicao: campo autoral de investigação entre metafísica, energia, fisiologia, psicologia, comportamento e cultura.
 capitulos: MPS-07
 status: confirmado
 
-### L025-CON-013 — 0÷1
+### MAG-AUT-002-CON-013 — 0÷1
 definicao: símbolo da Fonte que atravessa diferenciação sem ser consumida.
 capitulos: MPS-04
 status: confirmado como símbolo; desenvolvimentos adicionais permanecem abertos
@@ -184,37 +184,37 @@ Campos: capitulo_id, titulo, parte, função, estado, conexoes, data_update.
 
 ## ENTIDADE QUESTAO_ATIVA
 
-### L025-Q01
+### MAG-AUT-002-Q01
 pergunta: Como muitas religiões podem participar de uma Fonte sem virarem a mesma religião?
 genealogia: Prefácio → MPS-03 → MPS-05 → MPS-15 → MPS-20
 status: ativa
 
-### L025-Q02
+### MAG-AUT-002-Q02
 pergunta: O que mantém multiplicidade ligada à Unidade?
 genealogia: MPS-03 → MPS-04 → MPS-11 → MPS-13 → MPS-20
 status: ativa
 
-### L025-Q03
+### MAG-AUT-002-Q03
 pergunta: Como Deus se relaciona à ideia de gravidade?
 genealogia: Prefácio → MPS-05 → MPS-09 → MPS-20
 status: ativa
 
-### L025-Q04
+### MAG-AUT-002-Q04
 pergunta: Como pensamento e crença passam a produzir consequências?
 genealogia: MPS-07 → MPS-08 → MPS-09 → MPS-10 → MPS-18
 status: ativa
 
-### L025-Q05
+### MAG-AUT-002-Q05
 pergunta: Como a magia voltou às massas?
 genealogia: MPS-01 → MPS-02 → MPS-10 → MPS-19 → MPS-20
 status: ativa
 
-### L025-Q06
+### MAG-AUT-002-Q06
 pergunta: O que acontece quando uma Virtude perde relação?
 genealogia: MPS-12 → MPS-13 → MPS-14 → MPS-16 → MPS-17
 status: ativa
 
-### L025-Q07
+### MAG-AUT-002-Q07
 pergunta: Como o divino chega ao humano?
 genealogia: Fonte → Pléroma → Virtudes → Esferas Universais → símbolos/inteligências → psique → comportamento → matéria
 status: ativa
@@ -256,13 +256,13 @@ Campos:
 - data_update
 
 Registros iniciais:
-- L025-IMG-001 — diagrama cadeia cosmológica.
-- L025-IMG-002 — diagrama Quinto Elemento como relação.
-- L025-IMG-003 — diagrama Gravidade de Realidade.
-- L025-IMG-004 — diagrama Reino Sincrético.
-- L025-IMG-005 — série de gravuras de Éons/Virtudes.
-- L025-IMG-006 — capa conceitual.
-- L025-IMG-007 — Rede Mercuriana como cartografia simbólica.
+- MAG-AUT-002-IMG-001 — diagrama cadeia cosmológica.
+- MAG-AUT-002-IMG-002 — diagrama Quinto Elemento como relação.
+- MAG-AUT-002-IMG-003 — diagrama Gravidade de Realidade.
+- MAG-AUT-002-IMG-004 — diagrama Reino Sincrético.
+- MAG-AUT-002-IMG-005 — série de gravuras de Éons/Virtudes.
+- MAG-AUT-002-IMG-006 — capa conceitual.
+- MAG-AUT-002-IMG-007 — Rede Mercuriana como cartografia simbólica.
 
 ## ENTIDADE PROMPT
 
@@ -305,12 +305,12 @@ Decisões consolidadas em 2026-10-17:
 
 ## ENTIDADE RELACAO_OBRA
 
-### L025 ↔ L008/L009
+### MAG-AUT-002 ↔ L008/L009
 tipo: base cosmológica ↔ aplicação humana
 status: relação conceitual confirmada; organização bibliográfica L008/L009 ainda necessita decisão no repositório
-regra: não duplicar cosmologia extensa em Esferas de Poder; não transformar L025 em tratado detalhado dos sete chakras.
+regra: não duplicar cosmologia extensa em Esferas de Poder; não transformar MAG-AUT-002 em tratado detalhado dos sete chakras.
 
-### L025 ↔ L015 Convenções de Realidade
+### MAG-AUT-002 ↔ L015 Convenções de Realidade
 tipo: compartilhamento conceitual autoral
 status: confirmado como conceito transversal
 regra: preservar cânones de livros distintos; a teoria pode ter aplicações diferentes.
