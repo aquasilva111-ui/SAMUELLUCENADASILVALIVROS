@@ -28,6 +28,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L020 | Solar Attachment — Ancoramento do Sol | ficção | sucede The Mad King | conceito |
 | L021 | O Mistério Falo | a definir | a definir | título registrado |
 | L022 | AI-HUMANIZE-2003 | ficção científica, IA, humanidade | a definir | conceito |
+| L023 | Sabatismo Frankista e A Teoria da Escatologia | história das religiões, messianismo, escatologia, Convenções de Realidade | ensaio histórico-teórico | núcleo de criação iniciado |
 
 | ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
 
@@ -42,3 +43,4 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 3. Convenções de Realidade é livro e também metodologia; manter essas duas funções distinguíveis.
 4. “Hisstory” deve ser preservado como grafia autoral enquanto Samuel assim definir.
 5. The Mad King vem antes de Solar Attachment; a natureza editorial exata dessa relação ainda está aberta.
+6. L023 deve distinguir continuamente história documentada, interpretação historiográfica, hipótese autoral e especulação.
