@@ -1,0 +1,150 @@
+# NÚCLEO MAGIA
+
+**ID do núcleo:** NUC-MAGIA  
+**Criador / direção autoral:** Samuel Lucena da Silva  
+**Data de criação:** 2026-10-16  
+**Última atualização:** 2026-10-16  
+**Estado:** ativo / estrutura editorial inicial  
+**Escopo:** obras autorais, estudos, traduções e republicações editoriais ligadas a magia, astrologia histórica, ocultismo e tradições esotéricas, desde que Samuel confirme sua inclusão.
+
+## 1. Regra de separação
+
+O Núcleo Magia é independente de:
+
+- **Core Visions**;
+- **Beauty Trending**;
+- Medical Geniality;
+- qualquer outro núcleo temático ou metodologia editorial do repositório.
+
+Uma obra pertencente ao Núcleo Magia **não recebe automaticamente** estrutura, estética, linguagem, paleta, psicologia editorial ou metodologia de Core Visions ou Beauty Trending.
+
+Qualquer interseção futura precisa ser registrada como decisão explícita, datada e rastreável.
+
+## 2. Função do núcleo
+
+O Núcleo Magia existe para impedir que projetos esotéricos, mágicos e astrológicos sejam diluídos dentro de núcleos criados para outros objetivos.
+
+Ele deve conservar, separadamente:
+
+- bibliografia mágica e esotérica;
+- obras autorais de Samuel sobre magia;
+- republicações de obras históricas em domínio público;
+- astrologia histórica e técnica quando integrada ao catálogo mágico;
+- grimórios, manuais, tratados, almanaques e textos de história do ocultismo;
+- tradução e modernização editorial de obras antigas;
+- pesquisa de proveniência;
+- direitos autorais e situação de domínio público;
+- genealogia de edições;
+- iconografia histórica;
+- diagramas, gravuras, mapas astrológicos e tabelas;
+- prompts de restauração e criação visual;
+- estratégias multilíngues;
+- decisões sobre fac-símile, transcrição, edição crítica, edição popular ou edição de luxo.
+
+## 3. Obras confirmadas no núcleo
+
+### MAG-AUT-001 — Magia da Paranoia: O Diabo Todo-Poderoso
+- **Origem:** obra autoral de Samuel.
+- **ID original:** L004.
+- **Local principal:** `LIVROS/L004_MAGIA_DA_PARANOIA/`.
+- **Relação com o núcleo:** confirmada pela decisão de 2026-10-16 de separar os livros de magia em núcleo próprio.
+- **Observação:** continua sendo livro pessoal de Samuel; não deve ser tratado como republicação histórica.
+
+### MAG-REP-001 — A Manual of Astrology, or The Book of the Stars
+- **Autor histórico:** Robert Cross Smith, conhecido como Raphael.
+- **Publicação original usada como referência:** 1828.
+- **Natureza do projeto:** republicação histórica / tradução editorial / possível coleção.
+- **Local principal:** `REPUBLICACOES/MAGIA/RM001_A_MANUAL_OF_ASTROLOGY_BOOK_OF_THE_STARS/`.
+- **Situação:** núcleo editorial criado em 2026-10-16.
+
+## 4. Obras adjacentes que NÃO foram automaticamente classificadas
+
+As seguintes obras possuem temas próximos, mas não são incorporadas ao Núcleo Magia sem confirmação adicional:
+
+- L009 — Psicologia dos Chakras;
+- ASTRO-SOL-001 — The Great Sun in Astrology — The Essencial Guide of Astrology;
+- demais projetos de espiritualidade, religião, simbolismo ou astrologia.
+
+**Regra:** proximidade temática não equivale a pertencimento editorial.
+
+## 5. Subnúcleos internos previstos
+
+O Núcleo Magia pode crescer por subáreas, sem obrigar a existência de todas elas:
+
+1. **Astrologia histórica**
+2. **Astrologia técnica**
+3. **Magia cerimonial**
+4. **Magia popular / folk magic**
+5. **Divinação**
+6. **Ocultismo histórico**
+7. **Grimórios e tratados**
+8. **Simbolismo e iconografia**
+9. **Magia psicológica / autoral**
+10. **Republicações em domínio público**
+
+Esses subnúcleos são arquitetura editorial, não declarações sobre a veracidade sobrenatural das práticas descritas.
+
+## 6. Princípio de documentação
+
+Toda obra deve separar:
+
+- **texto histórico original**;
+- **tradução editorial**;
+- **nota da edição**;
+- **interpretação histórica**;
+- **interpretação de Samuel**;
+- **hipótese de pesquisa**;
+- **sugestão da IA**.
+
+Nunca fundir essas camadas sem rotulagem.
+
+## 7. Direitos e domínio público
+
+Para republicações:
+
+- verificar a situação jurídica da obra-base;
+- não copiar traduções modernas protegidas;
+- não copiar prefácios, notas, capas ou restaurações modernas sem licença;
+- produzir tradução própria a partir da edição-base escolhida;
+- registrar edição-fonte, digitalização-fonte e data de consulta;
+- tratar a situação de domínio público por território quando necessário.
+
+## 8. Imagens
+
+Cada projeto pode registrar:
+
+- capa original;
+- folha de rosto;
+- gravuras;
+- diagramas;
+- tabelas;
+- símbolos;
+- páginas de interesse histórico;
+- imagens restauradas;
+- imagens reinterpretadas;
+- capas novas;
+- variações linguísticas de capa.
+
+Nenhuma imagem encontrada externamente deve ser tratada como livre de direitos apenas por estar disponível na internet.
+
+## 9. Prompts
+
+Prompts de criação e restauração devem preservar:
+
+- versão original;
+- data;
+- função;
+- referência histórica;
+- elementos obrigatórios;
+- elementos proibidos;
+- feedback de Samuel;
+- versão aprovada.
+
+## 10. Regra final
+
+**MAGIA é um núcleo próprio.**
+
+Não misturar automaticamente com Core Visions.  
+Não misturar automaticamente com Beauty Trending.  
+Não dissolver magia dentro de psicologia, estética ou espiritualidade genérica.  
+Cada obra conserva sua própria identidade, proveniência, cânone e histórico.
