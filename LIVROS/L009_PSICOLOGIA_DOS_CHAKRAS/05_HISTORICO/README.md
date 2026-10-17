@@ -1,7 +1,11 @@
-# Histórico de Updates
+# Histórico — L009
 
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-17
 
-Toda mudança material deve registrar DATA → ELEMENTO → ESTADO ANTERIOR → NOVO ESTADO → MOTIVO → ORIGEM → APROVAÇÃO.
+Esta pasta preserva versões substituídas, migrações de arquitetura e decisões antigas.
 
-Não apagar a genealogia de decisões anteriores.
+Arquivos:
+- NUCLEO_2026-10-16_PRE_REESTRUTURACAO.md — núcleo anterior preservado integralmente.
+- MIGRACAO_ESTRUTURAL_2026-10-17.md — relação entre o antigo modelo de 14 capítulos e a arquitetura atual.
+
+Regra: reestruturação não apaga genealogia.
