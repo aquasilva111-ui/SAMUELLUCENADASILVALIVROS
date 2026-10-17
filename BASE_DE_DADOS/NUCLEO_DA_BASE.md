@@ -1,18 +1,30 @@
 # Núcleo da Base de Dados de Criação
 
-**Versão:** 1.0  
-**Última atualização:** 2026-10-16
+**Versão:** 2.0  
+**Última atualização:** 2026-10-16  
+**Função:** preservar produto final, processo criativo, genealogia das decisões, fontes, imagens, prompts, cânone e versões.
 
-A base deve preservar **produto final + processo de criação + genealogia das decisões**.
+## Princípio central
 
-## 1. OBRA
+O banco precisa permitir reconstruir **o que uma obra era em qualquer ponto do tempo**.
 
-Campos:
+Nenhuma atualização importante deve apagar:
+- versão anterior;
+- origem;
+- data;
+- justificativa;
+- nível de cânone;
+- dependências narrativas ou conceituais.
+
+## 1. ENTIDADE OBRA
+
+Campos obrigatórios quando conhecidos:
 - obra_id
 - titulo_principal
 - titulos_alternativos[]
 - subtitulo
 - autor
+- idioma_titulo
 - tipo
 - universo
 - colecao
@@ -24,6 +36,7 @@ Campos:
 - data_ultima_atualizacao
 - premissa_integral
 - tese_central
+- problema_que_a_obra_investiga
 - perguntas_centrais[]
 - objetivos[]
 - publico
@@ -31,221 +44,369 @@ Campos:
 - palavras_atuais
 - descricao_longa
 - notas_autorais[]
+- core_visions_aplicavel
+- tags[]
+- obras_relacionadas[]
+- material_origem[]
 
-## 2. UNIDADE CRIATIVA
+## 2. ENTIDADE UNIDADE_CRIATIVA
 
-Qualquer material antes de encontrar posição definitiva:
+Representa qualquer fragmento ainda não consolidado:
 - unidade_id
 - obra_id
-- tipo: premissa, personagem, relação, local, objeto, instituição, evento, cena, revelação, conflito, regra de mundo, mecanismo, teoria, conceito, símbolo, motivação, medo, desejo, segredo, setup, payoff, transformação, questão aberta, contradição, decisão autoral, hipótese, imagem, prompt
-- conteúdo integral
+- tipo
+- conteudo_integral
+- resumo_funcional
 - origem
-- data
-- nível de cânone
-- relações
-- posição atual
+- data_criacao
+- data_registro
+- nivel_canone
+- autor_da_ideia
+- relacoes[]
+- posicao_atual
 - status
+- substitui_unidade_id
+- substituida_por
+- observacoes
 
-Material sem lugar vai para **MATERIAL NÃO POSICIONADO**, nunca é descartado.
+Tipos possíveis:
+premissa, personagem, relação, local, objeto, instituição, evento, cena, revelação, conflito, regra de mundo, mecanismo, teoria, conceito, símbolo, motivação, medo, desejo, segredo, setup, payoff, transformação, questão aberta, contradição, decisão autoral, hipótese, imagem, prompt, dado, fonte, citação curta, capítulo, beat, major beat.
 
-## 3. Processo de Abelha
+Material sem posição vai para **MATERIAL NÃO POSICIONADO**.
 
-Visão → Extração → Perguntas → Decomposição → Organização → Registro → Lacunas → Atualização → Saturação → Esqueleto maduro.
+## 3. ENTIDADE CAPÍTULO
 
-A entrada pode ser desordenada. Áudio, frase interrompida, correção e associação não são erros. A função da Abelhinha é organizar.
+- capitulo_id
+- obra_id
+- numero
+- titulo
+- parte
+- funcao
+- pergunta_central
+- estado_inicial
+- estado_final
+- major_beats[]
+- beats[]
+- conceitos[]
+- fontes[]
+- imagens[]
+- prompts[]
+- status
+- data_update
 
-## 4. #esqueleto
+## 4. MAJOR BEAT
 
-Estrutura possível:
-PROJETO → PARTES → CAPÍTULOS → MAJOR BEATS → BEATS → CENAS.
+- major_beat_id
+- titulo
+- fundamento_pregresso
+- estado_anterior
+- transformacao
+- estado_resultante
+- beats_filhos[]
+- setups_recebidos[]
+- payoffs_entregues[]
+- questoes_abertas[]
+- funcao
+- data_update
 
-Não criar cenas artificiais para preencher simetria.
+## 5. BEAT
 
-### Beat
+Usar identificador estável, ex.: CAP3-02.04.
 
-Campos possíveis:
-- beat_id estável, ex. CAP3-02.04
-- título
-- fundamento pregresso
-- descrição
-- função
+Campos:
+- beat_id
+- titulo
+- fundamento_pregresso
+- descricao_integral
+- funcao
+- classificacao_continuidade
+- estado_anterior
+- evento
+- resultado
+- novo_estado
 - setup
 - payoff
 - personagens
 - local
-- consequências
-- questões abertas
+- objetos
+- conceitos
+- consequencias[]
+- questoes_abertas[]
+- fontes[]
 - data_update
 
-Todo Beat precisa de razão para existir.
+Classificação funcional:
+- ABERTURA
+- CONTINUAÇÃO
+- TRANSFORMAÇÃO
+- CONCLUSÃO
 
-### Fundamento pregresso
+Um Beat pode exercer mais de uma função.
 
-Responder:
-- Que coisa já estabelecida faz este Beat existir?
-- Que questão anterior continua?
-- Que promessa, problema ou consequência chega aqui?
-- A unidade abre, continua, transforma ou conclui?
+## 6. QUESTÃO NARRATIVA / INTELECTUAL
 
-Se não houver antecedente localizado:
-**Fundamento pregresso não localizado no material disponível.**
+- questao_id
+- obra_id
+- pergunta
+- tipo
+- aberta_em
+- desenvolvida_em[]
+- transformada_em[]
+- concluida_em
+- payoff_pendente
+- status
+- data_update
 
-## 5. Convenções de Realidade
+## 7. CONVENÇÃO DE REALIDADE
 
-Cada convenção registra:
-- identificador
+- convencao_id
+- entidade
 - nome
-- definição
+- definicao
 - tipo: Ideia-Crença ou Ideia-Símbolo
-- origem: ferida, medo, esperança, valor ou experiência formadora
-- núcleos
-- núcleo predominante
+- origem: ferida, medo, esperança, valor, experiência formadora
+- nucleos_associados[]
+- nucleo_predominante
 - gravidade
-- evidências
-- momento de formação
-- relações
-- contradições
-- histórico de transformações
+- evidencias[]
+- momento_formacao
+- relacoes[]
+- contradicoes[]
+- historico_transformacoes[]
+- data_update
 
 ### Sete núcleos
-
-1. Existencial — sobrevivência e segurança — O que ameaça sua existência?
-2. Criativo — desejo e transformação — O que deseja criar?
-3. Identitário — identidade e poder — Quem acredita ser?
-4. Nutritivo — afeto e vínculos — Quem ama ou protege?
-5. Expressivo — comunicação — O que consegue expressar?
-6. Intelectual — conhecimento e interpretação — O que acredita ser verdadeiro?
-7. Propósito — sentido e pertencimento — Por que acredita existir?
+1. Existencial — sobrevivência e segurança.
+2. Criativo — desejo e transformação.
+3. Identitário — identidade e poder.
+4. Nutritivo — afeto e vínculos.
+5. Expressivo — comunicação.
+6. Intelectual — conhecimento e interpretação.
+7. Propósito — sentido e pertencimento.
 
 São categorias conceituais; não frequências físicas comprovadas.
 
-## 6. Personagens
+## 8. PERSONAGEM / AGENTE
 
-Cada personagem possui organização individual e histórico cronológico que nunca é apagado.
+- personagem_id
+- nomes[]
+- obra_id
+- papel
+- periodo
+- biografia_confirmada
+- experiências_formadoras[]
+- relações[]
+- conhecimentos_por_periodo[]
+- desejos[]
+- medos[]
+- segredos[]
+- convenções_dominantes[]
+- convenções_secundárias[]
+- convenções_contraditórias[]
+- convenções_adormecidas[]
+- convenções_emergentes[]
+- questões_abertas[]
+- historico[]
 
-Registrar:
-- experiências formadoras
-- relações
-- conhecimentos por período
-- convenções dominantes
-- secundárias
-- contraditórias
-- adormecidas
-- emergentes
-- lacunas
+Nunca usar conhecimento futuro numa cena anterior.
 
-Nunca usar informação adquirida no futuro em cena anterior.
+## 9. EVENTO / CENA — TRÊS CAMADAS
 
-## 7. Eventos e cenas
+### Realidade factual
+O que efetivamente aconteceu no cânone.
 
-Separar:
-- **Realidade factual:** o que aconteceu.
-- **Realidade interpretada:** o que cada personagem acredita.
-- **Realidade transformada:** o que mudou em suas convenções.
+### Realidade interpretada
+O que cada personagem, grupo ou instituição acredita que aconteceu.
 
-## 8. Correções
-
-Quando Samuel corrige:
-ANTIGO → NOVO → DATA → ORIGEM → STATUS.
-
-Não continuar usando a versão anterior, mas preservar que ela existiu.
-
-Se duas versões conflitarem sem correção explícita:
-**CONTRADIÇÃO A RESOLVER**
-- Versão A
-- Versão B
-- origem/data
-- decisão pendente
-
-## 9. IMAGEM
+### Realidade transformada
+Que convenções, decisões, relações ou estados mudaram por causa do evento.
 
 Campos:
-- imagem_id
-- obra
-- arquivo
-- título
-- função
-- descrição visual integral
-- intenção/sensação
-- personagem/cena/conceito
-- prompt original
-- prompt atualizado
-- negative prompt
-- ferramenta/modelo
-- proporção
-- data
-- versão
-- aprovação
-- observações
+- evento_id
+- obra_id
+- data_interna
+- local
+- participantes[]
+- realidade_factual
+- interpretacoes[]
+- transformacoes[]
+- fundamentos[]
+- consequencias[]
+- fontes[]
+- status
 
-## 10. PROMPT
+## 10. CONCEITO / TEORIA
 
-Guardar evolução:
-- prompt_id
-- obra
-- objetivo
-- original
-- revisões
-- termos obrigatórios
-- termos proibidos
-- referências visuais
-- resultado
-- feedback do autor
+- conceito_id
+- nome
+- definicao_autoral
+- problema_que_resolve
+- mecanismo
+- limites
+- conceitos_relacionados[]
+- primeira_ocorrencia
+- exemplos[]
+- contraexemplos[]
+- evidencias[]
+- hipoteses[]
+- grau_de_evidencia
+- status
 - data_update
 
-## 11. FONTE / REFERÊNCIA
+## 11. IMAGEM
 
-- referência
+- imagem_id
+- obra_id
+- caminho_arquivo
+- nome_arquivo
+- titulo
+- funcao
+- descricao_visual_integral
+- intencao
+- sensacao
+- conceito_central
+- cena
+- personagem
+- prompt_original
+- prompt_atualizado
+- negative_prompt
+- ferramenta_modelo
+- proporcao
+- data_criacao
+- data_importacao
+- versao
+- status_aprovacao
+- referencia_de[]
+- elementos_obrigatorios[]
+- elementos_proibidos[]
+- observacoes
+
+## 12. PROMPT
+
+- prompt_id
+- obra_id
+- imagem_id
+- objetivo
+- data_criacao
+- texto_original
+- revisoes[]
+- termos_obrigatorios[]
+- termos_proibidos[]
+- referencias_visuais[]
+- resultado_associado
+- feedback_autoral[]
+- versao_atual
+- data_update
+
+Prompts nunca devem ser sobrescritos sem histórico.
+
+## 13. FONTE / REFERÊNCIA
+
+- fonte_id
+- obra_id
+- titulo
+- autor
 - tipo
-- obra
+- url_ou_arquivo
+- data_publicacao
+- data_consulta
 - função
 - confiabilidade
-- trecho útil
-- fato derivado
-- interpretação
-- hipótese derivada
+- trecho_util
+- fato_derivado
+- interpretação_derivada
+- hipótese_derivada
+- observacoes
 
-Fato, interpretação e hipótese nunca devem colapsar no mesmo campo.
+Separar:
+**fato documentado → interpretação → inferência → hipótese → especulação.**
 
-## 12. UPDATE
+## 14. UPDATE
 
-Cada mudança relevante:
+- update_id
 - data
-- obra
+- obra_id
 - elemento
-- estado anterior
-- novo estado
+- estado_anterior
+- novo_estado
 - motivo
 - origem
-- nível de aprovação
-- arquivos afetados
+- nivel_aprovacao
+- arquivos_afetados[]
+- observacoes
 
-## 13. Questões narrativas
+## 15. CONTRADIÇÃO
 
-- ID
-- pergunta
-- abertura
-- desenvolvimentos
-- transformações
-- payoff
+- contradicao_id
+- obra_id
+- versao_a
+- origem_a
+- versao_b
+- origem_b
+- impacto
+- pergunta_de_resolucao
 - status
-- obras/capítulos associados
+- decisao_final
+- data_decisao
 
-## 14. Modo Colmeia
+Nunca escolher sozinho qual versão vale.
 
-Para muito material:
+## 16. PROVENIÊNCIA
+
+Toda informação deve ser rastreável sempre que possível para:
+- fala direta de Samuel;
+- arquivo importado;
+- conversa;
+- pesquisa externa;
+- sugestão da IA;
+- inferência editorial.
+
+A proveniência impede que uma proposta antiga da IA seja promovida silenciosamente a decisão autoral.
+
+## 17. CORE VISIONS
+
+Quando aplicável:
+- core_visions_aplicavel
+- tom
+- etapa_ativacao
+- diagnostico
+- modelo_core
+- reconfiguracao
+- integracao
+- conceitos_nomeados[]
+- paleta
+- tipografia
+- diagramas[]
+- restricoes
+- data_da_decisao
+
+## 18. PROCESSO DE ABELHA
+
+Visão → Extração → Perguntas → Decomposição → Organização → Registro → Lacunas → Atualização → Saturação → Esqueleto maduro.
+
+A entrada pode ser desordenada. A organização não deve empobrecer a ideia.
+
+## 19. MODO COLMEIA
+
+Para obras extensas:
 esqueleto provisório → entrevista progressiva → extração → atualização → nova entrevista → saturação.
 
-Saturação = causalidade central compreensível, trajetórias principais definidas, setups/payoffs importantes com destino e questões restantes deliberadamente abertas. Não significa livro finalizado.
+Saturação não significa manuscrito finalizado.
 
-## 15. Banco deve conseguir responder
+## 20. Perguntas que o banco deve responder
 
 - O que sabemos?
+- O que ainda não sabemos?
 - Quem definiu?
 - Quando entrou?
-- É cânone ou hipótese?
+- Em qual fonte?
+- É cânone, hipótese ou sugestão?
 - O que veio antes?
-- O que transformou?
-- Onde reaparece?
-- Qual imagem/prompt pertence?
-- Qual versão era válida numa data?
+- Qual elemento causou este?
+- Que questão continua aqui?
+- Que versão era válida em determinada data?
+- Onde uma ideia reaparece?
+- Qual imagem/prompt pertence a qual conceito?
+- Quais setups ainda não receberam payoff?
+- Quais payoffs ainda não possuem setup?
+- Quais contradições continuam abertas?
