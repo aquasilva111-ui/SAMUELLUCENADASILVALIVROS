@@ -1,8 +1,8 @@
 # Base de Dados — Núcleo Magia
 
-**Versão:** 1.0  
+**Versão:** 1.1  
 **Data:** 2026-10-16  
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Núcleo:** NUC-MAGIA
 
 ## Objetivo
@@ -194,3 +194,120 @@ Uma associação temática não muda automaticamente o núcleo de uma obra.
 ## Histórico
 
 - **2026-10-16:** criação da estrutura NUC-MAGIA e separação explícita de Core Visions e Beauty Trending.
+
+
+## ENTIDADE MAGIA_DAS_SOMBRAS
+
+**Adicionada em:** 2026-10-17
+
+Campos:
+- magia_sombra_id
+- obra_id
+- planeta_arquetipo
+- nome
+- data_primeira_definicao
+- virtude_original
+- virtude_status
+- deformacao_sombria
+- objetivo
+- objeto_de_captura
+- mecanismo_principal
+- formula_canonica
+- mensagem_simbolica
+- aplicacao_individual[]
+- aplicacao_coletiva[]
+- economia_psiquica[]
+- principio_etico
+- forma_virtuosa
+- forma_virtuosa_status
+- combinacoes_planetarias[]
+- fatos_documentados[]
+- interpretacoes_magico_simbolicas[]
+- hipoteses[]
+- questoes_abertas[]
+- imagens[]
+- prompts[]
+- historico[]
+- data_update
+
+### Regra
+Uma lacuna em virtude, mecanismo ou forma luminosa permanece lacuna. Não usar correspondências astrológicas gerais para completar automaticamente o sistema autoral.
+
+## ENTIDADE FLUXO_DE_POTENCIA
+
+Campos:
+- fluxo_id
+- obra_id
+- fonte_da_potencia
+- produtor
+- tipo_de_potencia
+- controlador
+- mecanismo_de_controle
+- mecanismo_de_extracao
+- receptor
+- ponto_de_concentracao
+- forma_de_dependencia
+- capacidade_de_saida
+- impacto_na_autonomia
+- camada_epistemica
+- fontes[]
+- status
+- data_update
+
+## ENTIDADE COMBINACAO_DE_SOMBRAS
+
+Campos:
+- combinacao_id
+- forcas[]
+- ordem_causal
+- mecanismo_de_cada_forca
+- interface_entre_mecanismos
+- formula
+- status_canone
+- exemplos[]
+- contraexemplos[]
+- questoes_abertas[]
+- data_update
+
+### Combinação confirmada
+**Saturno + Plutão:** dependência → impossibilidade de saída → extração → concentração → domínio.
+
+### Combinações ainda não definidas
+- Plutão + Netuno;
+- Saturno + Netuno;
+- Saturno + Plutão + Netuno.
+
+## ENTIDADE CAMADA_EPISTEMICA_MAGIA
+
+Valores:
+- conceito_autoral;
+- fato_documentado;
+- análise_histórica_econômica_social;
+- interpretação_magico_simbolica;
+- hipótese;
+- especulação;
+- metáfora_símbolo.
+
+Regra: não promover uma camada a outra sem fonte ou decisão autoral.
+
+## Obras autorais adicionadas em 2026-10-17
+
+### MAG-AUT-002
+**Título:** Magia das Sombras Plutônica  
+**ID original:** L026  
+**Data conceitual:** 2026-09-02  
+**Objetivo:** dominar/capturar riqueza e potência do outro.  
+**Fórmula:** POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO.  
+**Estado:** base de criação detalhada ativa.
+
+### MAG-AUT-003
+**Título:** Magia das Sombras Netuniana  
+**ID original:** L027  
+**Data conceitual:** 2026-09-03  
+**Objetivo:** dominar o livre-arbítrio.  
+**Mecanismo:** alienação e isolamento.  
+**Estado:** embrionário; fórmula detalhada e forma virtuosa abertas.
+
+## Histórico adicional
+
+- **2026-10-17:** criação das entidades especializadas de Magia das Sombras e integração de L026 e L027 ao NUC-MAGIA.

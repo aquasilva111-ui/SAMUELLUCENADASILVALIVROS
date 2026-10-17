@@ -50,6 +50,28 @@ Ele deve conservar, separadamente:
 - **Relação com o núcleo:** confirmada pela decisão de 2026-10-16 de separar os livros de magia em núcleo próprio.
 - **Observação:** continua sendo livro pessoal de Samuel; não deve ser tratado como republicação histórica.
 
+### MAG-AUT-002 — Magia das Sombras Plutônica
+- **Origem:** obra autoral de Samuel.
+- **ID original:** L026.
+- **Data do núcleo conceitual:** 2026-09-02.
+- **Integração ao repositório:** 2026-10-17.
+- **Local principal:** LIVROS/L026_MAGIA_DAS_SOMBRAS_PLUTONICA/.
+- **Série:** Magia e Bruxaria Popular Moderna Sincrético-Moderna.
+- **Núcleo doutrinário:** dominar a riqueza e a potência do outro.
+- **Fórmula:** POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO.
+- **Regra ética:** riqueza e poder não são sombra em si; a sombra surge na captura da potência alheia contra sua autonomia.
+- **Estado:** tratado de criação, base de dados, histórico, imagens e prompts estruturados; forma virtuosa de Plutão ainda em desenvolvimento.
+
+### MAG-AUT-003 — Magia das Sombras Netuniana
+- **Origem:** obra autoral de Samuel.
+- **ID original:** L027.
+- **Data do conceito:** 2026-09-03.
+- **Integração ao repositório:** 2026-10-17.
+- **Local principal:** LIVROS/L027_MAGIA_DAS_SOMBRAS_NETUNIANA/.
+- **Núcleo doutrinário confirmado:** domínio do livre-arbítrio pela alienação e isolamento.
+- **Objeto resumido:** autodeterminação.
+- **Estado:** embrionário; virtude, forma luminosa, fórmula completa e aplicações detalhadas ainda abertas.
+
 ### MAG-REP-001 — A Manual of Astrology, or The Book of the Stars
 - **Autor histórico:** Robert Cross Smith, conhecido como Raphael.
 - **Publicação original usada como referência:** 1828.
@@ -167,3 +189,24 @@ O subnúcleo possui tratado editorial, banco de dados de criação, dossiê dos 
 **Regra de escopo:** não adicionar outros títulos automaticamente. A inclusão de qualquer sétimo livro exige decisão autoral explícita.
 
 **Última atualização:** 2026-10-17
+
+## 12. Linha autoral — Magia das Sombras
+
+**Adicionada em:** 2026-10-17
+
+A série autoral Magia e Bruxaria Popular Moderna Sincrético-Moderna passa a ter documentação própria para forças planetárias em sua deformação sombria.
+
+Princípio geral registrado:
+**FORÇA PLANETÁRIA → VIRTUDE → DISTORÇÃO → MAGIA DAS SOMBRAS**
+
+Princípio ético:
+**A sombra começa quando uma potência é utilizada contra a autonomia fundamental do outro.**
+
+Mecanismos já diferenciados:
+- **Saturno sombrio:** aprisiona; arquitetura da prisão; fórmula comparativa FORÇA → LIMITE → APRISIONAMENTO → REPETIÇÃO.
+- **Plutão sombrio:** captura potência; arquitetura da extração; POTÊNCIA → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO.
+- **Netuno sombrio:** domina livre-arbítrio pela alienação e isolamento; mecânica detalhada ainda em desenvolvimento.
+
+Regra: o núcleo não deve transformar essas três categorias numa taxonomia completa de todos os planetas sem decisão autoral explícita.
+
+**Última atualização desta linha:** 2026-10-17

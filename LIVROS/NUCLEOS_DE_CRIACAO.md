@@ -31,6 +31,9 @@ O conteúdo detalhado vive dentro da pasta individual de cada livro. IDs são es
 - L022 — AI-HUMANIZE-2003
 - L023 — Sabatismo Frankista e A Teoria da Escatologia
 
+- L026 — Magia das Sombras Plutônica
+- L027 — Magia das Sombras Netuniana
+
 ## ID reservado / realocado
 
 - L013 — LOHAN — realocado para Aesthetic Cinematic Universe; não pertence mais à estrutura pessoal deste repositório.
@@ -61,3 +64,17 @@ Em 2026-10-17, a série **Esferas do Poder** recebeu seu primeiro núcleo espec�
 - **L008-TMOS — The Male from the Orange Sphere**.
 
 O material vive dentro de `LIVROS/L008_ESFERAS_DO_PODER/` e possui cópia estruturada no núcleo da base de dados. A relação com chakras continua aberta e não deve ser inferida.
+
+
+## Expansão do Núcleo Magia confirmada em 2026-10-17
+
+### MAG-AUT-002 — L026 — Magia das Sombras Plutônica
+Obra autoral de Samuel. Núcleo conceitual formalizado em 2026-09-02 e integrado ao repositório em 2026-10-17. Fórmula canônica: POTÊNCIA DO OUTRO → CONTROLE → EXTRAÇÃO → CONCENTRAÇÃO.
+
+### MAG-AUT-003 — L027 — Magia das Sombras Netuniana
+Obra autoral em estado embrionário. Conceito registrado em 2026-09-03: domínio do livre-arbítrio por alienação e isolamento. A fórmula detalhada e a forma virtuosa permanecem abertas.
+
+### Regra
+Os volumes de Magia das Sombras compartilham o princípio de autonomia da coleção, mas cada planeta deve conservar mecanismo, virtude, deformação, objeto de captura e histórico próprios. Não preencher automaticamente um planeta a partir de outro.
+
+**Última atualização desta expansão:** 2026-10-17
