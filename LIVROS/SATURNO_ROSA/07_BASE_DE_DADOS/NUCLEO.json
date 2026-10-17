@@ -1,0 +1,827 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-10-17",
+  "work": {
+    "id": "SATURNO_ROSA",
+    "title": "Saturno Rosa",
+    "author": "Samuel Lucena da Silva",
+    "scope": "magia filosófica, cosmogonia, Convenções de Realidade, Pronoia/Paranoia",
+    "genre": "tratado mágico-filosófico sincrético",
+    "word_target": {
+      "min": 35000,
+      "max": 40000
+    },
+    "chapter_outline_count": 23,
+    "outline_status": "provisorio",
+    "canon_policy": "Apenas decisões explícitas do autor; preserve todas as variantes."
+  },
+  "concepts": [
+    {
+      "id": "SR-CON-001",
+      "name": "Mãe Saturno",
+      "status": "confirmado_autoral",
+      "relations": [
+        "Via Láctea",
+        "tecelagem",
+        "abundância",
+        "frutificação",
+        "obsessão criativa"
+      ]
+    },
+    {
+      "id": "SR-CON-002",
+      "name": "Pai Saturno",
+      "status": "confirmado_autoral",
+      "relations": [
+        "origem na Mãe",
+        "Titã",
+        "Maia",
+        "Cubo",
+        "tempo",
+        "obsessão de conter"
+      ]
+    },
+    {
+      "id": "SR-CON-003",
+      "name": "Saturno Negro",
+      "status": "definicao_aberta",
+      "relations": [
+        "estrutura autocentrada",
+        "Cubo Negro",
+        "sacrifício",
+        "Paranoia"
+      ]
+    },
+    {
+      "id": "SR-CON-004",
+      "name": "Saturno Rosa",
+      "status": "ontologia_aberta",
+      "relations": [
+        "reconciliação",
+        "Mãe",
+        "Pai",
+        "Criação",
+        "Pronoia",
+        "limite como ventre"
+      ]
+    },
+    {
+      "id": "SR-CON-005",
+      "name": "Criação Alquimista",
+      "status": "confirmado_autoral",
+      "relations": [
+        "autonomia",
+        "transformação da matéria",
+        "exorcismo das obsessões"
+      ]
+    },
+    {
+      "id": "SR-CON-006",
+      "name": "Cubo",
+      "status": "confirmado_autoral",
+      "relations": [
+        "Cubo de Luz possível",
+        "Cubo Negro",
+        "Cubo Rosa pendente"
+      ]
+    },
+    {
+      "id": "SR-CON-007",
+      "name": "Convenção Rainha",
+      "status": "confirmado_autoral",
+      "relations": [
+        "Ideia-Crença",
+        "Ideia-Símbolo",
+        "gravidade",
+        "rede neuronal metafórica"
+      ]
+    }
+  ],
+  "conventions": [
+    {
+      "id": "SR-CR-001",
+      "group": "Primordiais",
+      "name": "Tudo pode existir primeiro como potência",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-002",
+      "group": "Primordiais",
+      "name": "Energia e matéria não cumprem a mesma função",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-003",
+      "group": "Primordiais",
+      "name": "Manifestar é tecer",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-004",
+      "group": "Primordiais",
+      "name": "Toda forma necessita de limite",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-005",
+      "group": "Primordiais",
+      "name": "Manifestação completa tende à frutificação",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-006",
+      "group": "Mãe",
+      "name": "Abundância precede a escassez",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-007",
+      "group": "Mãe",
+      "name": "Nutrir é sustentar a manifestação",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-008",
+      "group": "Mãe",
+      "name": "A matéria pode ser expressão de cuidado",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-009",
+      "group": "Mãe",
+      "name": "A Via é passagem",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-010",
+      "group": "Mãe",
+      "name": "Abundância ilimitada também pode adoecer",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-011",
+      "group": "Pai",
+      "name": "Resistência pode possuir função criativa",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-012",
+      "group": "Pai",
+      "name": "Ainda não é diferente de nunca",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-013",
+      "group": "Pai",
+      "name": "Ordem protege a criação do excesso",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-014",
+      "group": "Pai",
+      "name": "O Cubo regula a passagem",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-015",
+      "group": "Pai",
+      "name": "Contenção só permanece virtuosa enquanto serve à vida",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-016",
+      "group": "Queda",
+      "name": "Toda virtude pode deformar-se por obsessão",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-017",
+      "group": "Queda",
+      "name": "Uma estrutura pode esquecer sua finalidade",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-018",
+      "group": "Queda",
+      "name": "O Cubo Negro é potência excessivamente contida",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-019",
+      "group": "Queda",
+      "name": "Escassez pode ser abundância impedida",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-020",
+      "group": "Sacrifício",
+      "name": "Saturno Negro inverte a lógica da abundância",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-021",
+      "group": "Sacrifício",
+      "name": "O sacrifício pode transformar-se em moeda psicológica",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-022",
+      "group": "Sacrifício",
+      "name": "Dor e valor não são equivalentes",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-023",
+      "group": "Sacrifício",
+      "name": "Uma prisão pode sobreviver sem carcereiro consciente",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-024",
+      "group": "Psicologia",
+      "name": "O mundo externo pode tornar-se estrutura interna",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-025",
+      "group": "Psicologia",
+      "name": "Saturno Negro produz a dívida existencial",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-026",
+      "group": "Psicologia",
+      "name": "Convenções podem parecer fatos naturais",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-027",
+      "group": "Rosa",
+      "name": "Saturno cura Saturno",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-028",
+      "group": "Rosa",
+      "name": "O limite virtuoso prepara autonomia",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-029",
+      "group": "Rosa",
+      "name": "Amor também pode dizer não",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-030",
+      "group": "Rosa",
+      "name": "Abundância precisa de estrutura para frutificar",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-031",
+      "group": "Rosa",
+      "name": "Estrutura precisa de abundância para não esterilizar-se",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-032",
+      "group": "Rosa",
+      "name": "Frutificação é superior à produção compulsiva",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-033",
+      "group": "Alquimia",
+      "name": "A criação não precisa permanecer passiva",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-034",
+      "group": "Alquimia",
+      "name": "Transformação reduz a necessidade de criação infinita",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-035",
+      "group": "Alquimia",
+      "name": "Autonomia reduz a necessidade de controle absoluto",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    },
+    {
+      "id": "SR-CR-036",
+      "group": "Alquimia",
+      "name": "A criação participa da cura dos Criadores",
+      "type": "conceito_sistematizado",
+      "status": "descritivo_a_validar_individualmente",
+      "predominant_nucleus": null,
+      "associated_nuclei": [],
+      "gravity": null,
+      "last_updated": "2026-10-17",
+      "definition_file": "03_CONVENCOES/36_CONVENCOES_DE_REALIDADE.md"
+    }
+  ],
+  "queen_candidates": [
+    {
+      "id": "SR-IS-PARANOIA",
+      "type": "Ideia-Símbolo",
+      "role": "Convenção Rainha possível",
+      "status": "confirmado_autoral_com_relacoes_pendentes"
+    },
+    {
+      "id": "SR-IS-PRONOIA",
+      "type": "Ideia-Símbolo",
+      "role": "Convenção Rainha possível",
+      "status": "confirmado_autoral_com_relacoes_pendentes"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "CAP1",
+      "number": 1,
+      "title": "O Saturno que aprendemos a temer",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP2",
+      "number": 2,
+      "title": "O Espectro Saturnino",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP3",
+      "number": 3,
+      "title": "Era uma vez o Tudo",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP4",
+      "number": 4,
+      "title": "A Obsessão da Mãe",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP5",
+      "number": 5,
+      "title": "O Nascimento do Pai Saturno",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP6",
+      "number": 6,
+      "title": "Titã, Maia e o Campo de Contenção",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP7",
+      "number": 7,
+      "title": "O Cubo",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP8",
+      "number": 8,
+      "title": "Quando o Pai Também Ficou Obcecado",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP9",
+      "number": 9,
+      "title": "A Inversão da Abundância",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP10",
+      "number": 10,
+      "title": "A Estrutura que Devora a Vida",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP11",
+      "number": 11,
+      "title": "O Carcereiro Dentro da Mente",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP12",
+      "number": 12,
+      "title": "Ideias que Constroem Mundos",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP13",
+      "number": 13,
+      "title": "Paranoia",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP14",
+      "number": 14,
+      "title": "Pronoia",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP15",
+      "number": 15,
+      "title": "A Alquimia Saturnina",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP16",
+      "number": 16,
+      "title": "O Veneno que Cura",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP17",
+      "number": 17,
+      "title": "A Mãe que Protege e Nutre",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP18",
+      "number": 18,
+      "title": "O Pai que Volta a Ser Pai",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP19",
+      "number": 19,
+      "title": "Os Filhos Educam os Pais",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP20",
+      "number": 20,
+      "title": "Saturno Rosa",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP21",
+      "number": 21,
+      "title": "A Magia do Limite Protetor",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP22",
+      "number": 22,
+      "title": "O Símbolo de Saturno Rosa",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    },
+    {
+      "id": "CAP23",
+      "number": 23,
+      "title": "Práticas de Saturno Rosa",
+      "status": "estrutura_provisoria",
+      "outline_file": "02_ESQUELETO/ESQUELETO_23_CAPITULOS.md"
+    }
+  ],
+  "images": [
+    {
+      "id": "IMG-SR-001",
+      "name": "Selo hexagonal com anel",
+      "hex": "#f40584",
+      "source_image_file": null,
+      "source_status": "imagem_anterior_nao_identificada",
+      "prompt_id": "P-SR-001"
+    },
+    {
+      "id": "IMG-SR-002",
+      "name": "Cubo Rosa sobre gravura",
+      "hex": "#f40584",
+      "source_image_file": null,
+      "source_status": "imagem_anterior_nao_identificada",
+      "prompt_id": "P-SR-003"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "P-SR-001",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-002",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-003",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-004",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-005",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-006",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-007",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-008",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-009",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-010",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-011",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-012",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-013",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    },
+    {
+      "id": "P-SR-014",
+      "file": "04_IMAGENS_E_PROMPTS/PROMPTS_E_DIRECAO_DE_ARTE.md",
+      "approval": "pendente"
+    }
+  ],
+  "open_questions": [
+    "Origem dupla de Saturno Negro",
+    "Maia versus Mãe Saturno",
+    "Ontologia de Saturno Rosa",
+    "Estado do Cubo Rosa e Cubo de Luz",
+    "Moloch relação ontológica",
+    "Titã como prisão/câmara",
+    "Pronoia primordial e memória posterior",
+    "Procedimentos rituais",
+    "Meta 35–40k versus 23 capítulos"
+  ],
+  "related_projects": [
+    "LIVROS/L015_CONVENCOES_DE_REALIDADE",
+    "LIVROS/L003_SAMUEL_E_A_PRONOIA",
+    "LIVROS/L004_MAGIA_DA_PARANOIA",
+    "NUCLEOS/MAGIA"
+  ],
+  "asset_policy": "Sem mídia binária verificada de Saturno Rosa nesta importação: não afirmar upload.",
+  "provenance_policy": "Separar fala do autor, síntese editorial, hipótese, fonte e afirmação empírica.",
+  "history": [
+    {
+      "date": "2026-10-17",
+      "operation": "implantação da base documental",
+      "actor": "assistente sob pedido autoral"
+    }
+  ]
+}
