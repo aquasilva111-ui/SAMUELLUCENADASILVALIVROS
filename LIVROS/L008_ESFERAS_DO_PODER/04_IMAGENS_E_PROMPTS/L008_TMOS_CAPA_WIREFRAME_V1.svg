@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="2560" viewBox="0 0 1600 2560">
+  <defs>
+    <radialGradient id="orangeGlow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#FFD09A"/>
+      <stop offset="42%" stop-color="#FF9A2E"/>
+      <stop offset="78%" stop-color="#F36B13"/>
+      <stop offset="100%" stop-color="#A83A00"/>
+    </radialGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="34" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- PROVISÓRIO / SUGESTÃO IA — wireframe de hierarquia, não capa final -->
+  <rect width="1600" height="2560" fill="#111111"/>
+
+  <text x="120" y="220" fill="#A9A9A9" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="10">
+    ESFERAS DO PODER
+  </text>
+
+  <text x="120" y="500" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="132" font-weight="700" letter-spacing="4">
+    <tspan x="120" dy="0">THE POST</tspan>
+    <tspan x="120" dy="145">WOMAN MEN</tspan>
+  </text>
+
+  <text x="124" y="835" fill="#B8B8B8" font-family="Arial, Helvetica, sans-serif" font-size="26" letter-spacing="6">
+    MARKETING QUOTE / CHAMADA DE CAPA
+  </text>
+
+  <circle cx="800" cy="1450" r="395" fill="#F36B13" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="800" cy="1450" r="300" fill="url(#orangeGlow)"/>
+
+  <text x="800" y="1960" text-anchor="middle" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="74" letter-spacing="3">
+    <tspan x="800" dy="0">THE MALE FROM THE</tspan>
+    <tspan x="800" dy="92">ORANGE SPHERE</tspan>
+  </text>
+
+  <line x1="450" y1="2205" x2="1150" y2="2205" stroke="#555555" stroke-width="2"/>
+
+  <text x="800" y="2295" text-anchor="middle" fill="#CFCFCF" font-family="Arial, Helvetica, sans-serif" font-size="34" letter-spacing="7">
+    SAMUEL LUCENA DA SILVA
+  </text>
+
+  <text x="800" y="2470" text-anchor="middle" fill="#6F6F6F" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="4">
+    V1 · PROVISÓRIO · UPDATE 2026-10-17
+  </text>
+</svg>

@@ -14,7 +14,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L005 | Tratado de Criação Intelectual e Artística com Inteligência Artificial | autoria, criatividade, IA | tratado | desenvolvimento avançado |
 | L006 | Brasil, o Gigante Atrófico Adormecido — Volume 1: Brasil Core | Brasil, identidade, sociologia | série / volume 1 | conceito |
 | L007 | Brasil Core: Um Fenômeno Muito Além da Internet | cultura brasileira, internet, identidade | relação com L006 aberta | conceito |
-| L008 | Esferas do Poder | psicologia, poder, simbolismo | a definir | conceito |
+| L008 | Esferas do Poder | psicologia autoral, poder, simbolismo, masculinidades | série; inclui **The Male from the Orange Sphere** (L008-TMOS), numeração interna ainda aberta | desenvolvimento conceitual; núcleo L008-TMOS criado em 2026-10-17 |
 | L009 | Psicologia dos Chakras: Esferas de Poder | psicologia, magia, simbolismo, espiritualidade, corpo, teoria social | a definir | desenvolvimento |
 | L010 | Mass Psychology: Social Petroleum — Volume 1: The Great War Against Lilith; The Suppression of Female Power | psicologia coletiva, gênero, história | coleção / volume 1 | conceito |
 | L011 | The Inner Villain | psicologia, sombra, antagonismo interno | independente | conceito |
@@ -53,3 +53,19 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | APROF-001 | A Profecia do Alquimista | mitopoética, alquimia da consciência coletiva, Grande Pai, Grande Mãe e Reino dos Filhos | obra independente; relações com outras obras não confirmadas | núcleo editorial, capítulo-proposta, esqueleto e banco de dados registrados em 2026-10-17 |
 
 **Arquivo editorial APROF-001:** [LIVROS/A_PROFECIA_DO_ALQUIMISTA](LIVROS/A_PROFECIA_DO_ALQUIMISTA/README.md). **Última atualização desta inclusão:** 2026-10-17. A obra possui visão original integral preservada, cosmos estruturado, prosa inicial, 8 Major Beats e 23 Beats, controle de convenções, prompts de imagens e histórico de criação. O ID específico evita supor sequência numérica L026, ainda não aprovada.
+
+
+## Atualizações internas de séries
+
+### L008 — atualização de 2026-10-17
+
+**The Male from the Orange Sphere** foi formalmente integrado como livro/subprojeto da série **Esferas do Poder**.
+
+Dados confirmados:
+- chamada de capa/marketing: **THE POST WOMAN MEN**;
+- título: **THE MALE FROM THE ORANGE SPHERE**;
+- meta: **35.000–50.000 palavras**;
+- núcleo autoral: homem desconectado da masculinidade de sobrevivência da Esfera Existencial, com masculino intuitivo, intuição integrada, delicadeza e relação específica com desejo, mulheres e sociabilidade masculina;
+- número de volume: ainda não definido.
+
+Não inferir relação automática com Psicologia dos Chakras.

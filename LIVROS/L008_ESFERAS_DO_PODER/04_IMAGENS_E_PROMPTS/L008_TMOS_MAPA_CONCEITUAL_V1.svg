@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+  <defs>
+    <radialGradient id="sphere" cx="42%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#FFD6A3"/>
+      <stop offset="52%" stop-color="#FF9426"/>
+      <stop offset="100%" stop-color="#D85300"/>
+    </radialGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#777"/>
+    </marker>
+  </defs>
+
+  <!-- PROVISÓRIO / SUGESTÃO IA — não representa sistema completo -->
+  <rect width="1800" height="1200" fill="#F7F7F5"/>
+
+  <text x="90" y="90" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#1D1D1D">
+    THE MALE FROM THE ORANGE SPHERE — MAPA CONCEITUAL V1
+  </text>
+  <text x="90" y="140" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#666">
+    Duas lógicas organizadoras em contraste; não é hierarquia, diagnóstico nem mapa científico.
+  </text>
+
+  <rect x="110" y="300" rx="28" ry="28" width="580" height="530" fill="#E7E7E3" stroke="#B9B9B4" stroke-width="3"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2A2A2A">
+    ESFERA EXISTENCIAL
+  </text>
+  <text x="400" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#555">
+    masculinidade de sobrevivência
+  </text>
+
+  <text x="180" y="540" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#444">• sobrevivência como eixo</text>
+  <text x="180" y="595" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#444">• masculino carnal — definição aberta</text>
+  <text x="180" y="650" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#444">• pertencimento e validação — investigar</text>
+  <text x="180" y="705" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#444">• função saudável ainda a definir</text>
+
+  <line x1="735" y1="565" x2="1010" y2="565" stroke="#777" stroke-width="4" marker-end="url(#arrow)"/>
+  <text x="872" y="525" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#666">
+    relação / contraste
+  </text>
+
+  <circle cx="1280" cy="565" r="280" fill="#FF8A1F" opacity="0.14"/>
+  <circle cx="1280" cy="565" r="225" fill="url(#sphere)"/>
+
+  <text x="1280" y="515" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#171717">
+    ESFERA LARANJA
+  </text>
+  <text x="1280" y="560" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#262626">
+    masculinidade intuitiva
+  </text>
+
+  <text x="1280" y="630" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#2A2A2A">intuição integrada</text>
+  <text x="1280" y="665" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#2A2A2A">delicadeza</text>
+  <text x="1280" y="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#2A2A2A">conexão emocional e intelectual</text>
+  <text x="1280" y="735" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#2A2A2A">autonomia identitária diante da mulher</text>
+
+  <text x="1280" y="900" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#444">
+    baixa identificação com o masculino carnal/existencial
+  </text>
+  <text x="1280" y="950" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#444">
+    atração por ambos os sexos: frequente no conceito, não regra universal definida
+  </text>
+
+  <text x="90" y="1090" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#777">
+    RESTRIÇÃO: não inferir chakra, superioridade evolutiva ou equivalência com Convenções de Realidade.
+  </text>
+  <text x="90" y="1135" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#999">
+    PROVISÓRIO / SUGESTÃO IA · UPDATE 2026-10-17
+  </text>
+</svg>
