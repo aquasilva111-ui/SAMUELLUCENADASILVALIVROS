@@ -12,7 +12,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L003 | Samuel e a Pronoia | autobiográfico, psicológico, espiritual-filosófico | relacionado à Pronoia | conceito |
 | L004 | Magia da Paranoia: O Diabo Todo-Poderoso | psicologia, paranoia, magia, símbolo | possível coleção de magia moderna | conceito |
 | L005 | Tratado de Criação Intelectual e Artística com Inteligência Artificial | autoria, criatividade, IA | tratado | desenvolvimento avançado |
-| L006 | Brasil, o Gigante Atrófico Adormecido — Volume 1: Brasil Core | Brasil, identidade, sociologia | série / volume 1 | conceito |
+| L006 | Brasil, o Gigante Autofágico Antropófago [título de trabalho atual] | Brasil, identidade, antropofagia, autofagia, alquimização, teoria social | formulação atual; “Gigante Atrófico Adormecido — Volume 1: Brasil Core” preservado como versão anterior; relação com L007 aberta | núcleo conceitual e banco de dados atualizados em 2026-10-17 |
 | L007 | Brasil Core: Um Fenômeno Muito Além da Internet | cultura brasileira, internet, identidade | relação com L006 aberta | conceito |
 | L008 | Esferas do Poder | psicologia autoral, poder, simbolismo, masculinidades | série; inclui **The Male from the Orange Sphere** (L008-TMOS), numeração interna ainda aberta | desenvolvimento conceitual; núcleo L008-TMOS criado em 2026-10-17 |
 | L009 | Psicologia dos Chakras: Esferas de Poder | psicologia, magia, simbolismo, espiritualidade, corpo, teoria social | a definir | desenvolvimento |
@@ -46,7 +46,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 
 ## Relações editoriais ainda abertas
 
-1. L006 e L007 podem ser livro/volume/subtítulo ou obras separadas.
+1. L006 e L007 mantêm relação editorial aberta. Brazil Core é antecedente intelectual de L006, mas não estrutura definitiva; podem permanecer obras separadas ou assumir outra relação apenas mediante decisão autoral.
 2. “Samuel e a Pronoia” não deve ser fundido automaticamente com outros projetos que usem o conceito de Pronoia.
 3. Convenções de Realidade é livro e também metodologia; manter essas duas funções distinguíveis.
 4. “Hisstory” deve ser preservado como grafia autoral enquanto Samuel assim definir.
@@ -138,3 +138,21 @@ Não inferir relação automática com Psicologia dos Chakras.
 - **Última atualização:** 2026-10-17.
 
 **Nota de ID:** o identificador `MAG-AUT-002` foi usado deliberadamente para não colidir com os IDs L025 e L026 já ocupados por outras obras do catálogo.
+
+
+## Atualização L006 — 2026-10-17
+
+**Brasil, o Gigante Autofágico Antropófago** passa a ser a formulação autoral de trabalho mais recente do L006.
+
+Correção central: **autofagia não significa autossabotagem ou destruição do Brasil**. No núcleo atual, autofagia descreve o processo pelo qual o Brasil, depois de incorporar múltiplas matrizes civilizacionais e também suas mazelas, encontra essas contradições dentro do próprio corpo social, entra em guerra com elas e tenta digeri-las/alquimizá-las.
+
+Cadeia de trabalho: **GIGANTE → ANTROPÓFAGO → HERDEIRO → AUTOFÁGICO → ALQUÍMICO**.
+
+Exemplos iniciais citados pelo autor: racismo, xenofobia e feminicídio. A comparação com outros países permanece hipótese de pesquisa e não deve ser tratada como fato sem verificação.
+
+**Brazil Core: Um Fenômeno Além da Internet** foi registrado como antecedente intelectual e reservatório conceitual, mas não representa automaticamente a ideia final desta obra.
+
+**Arquivo editorial:** [L006 — Brasil, o Gigante Autofágico Antropófago](LIVROS/L006_BRASIL_GIGANTE_ATROFICO/README.md).  
+**Tratado:** [Tratado de Criação 2026-10-17](LIVROS/L006_BRASIL_GIGANTE_ATROFICO/01_NUCLEO_E_CANONE/TRATADO_DE_CRIACAO_2026-10-17.md).  
+**Banco de dados:** [Banco de Dados Criativo 2026-10-17](LIVROS/L006_BRASIL_GIGANTE_ATROFICO/01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md).  
+**Última atualização desta inclusão:** 2026-10-17.
