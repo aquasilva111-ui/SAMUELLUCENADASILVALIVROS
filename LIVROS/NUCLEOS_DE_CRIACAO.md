@@ -66,3 +66,8 @@ O material vive dentro de `LIVROS/L008_ESFERAS_DO_PODER/` e possui cópia estrut
 ## Novo núcleo individual — 2026-10-17
 
 - **MAG-MODERNA-001 — Magia Moderna: Como dominar o seu(s) Daimon(s) para o seu benefício e sucesso** — obra autoral de Samuel Lucena da Silva. Local: `LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/`. Núcleo editorial NUC-MAGIA. Mantém ID dedicado provisório para não renumerar registros históricos do repositório.
+
+
+## Novo núcleo individual — 2026-10-17
+
+- **TOM-001 — The Oppressed Men** — crítica da ideia de privilégio universal dos homens e investigação de homens oprimidos e perseguidos em estruturas patriarcais. Arquivo: `LIVROS/THE_OPPRESSED_MEN/`. Núcleo conceitual com transcrição literal e desenvolvimento da assistência, distinção de proveniência, Convenções de Realidade, agenda investigativa e 5 prompts visuais. Relações com outras obras não aprovadas. **Atualização:** 2026-10-17.
