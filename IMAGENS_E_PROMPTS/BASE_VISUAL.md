@@ -146,3 +146,22 @@ Nunca:
 - apagar versão rejeitada;
 - declarar uma imagem canônica sem aprovação;
 - associar imagem a obra só por semelhança estética.
+
+
+## 7. Assets editoriais de L025 — Magia das Sombras Plutônica
+
+**Adicionado em:** 2026-10-17  
+**Local:** LIVROS/L025_MAGIA_DAS_SOMBRAS_PLUTONICA/IMAGENS_E_PROMPTS/
+
+### Imagens SVG registradas
+- IMG-L025-001 — FORMULA_PLUTONICA.svg — fórmula Potência do Outro → Controle → Extração → Concentração.
+- IMG-L025-002 — TRIADE_SATURNO_PLUTAO_NETUNO.svg — comparação Saída / Potência / Autodeterminação.
+- IMG-L025-003 — ECONOMIA_PSIQUICA_PLUTONICA.svg — mapa de produção, controle, extração e concentração.
+
+### Prompts
+A biblioteca PROMPTS_DE_CRIACAO.md preserva prompts de capa, ilustrações conceituais, plutocracia sem caricatura, Saturno + Plutão, economia psíquica, autonomia e edições alternativas.
+
+### Regra de associação
+FORMULA NINJA 2000.png, FORMULA NINJA 3000.png e FORMULA NINJA 4000.png continuam NÃO ASSOCIADOS a L025 ou L026. A criação de assets específicos de Magia das Sombras não altera o estado desses arquivos.
+
+**Última atualização desta seção:** 2026-10-17
