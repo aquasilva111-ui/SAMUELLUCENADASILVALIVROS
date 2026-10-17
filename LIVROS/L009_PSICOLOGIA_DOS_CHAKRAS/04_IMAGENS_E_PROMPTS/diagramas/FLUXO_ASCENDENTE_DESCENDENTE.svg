@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="900" viewBox="0 0 1800 900">
+<rect width="1800" height="900" fill="white"/>
+<style>.t{font-family:Arial,Helvetica,sans-serif;fill:#111}.h{font-size:48px;font-weight:700}.s{font-size:28px}.b{font-size:30px;font-weight:700}</style>
+<text x="900" y="80" text-anchor="middle" class="t h">Fluxo Ascendente e Descendente</text>
+<text x="120" y="190" class="t b">ASCENDENTE</text>
+<line x1="180" y1="260" x2="1620" y2="260" stroke="#111" stroke-width="6"/>
+<polygon points="1620,260 1575,235 1575,285" fill="#111"/>
+<text x="210" y="330" text-anchor="middle" class="t s">EXISTIR</text><text x="440" y="330" text-anchor="middle" class="t s">DESEJAR</text><text x="670" y="330" text-anchor="middle" class="t s">ESCOLHER</text><text x="900" y="330" text-anchor="middle" class="t s">VINCULAR-SE</text><text x="1130" y="330" text-anchor="middle" class="t s">EXPRESSAR</text><text x="1360" y="330" text-anchor="middle" class="t s">COMPREENDER</text><text x="1590" y="330" text-anchor="middle" class="t s">SENTIDO</text>
+<text x="120" y="520" class="t b">DESCENDENTE</text>
+<line x1="1620" y1="590" x2="180" y2="590" stroke="#111" stroke-width="6"/>
+<polygon points="180,590 225,565 225,615" fill="#111"/>
+<text x="1590" y="660" text-anchor="middle" class="t s">SENTIDO</text><text x="1360" y="660" text-anchor="middle" class="t s">compreensão</text><text x="1130" y="660" text-anchor="middle" class="t s">palavra</text><text x="900" y="660" text-anchor="middle" class="t s">vínculo</text><text x="670" y="660" text-anchor="middle" class="t s">decisão</text><text x="440" y="660" text-anchor="middle" class="t s">criação</text><text x="210" y="660" text-anchor="middle" class="t s">matéria</text>
+<text x="900" y="790" text-anchor="middle" class="t s">As Esferas formam circuito funcional. Não existe hierarquia moral entre raiz e coroa.</text>
+<text x="900" y="835" text-anchor="middle" class="t s">L009 — atualização 2026-10-17</text>
+</svg>
