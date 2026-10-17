@@ -9,59 +9,141 @@
 Este repositório **não** deve receber obras pertencentes ao:
 - Aesthetic Cinematic Universe;
 - Universo da Estrela Cadente / Falstello;
-- outros universos, marcas ou linhas editoriais que não façam parte da bibliografia pessoal de Samuel.
+- outros universos ou linhas editoriais externas à bibliografia pessoal aqui definida.
 
-Quando um projeto pertencer a outro universo, ele deve ser mantido em repositório próprio.
+Quando um projeto pertence a outro universo, sua documentação principal deve permanecer no repositório correspondente.
 
-## Função
+**LOHAN** foi retirado da estrutura pessoal após confirmação de que pertence ao Aesthetic Cinematic Universe. O ID histórico L013 não será reutilizado.
 
-O repositório guarda:
-- catálogo dos livros pessoais;
-- núcleo conceitual de cada obra;
-- cânone e níveis de confirmação;
-- esqueleto, Major Beats, Beats e cenas quando aplicável;
-- teorias, personagens, conceitos e questões abertas;
-- imagens e prompts vinculados a cada livro;
-- histórico de alterações com data;
-- material ainda não posicionado;
-- fontes e referências quando houver pesquisa.
+## O que este repositório guarda
+
+Não é apenas uma coleção de manuscritos.
+
+É uma **base de dados autoral de criação** capaz de preservar:
+- catálogo;
+- premissa;
+- tese;
+- conceitos;
+- personagens;
+- regras;
+- cânone;
+- níveis de confirmação;
+- esqueleto;
+- Partes;
+- Major Beats;
+- Beats;
+- cenas;
+- fundamento pregresso;
+- setups e payoffs;
+- questões narrativas;
+- dados;
+- fontes;
+- imagens;
+- prompts;
+- versões;
+- contradições;
+- decisões;
+- histórico;
+- material ainda sem posição.
 
 ## Regra central
 
-> Samuel cria. A IA organiza.
+> **Samuel cria. A IA organiza.**
 
-A IA pode extrair, estruturar, conectar, pesquisar, preservar continuidade e apontar lacunas. Não deve transformar hipótese em fato, completar silenciosamente o que não foi definido nem promover sugestão própria a cânone.
+A IA pode:
+- extrair;
+- estruturar;
+- decompor;
+- conectar;
+- recuperar contexto;
+- pesquisar;
+- apontar lacunas;
+- preservar continuidade;
+- registrar versões;
+- ajudar na narração quando autorizada.
 
-## Pastas dos livros
+A IA não deve:
+- transformar hipótese em fato;
+- completar lacuna silenciosamente;
+- normalizar conceito incomum;
+- promover sugestão própria a cânone;
+- apagar versões anteriores;
+- misturar cânones de livros diferentes.
 
-Cada livro possui sua própria pasta em `LIVROS/`. O arquivo `README.md` de cada pasta funciona como núcleo vivo da obra e contém:
-1. identidade;
-2. datas;
-3. estado de cânone;
-4. premissa e tese;
-5. material confirmado;
-6. material provisório;
-7. questões abertas;
-8. estrutura/esqueleto;
-9. imagens e prompts;
-10. histórico de updates;
-11. material não posicionado.
+## Estrutura de cada livro
+
+Cada pasta em `LIVROS/` possui:
+
+- `README.md` — visão rápida e identidade.
+- `01_NUCLEO_E_CANONE/README.md` — regras da área.
+- `01_NUCLEO_E_CANONE/NUCLEO_COMPLETO.md` — documentação descritiva aprofundada já recuperada.
+- `02_ESQUELETO/` — arquitetura de Partes, capítulos, Major Beats, Beats e cenas.
+- `03_REFERENCIAS_E_PESQUISA/` — fontes, dados, pesquisas e documentos de proveniência.
+- `04_IMAGENS_E_PROMPTS/` — identidade visual, referências, prompts e genealogia de imagens.
+- `05_HISTORICO/` — updates datados.
+- `06_MATERIAL_NAO_POSICIONADO/` — material válido que ainda não encontrou posição estrutural.
 
 ## Níveis de cânone
 
-- **CONFIRMADO**
-- **PROVISÓRIO**
-- **POSSIBILIDADE**
-- **QUESTÃO ABERTA**
-- **SUGESTÃO DA IA**
+- **CONFIRMADO** — Samuel afirmou como parte do projeto.
+- **PROVISÓRIO** — ideia em teste.
+- **POSSIBILIDADE** — hipótese criativa ainda não aprovada.
+- **QUESTÃO ABERTA** — decisão pendente.
+- **SUGESTÃO DA IA** — nunca vira cânone automaticamente.
 
-Toda mudança relevante recebe data de atualização e preserva a genealogia da decisão.
+## Base de dados
 
-## Arquivos globais
+Ver:
+- [BASE_DE_DADOS/NUCLEO_DA_BASE.md](BASE_DE_DADOS/NUCLEO_DA_BASE.md)
 
-- `CATALOGO_MESTRE.md`
-- `BASE_DE_DADOS/NUCLEO_DA_BASE.md`
-- `IMAGENS_E_PROMPTS/BASE_VISUAL.md`
-- `HISTORICO/`
+A versão 2.0 registra entidades para:
+- obra;
+- unidade criativa;
+- capítulo;
+- Major Beat;
+- Beat;
+- questão narrativa;
+- Convenção de Realidade;
+- personagem;
+- evento;
+- conceito;
+- imagem;
+- prompt;
+- fonte;
+- update;
+- contradição;
+- proveniência;
+- Core Visions.
 
-O objetivo é que cada livro possa crescer sem perder de onde suas ideias vieram.
+## Metodologia editorial Core Visions
+
+O material de 14/04/2026 foi preservado em duas camadas:
+
+- [Fonte bruta exportada](FONTES_BRUTAS/ChatGPT-Estilo%20Editorial%20Core%20Visions-20261016-2020.md)
+- [Metodologia operacional](METODOLOGIA_EDITORIAL/CORE_VISIONS.md)
+
+A metodologia **não é aplicada automaticamente a todos os livros**. Cada obra precisa receber decisão própria.
+
+## Imagens e prompts
+
+Ver:
+- [IMAGENS_E_PROMPTS/BASE_VISUAL.md](IMAGENS_E_PROMPTS/BASE_VISUAL.md)
+- [IMAGENS_E_PROMPTS/REFERENCIAS_VISUAIS_2026-10-16.md](IMAGENS_E_PROMPTS/REFERENCIAS_VISUAIS_2026-10-16.md)
+
+Os arquivos `FORMULA NINJA 2000.png`, `FORMULA NINJA 3000.png` e `FORMULA NINJA 4000.png` foram identificados com dimensões e SHA-256, mas permanecem sem associação de livro até confirmação autoral.
+
+## Fontes brutas
+
+Documentos importados devem ser preservados sem depender apenas de resumos posteriores.
+
+Exemplos atuais:
+- export Core Visions;
+- instruções integrais de Convenções de Realidade dentro de L015;
+- prompt inicial de Predictive Hisstory and Herstory dentro de L018.
+
+## Histórico
+
+Toda alteração material deve registrar:
+**DATA → ELEMENTO → ESTADO ANTERIOR → NOVO ESTADO → MOTIVO → ORIGEM → APROVAÇÃO.**
+
+O objetivo é permitir que cada livro cresça sem perder a genealogia de suas ideias.
