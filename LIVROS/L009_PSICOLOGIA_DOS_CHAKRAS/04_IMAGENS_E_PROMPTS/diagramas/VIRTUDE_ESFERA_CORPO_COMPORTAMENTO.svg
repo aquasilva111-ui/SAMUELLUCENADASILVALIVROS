@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="760" viewBox="0 0 1800 760">
+<rect width="1800" height="760" fill="white"/>
+<style>.t{font-family:Arial,Helvetica,sans-serif;fill:#111}.h{font-size:46px;font-weight:700}.b{font-size:28px;font-weight:700}.s{font-size:22px}</style>
+<text x="900" y="80" text-anchor="middle" class="t h">Da Virtude à Consequência Humana</text>
+<rect x="35" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="107.5" y="350" text-anchor="middle" class="t b" font-size="28">VIRTUDE</text>
+ <line x1="180" y1="340" x2="205" y2="340" stroke="#111" stroke-width="3"/><polygon points="205,340 192,332 192,348" fill="#111"/><rect x="208" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="280.5" y="350" text-anchor="middle" class="t b" font-size="28">ESFERA</text>
+ <line x1="353" y1="340" x2="378" y2="340" stroke="#111" stroke-width="3"/><polygon points="378,340 365,332 365,348" fill="#111"/><rect x="381" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="453.5" y="350" text-anchor="middle" class="t b" font-size="28">NECESSIDADE</text>
+ <line x1="526" y1="340" x2="551" y2="340" stroke="#111" stroke-width="3"/><polygon points="551,340 538,332 538,348" fill="#111"/><rect x="554" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="626.5" y="350" text-anchor="middle" class="t b" font-size="28">CORPO</text>
+ <line x1="699" y1="340" x2="724" y2="340" stroke="#111" stroke-width="3"/><polygon points="724,340 711,332 711,348" fill="#111"/><rect x="727" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="799.5" y="350" text-anchor="middle" class="t b" font-size="28">EMOÇÃO</text>
+ <line x1="872" y1="340" x2="897" y2="340" stroke="#111" stroke-width="3"/><polygon points="897,340 884,332 884,348" fill="#111"/><rect x="900" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="972.5" y="350" text-anchor="middle" class="t b" font-size="28">PENSAMENTO</text>
+ <line x1="1045" y1="340" x2="1070" y2="340" stroke="#111" stroke-width="3"/><polygon points="1070,340 1057,332 1057,348" fill="#111"/><rect x="1073" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="1145.5" y="350" text-anchor="middle" class="t b" font-size="28">DESEJO</text>
+ <line x1="1218" y1="340" x2="1243" y2="340" stroke="#111" stroke-width="3"/><polygon points="1243,340 1230,332 1230,348" fill="#111"/><rect x="1246" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="1318.5" y="350" text-anchor="middle" class="t b" font-size="28">VONTADE</text>
+ <line x1="1391" y1="340" x2="1416" y2="340" stroke="#111" stroke-width="3"/><polygon points="1416,340 1403,332 1403,348" fill="#111"/><rect x="1419" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="1491.5" y="350" text-anchor="middle" class="t b" font-size="22">COMPORTAMENTO</text>
+ <line x1="1564" y1="340" x2="1589" y2="340" stroke="#111" stroke-width="3"/><polygon points="1589,340 1576,332 1576,348" fill="#111"/><rect x="1592" y="280" width="145" height="120" rx="16" fill="white" stroke="#111" stroke-width="3"/>
+ <text x="1664.5" y="350" text-anchor="middle" class="t b" font-size="22">CONSEQUÊNCIA</text>
+ 
+<text x="900" y="505" text-anchor="middle" class="t s">A sequência é um mapa de trânsito entre níveis, não uma mecânica linear obrigatória.</text>
+<text x="900" y="565" text-anchor="middle" class="t b">O COMPORTAMENTO É A VIRTUDE EM AÇÃO.</text>
+<text x="900" y="635" text-anchor="middle" class="t s">L009 — atualização 2026-10-17</text>
+</svg>
