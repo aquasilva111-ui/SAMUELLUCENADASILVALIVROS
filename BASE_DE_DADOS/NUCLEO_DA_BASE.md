@@ -655,3 +655,34 @@ Para obras de não ficção, toda afirmação importante deve poder ser classifi
 7. cenário futuro.
 
 A base deve preservar a passagem de uma categoria para outra. Uma hipótese só se torna fato documental após verificação; uma metáfora não se torna mecanismo científico por repetição.
+
+
+## 27. SUBBASE ESPECIALIZADA — DISTRIBUIÇÃO DA SOBERANIA POLÍTICA
+
+**Adicionada em:** 2026-10-17  
+**Obra vinculada:** L025 — Teoria das Subdemocracias / Democracia Fracionada [títulos de trabalho]
+
+Caminho:
+`LIVROS/L025_TEORIA_DAS_SUBDEMOCRACIAS/01_NUCLEO_E_CANONE/SCHEMA_BASE_DE_DADOS.md`
+
+Objetivo: medir, de maneira setorial e auditável, quanto do poder político é efetivamente controlável democraticamente e quais mecanismos de concentração ocupam o espaço restante.
+
+Entidades especializadas:
+- PAIS;
+- SETOR;
+- INDICADOR;
+- OBSERVACAO;
+- EVIDENCIA;
+- FONTE;
+- PERFIL_SETORIAL;
+- MECANISMO_DE_PODER;
+- DECISAO_METODOLOGICA;
+- VERSAO_METODOLOGIA;
+- AUDITORIA.
+
+Regra epistemológica:
+`fonte → evidência → indicador → setor → perfil nacional → incerteza → interpretação`.
+
+A subbase não permite produzir percentuais nacionais diretamente por impressão. Toda classificação deve preservar versão metodológica, período, fontes, justificativa e margem de incerteza.
+
+**Última atualização desta integração:** 2026-10-17

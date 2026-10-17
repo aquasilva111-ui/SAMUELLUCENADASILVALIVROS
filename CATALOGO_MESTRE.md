@@ -1,6 +1,6 @@
 # Catálogo Mestre — Livros Pessoais de Samuel
 
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Escopo:** somente livros pessoais de Samuel Lucena da Silva.
 
 Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo da Estrela Cadente ou qualquer projeto pertencente a outro universo editorial.
@@ -32,6 +32,8 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L024 | O Elitismo Branco-Judeu e o Gasslighting Coletivo | sociologia política, discurso, poder, Convenções de Realidade | obra independente; vinculações com livros de imperialismo ainda abertas | núcleo de criação iniciado; título original preservado |
 
 | L024 | A Direita e a Extrema Direita São a Descrição do Diabo | ensaio crítico, filosofia política, simbolismo do Diabo e Convenções de Realidade | independente; conexões com Pronoia e outras obras apenas sugeridas | núcleo de criação iniciado em 2026-10-16 |
+
+| L025 | Teoria das Subdemocracias / Democracia Fracionada [títulos de trabalho] | teoria política, democracia, distribuição de soberania, metodologia comparativa | obra independente; possíveis conexões conceituais com Esferas do Poder ainda não aprovadas | núcleo de criação e metodologia iniciados em 2026-10-17; título definitivo em aberto |
 
 | ASTRO-SOL-001 | The Great Sun in Astrology — The Essencial Guide of Astrology [título autoral de trabalho] | guia iniciático, astrologia solar, história, símbolos e educação | independente; capítulos sobre Sol em Áries–Peixes planejados | beats iniciais em desenvolvimento; fonte de 2025 importada em 2026-10-16 |
 
