@@ -1,7 +1,10 @@
-# Material Não Posicionado
+# Material Não Posicionado — L009
 
-**Última atualização:** 2026-10-16
+**Última atualização:** 2026-10-17
 
-Guardar aqui ideias, cenas, conceitos, falas, símbolos, perguntas, imagens ou hipóteses que ainda não encontraram posição na estrutura.
+Espaço para ideias válidas ainda sem posição definitiva, questões de pesquisa e decisões pendentes.
 
-Material sem lugar não deve ser descartado nem forçado artificialmente para dentro do esqueleto.
+Arquivo atual:
+- QUESTOES_ABERTAS_2026-10-17.md
+
+Regra: material sem posição não deve desaparecer nem ser promovido automaticamente a cânone.
