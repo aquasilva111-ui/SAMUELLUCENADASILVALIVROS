@@ -1,6 +1,6 @@
 # Catálogo de Republicações e Edições Históricas
 
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Responsável editorial / direção do projeto:** Samuel Lucena da Silva
 
 ## Regra de escopo
@@ -43,3 +43,24 @@ Essa ordem é estratégia editorial de trabalho, não compromisso irrevogável d
 - traduções modernas de terceiros servem para pesquisa de mercado e comparação bibliográfica, não como texto a copiar;
 - capas e paratextos modernos de outras editoras não devem ser reutilizados sem licença;
 - cada versão linguística deve preservar a genealogia editorial da tradução.
+
+## Núcleo de Republicações de Magia Planetária
+
+**Criado em:** 2026-10-17  
+**Local:** REPUBLICACOES/MAGIA/COLECAO_MAGIA_PLANETARIA/  
+**Escopo:** exclusivamente os seis livros selecionados abaixo.
+
+| ID | Núcleo | Obra histórica | Autor / atribuição | Edição-base de trabalho | Estado |
+|---|---|---|---|---|---|
+| MAG-REP-002 | MAGIA | Three Books of Occult Philosophy | Heinrich Cornelius Agrippa | inglês, 1651, Wellcome Collection | núcleo criado; fonte marcada Public Domain |
+| MAG-REP-003 | MAGIA | Heptameron | atribuído a Pietro d'Abano | material inglês de 1655 associado a Robert Turner | núcleo criado; delimitação textual pendente |
+| MAG-REP-004 | MAGIA | Arbatel of Magick | autoria histórica não estabilizada; tradução de Robert Turner | 1655 | núcleo criado; fonte histórica em domínio público |
+| MAG-REP-005 | MAGIA | The Key of Solomon the King | tradição salomônica; edição de S. L. MacGregor Mathers | 1889 | núcleo criado; verificação de scan/pranchas pendente |
+| MAG-REP-006 | MAGIA | De Vita Libri Tres | Marsilio Ficino | códice latino de 1489, LOC/WDL | núcleo criado; fonte textual de tradução a definir |
+| MAG-REP-007 | MAGIA | Picatrix / Ghāyat al-Ḥakīm | tradição árabe medieval; autoria debatida | edição Pingree 1986 NÃO reutilizável livremente | pesquisa com trava jurídica |
+
+### Regra especial
+
+Este núcleo não deve receber outros livros automaticamente. Qualquer expansão exige nova decisão autoral. A edição de David Pingree do Picatrix, publicada pelo Warburg Institute em 1986, está registrada como In Copyright e não deve ser tratada como domínio público.
+
+**Última atualização deste bloco:** 2026-10-17
