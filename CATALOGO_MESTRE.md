@@ -14,7 +14,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L005 | Tratado de Criação Intelectual e Artística com Inteligência Artificial | autoria, criatividade, IA | tratado | desenvolvimento avançado |
 | L006 | Brasil, o Gigante Atrófico Adormecido — Volume 1: Brasil Core | Brasil, identidade, sociologia | série / volume 1 | conceito |
 | L007 | Brasil Core: Um Fenômeno Muito Além da Internet | cultura brasileira, internet, identidade | relação com L006 aberta | conceito |
-| L008 | Esferas do Poder | psicologia, poder, simbolismo | a definir | conceito |
+| L008 | Esferas do Poder | psicologia autoral, poder, simbolismo, masculinidades | série; inclui **The Male from the Orange Sphere** (L008-TMOS), numeração interna ainda aberta | desenvolvimento conceitual; núcleo L008-TMOS criado em 2026-10-17 |
 | L009 | Psicologia dos Chakras | psicologia, espiritualidade | a definir | conceito |
 | L010 | Mass Psychology: Social Petroleum — Volume 1: The Great War Against Lilith; The Suppression of Female Power | psicologia coletiva, gênero, história | coleção / volume 1 | conceito |
 | L011 | The Inner Villain | psicologia, sombra, antagonismo interno | independente | conceito |
@@ -49,3 +49,18 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 4. “Hisstory” deve ser preservado como grafia autoral enquanto Samuel assim definir.
 5. The Mad King vem antes de Solar Attachment; a natureza editorial exata dessa relação ainda está aberta.
 6. L023 deve distinguir continuamente história documentada, interpretação historiográfica, hipótese autoral e especulação.
+
+## Atualizações internas de séries
+
+### L008 — atualização de 2026-10-17
+
+**The Male from the Orange Sphere** foi formalmente integrado como livro/subprojeto da série **Esferas do Poder**.
+
+Dados confirmados:
+- chamada de capa/marketing: **THE POST WOMAN MEN**;
+- título: **THE MALE FROM THE ORANGE SPHERE**;
+- meta: **35.000–50.000 palavras**;
+- núcleo autoral: homem desconectado da masculinidade de sobrevivência da Esfera Existencial, com masculino intuitivo, intuição integrada, delicadeza e relação específica com desejo, mulheres e sociabilidade masculina;
+- número de volume: ainda não definido.
+
+Não inferir relação automática com Psicologia dos Chakras.
