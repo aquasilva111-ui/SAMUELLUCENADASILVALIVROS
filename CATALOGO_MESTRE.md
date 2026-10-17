@@ -29,6 +29,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L021 | O Mistério Falo | a definir | a definir | título registrado |
 | L022 | AI-HUMANIZE-2003 | ficção científica, IA, humanidade | a definir | conceito |
 | L023 | Sabatismo Frankista e A Teoria da Escatologia | história das religiões, messianismo, escatologia, Convenções de Realidade | ensaio histórico-teórico | núcleo de criação iniciado |
+| L024 | O Elitismo Branco-Judeu e o Gasslighting Coletivo | sociologia política, discurso, poder, Convenções de Realidade | obra independente; vinculações com livros de imperialismo ainda abertas | núcleo de criação iniciado; título original preservado |
 
 | L024 | A Direita e a Extrema Direita São a Descrição do Diabo | ensaio crítico, filosofia política, simbolismo do Diabo e Convenções de Realidade | independente; conexões com Pronoia e outras obras apenas sugeridas | núcleo de criação iniciado em 2026-10-16 |
 
