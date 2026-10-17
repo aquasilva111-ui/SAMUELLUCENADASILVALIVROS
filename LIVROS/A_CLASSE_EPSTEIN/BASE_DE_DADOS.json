@@ -1,0 +1,99 @@
+{
+  "schema": "livro-criacao-1.0",
+  "id": "A_CLASSE_EPSTEIN",
+  "autor": "Samuel Lucena da Silva",
+  "titulo_original": "A Classe Epsteim",
+  "titulo_editorial_provisorio": "A Classe Epstein",
+  "criado_em": "2026-10-16",
+  "atualizado_em": "2026-10-16",
+  "estado": "concepcao",
+  "source_of_truth": "CANONE_E_DECISOES.md",
+  "afirmacao_autoral_literal": "A Classe Epsteim vai ser um livro sobre a elite tão rica que o dinheiro é muito e o ilegal e proibido é a única esperiencia que não podem comprar, o unico poder que não se lhes é dado",
+  "conceitos_confirmados": [
+    {
+      "id": "AUT-001",
+      "nome": "Elite de riqueza extrema",
+      "status": "confirmado",
+      "origem": "mensagem autoral"
+    },
+    {
+      "id": "AUT-002",
+      "nome": "Experiência ilegal ou proibida como fronteira do dinheiro",
+      "status": "confirmado",
+      "origem": "mensagem autoral"
+    },
+    {
+      "id": "AUT-003",
+      "nome": "Poder que não lhes é dado",
+      "status": "confirmado",
+      "origem": "mensagem autoral"
+    }
+  ],
+  "hipoteses_editoriais": [
+    {
+      "id": "HIP-001",
+      "titulo": "Saturação do luxo",
+      "status": "sugestao_ia"
+    },
+    {
+      "id": "HIP-002",
+      "titulo": "Proibição como escassez simbólica",
+      "status": "sugestao_ia"
+    },
+    {
+      "id": "HIP-003",
+      "titulo": "Riqueza versus soberania",
+      "status": "sugestao_ia"
+    },
+    {
+      "id": "HIP-004",
+      "titulo": "Transgressão como teste de impunidade",
+      "status": "sugestao_ia"
+    },
+    {
+      "id": "HIP-005",
+      "titulo": "Luxo como posse de exceções",
+      "status": "sugestao_ia"
+    },
+    {
+      "id": "HIP-006",
+      "titulo": "Assimetria de poder e responsabilização",
+      "status": "sugestao_ia"
+    }
+  ],
+  "sete_nucleos": [
+    "Existencial",
+    "Criativo",
+    "Identitário",
+    "Nutritivo",
+    "Expressivo",
+    "Intelectual",
+    "Propósito"
+  ],
+  "convencoes": [
+    "CRE-001",
+    "CRE-002",
+    "CRE-003",
+    "CRE-004",
+    "CRE-005"
+  ],
+  "figuras_reais": [],
+  "estudos_de_caso": [],
+  "capitulos_aprovados": [],
+  "artes_aprovadas": [],
+  "arte_conceitual": [
+    "IMAGENS/conceito_capa.svg"
+  ],
+  "prompts": "PROMPTS_VISUAIS.md",
+  "questoes_abertas": [
+    "Grafia final",
+    "Gênero",
+    "Escopo histórico-geográfico",
+    "Papel do caso Epstein",
+    "Fontes primárias",
+    "Estrutura definitiva",
+    "Tom",
+    "Estética"
+  ],
+  "politica": "Separar autoral, sugestao, hipótese e evidência; nunca acusar terceiros por mera associação."
+}
