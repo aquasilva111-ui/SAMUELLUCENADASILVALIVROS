@@ -23,7 +23,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L015 | CONVENÇÕES DE REALIDADE — Volume 1: Conceito, Teoria e Inteligência Artificial | teoria autoral, realidade, cognição, IA, Autômatos | série / volume 1 | tratado, banco de dados, esqueleto de 16 capítulos, Autômatos e identidade visual atualizados em 2026-10-17 |
 | L016 | Sociedades Solares e o Dilema Lunar | teoria social / civilizacional | a definir | conceito |
 | L017 | Personal Love: The Collective Power | amor, psicologia, poder coletivo | a definir | conceito |
-| L018 | Predictive Hisstory and Herstory | história, revisionismo, teoria social, futuro | coleção de vários volumes | metodologia definida |
+| L018 | Predictive Hisstory and Herstory | filosofia da história, revisionismo, teoria social, Convenções de Realidade, futuro | coleção de vários volumes | núcleo expandido; método Jiang→esqueleto→adaptação autoral; capítulos 1–3 em desenvolvimento; banco, esqueleto e identidade visual consolidados em 2026-10-17 |
 | L019 | The Mad King — O Rei Louco | ficção | predecessor de Solar Attachment | conceito |
 | L020 | Solar Attachment — Ancoramento do Sol | ficção | sucede The Mad King | conceito |
 | L021 | O Mistério Falo | a definir | a definir | título registrado |
@@ -217,4 +217,36 @@ Inteligência-Coletiva-Organizada; Alucinação Relacional; Golemização; Desgo
 
 “A máquina pode organizar a inteligência. A inteligência continua vindo de nós.”
 
+**Última atualização:** 2026-10-17.
+
+
+## Atualização L018 — 2026-10-17
+
+**Predictive Hisstory and Herstory** recebeu sua primeira consolidação extensa de conteúdo.
+
+Foram integrados ao repositório:
+- a tríade autoral History / Hisstory / Herstory;
+- Predictive History como método de modelagem presente → futuro → teste → passado;
+- logicismo especulativo;
+- integração da Teoria das Convenções de Realidade;
+- definição de poder como capacidade de operar Convenções de Realidade;
+- método de adaptação dos compilados de aulas do Professor Jiang Xueqin;
+- banco de dados criativo;
+- esqueleto dos capítulos 1–3;
+- proveniência das fontes e regra de distinção Jiang / Samuel / hipótese;
+- identidade visual e prompts;
+- dois diagramas conceituais em SVG;
+- histórico do update.
+
+**Capítulos em desenvolvimento:**
+1. Como o Poder Funciona: A Alquimia da Realidade.
+2. Como as Sociedades Entram em Colapso.
+3. Morte por Gerontocracia.
+
+**Arquivo editorial:** [L018 — Predictive Hisstory and Herstory](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/README.md).  
+**Banco:** [Banco de Dados Criativo 2026-10-17](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md).  
+**Esqueleto:** [Esqueleto dos Capítulos 1–3](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/02_ESQUELETO/ESQUELETO_CAPITULOS_01_A_03_2026-10-17.md).  
+**Fontes Jiang:** [Proveniência e Método de Adaptação](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/03_REFERENCIAS_E_PESQUISA/PROF_JIANG_XUEQIN_COMPILADOS_E_METODO_2026-10-17.md).  
+**Visual:** [Identidade Visual e Prompts](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/04_IMAGENS_E_PROMPTS/IDENTIDADE_VISUAL_E_PROMPTS_2026-10-17.md).  
+**Base global:** [L018 na Base de Dados](BASE_DE_DADOS/L018_PREDICTIVE_HISSTORY_HERSTORY.md).  
 **Última atualização:** 2026-10-17.
