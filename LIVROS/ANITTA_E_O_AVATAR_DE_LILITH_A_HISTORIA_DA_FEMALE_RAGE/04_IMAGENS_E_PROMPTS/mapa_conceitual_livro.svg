@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Mapa conceitual do livro Anitta e o Avatar de Lilith">
+  <rect width="1600" height="900" fill="#0a0a0a"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="800" y="70" fill="#ffffff" font-size="34" font-weight="700">MAPA CONCEITUAL — ANITTA E O AVATAR DE LILITH</text>
+    <g fill="#111" stroke="#ffffff" stroke-width="3">
+      <rect x="80" y="180" width="220" height="110" rx="24"/><rect x="350" y="180" width="220" height="110" rx="24"/>
+      <rect x="620" y="180" width="220" height="110" rx="24"/><rect x="890" y="180" width="220" height="110" rx="24"/>
+      <rect x="1160" y="180" width="300" height="110" rx="24"/>
+      <rect x="260" y="430" width="250" height="110" rx="24"/><rect x="675" y="430" width="250" height="110" rx="24"/>
+      <rect x="1090" y="430" width="250" height="110" rx="24"/>
+      <rect x="500" y="680" width="270" height="110" rx="24"/><rect x="900" y="680" width="270" height="110" rx="24"/>
+    </g>
+    <g fill="#ffffff" font-size="30" font-weight="700">
+      <text x="190" y="245">LARISSA</text><text x="460" y="245">ANITTA</text><text x="730" y="245">CAMPO</text><text x="1000" y="245">FEMALE RAGE</text>
+      <text x="1310" y="235">PETRÓLEO</text><text x="1310" y="270">COLETIVO</text>
+      <text x="385" y="495">LILITH</text><text x="800" y="495">AVATAR</text><text x="1215" y="495">ECONOMIA</text>
+      <text x="635" y="745">SOMBRA / NIGREDO</text><text x="1035" y="745">INTEGRAÇÃO</text>
+    </g>
+    <g stroke="#e50914" stroke-width="8" fill="none" marker-end="url(#a)">
+      <path d="M300 235 H350"/><path d="M570 235 H620"/><path d="M840 235 H890"/><path d="M1110 235 H1160"/>
+      <path d="M1310 290 C1310 360 1100 365 920 430"/><path d="M620 235 C520 320 430 360 385 430"/>
+      <path d="M510 485 H675"/><path d="M925 485 H1090"/><path d="M1215 540 C1130 640 940 620 1035 680"/>
+      <path d="M800 540 C790 620 720 630 635 680"/><path d="M770 735 H900"/>
+      <path d="M1035 790 C900 855 530 850 190 290"/>
+    </g>
+  </g>
+  <defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#e50914"/></marker></defs>
+</svg>
