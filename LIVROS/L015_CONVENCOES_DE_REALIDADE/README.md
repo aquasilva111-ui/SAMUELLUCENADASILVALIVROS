@@ -210,3 +210,17 @@ A pergunta autoral sobre percepções raciais de judeus e árabes em relação a
 - [Diagrama ilustrativo](04_IMAGENS_E_PROMPTS/DIAGRAMA_LENTES_DA_IDENTIDADE.svg)
 
 A incorporação definitiva em capítulo depende de aprovação autoral.
+
+
+---
+## Adendo de documentação detalhada — 2026-10-17
+
+A conversa originária com Gemini e o desenvolvimento posterior em ChatGPT foram preservados como **registro editorial descritivo extenso**, com indicação de quais ideias são do autor, quais surgiram como sugestões das IAs e quais permanecem em debate. A transcrição integral original continua disponível na conversa de origem; o adendo é um registro organizado de alta densidade.
+
+- [Genealogia descritiva extensa — conversa Gemini e continuidade](01_NUCLEO_E_CANONE/ADENDO_GENEALOGIA_COMPLETA_CONVERSA_GEMINI_2026-10-17.md)
+- [Protocolo operacional e prompts de IA](01_NUCLEO_E_CANONE/PROTOCOLO_OPERACIONAL_CONVENCOES_IA_2026-10-17.md)
+- [Índice expandido e genealogia de capítulos](02_ESQUELETO/INDICE_EXPANDIDO_GENEALOGICO_2026-10-17.md)
+- [Atlas visual sincrético e prompts](04_IMAGENS_E_PROMPTS/ATLAS_VISUAL_E_PROMPTS_SINCRETICOS_2026-10-17.md)
+- [Linha do tempo, proveniência e atualização](05_HISTORICO/LINHA_DO_TEMPO_GEMINI_CHATGPT_2026-10-17.md)
+
+**Novos fundamentos destacados:** teoria de redes como elemento central; “tudo no mundo e universo é informação organizada” como tese ontológica do autor; imaginação como informação simulada; leitura sincrética e esotérica das organizações sutis; crítica ao cientificismo; espelhamento funcional do humano em arquitetura sintética. Os documentos não revogam o esqueleto atual nem a identidade visual já consolidada.
