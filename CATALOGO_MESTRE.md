@@ -76,3 +76,10 @@ Não inferir relação automática com Psicologia dos Chakras.
 | MAG-MODERNA-001 | Magia Moderna — Como dominar o seu(s) Daimon(s) para o seu benefício e sucesso | magia psicológico-filosófica, Daimons, Energeticum Petroleum, refino emocional | núcleo NUC-MAGIA; relação com L025 ainda a definir | núcleo de criação, tratado, identidade visual e banco de dados iniciados | 
 
 **Pasta:** [LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS](LIVROS/MAGIA_MODERNA_COMO_DOMINAR_SEUS_DAIMONS/README.md). Identificador local dedicado, sem alterar numeração legada nem IDs duplicados existentes. **Última atualização:** 2026-10-17.
+
+
+## Novo projeto autoral — 2026-10-17
+
+| MAG-AUT-003 | Princípios Mágicos do Marketing — Magia e Bruxaria Moderna | marketing, simbologia, magia moderna, percepção, desejo, atenção | NUC-MAGIA; relações com “Magia às Massas” por aprovar | título autoral registrado; tratado conceitual e imagens/prompts propostos pela IA; núcleo criado em 2026-10-17 |
+
+**Arquivo da obra:** [Princípios Mágicos do Marketing](LIVROS/PRINCIPIOS_MAGICOS_DO_MARKETING_MAGIA_E_BRUXARIA_MODERNA/README.md). A numeração MAG-AUT-003 evita reutilizar IDs L025 sobrepostos já existentes no catálogo. **Última atualização desta inclusão: 2026-10-17.**
