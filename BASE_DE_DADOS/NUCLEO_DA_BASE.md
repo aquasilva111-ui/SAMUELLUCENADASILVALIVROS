@@ -1,7 +1,7 @@
 # Núcleo da Base de Dados de Criação
 
 **Versão:** 2.0  
-**Última atualização:** 2026-10-16  
+**Última atualização:** 2026-10-17  
 **Função:** preservar produto final, processo criativo, genealogia das decisões, fontes, imagens, prompts, cânone e versões.
 
 ## Princípio central
@@ -517,3 +517,24 @@ Campos:
 - status
 
 Nunca registrar “não existe” quando a evidência é apenas “não foi localizado na busca”.
+
+## 25. SUBBASE ESPECIALIZADA — REPUBLICAÇÕES DE MAGIA PLANETÁRIA
+
+**Adicionada em:** 2026-10-17
+
+Existe uma base de dados especializada em:
+REPUBLICACOES/MAGIA/COLECAO_MAGIA_PLANETARIA/01_NUCLEO_EDITORIAL/BASE_DE_DADOS_DE_CRIACAO.md
+
+Escopo fechado:
+- MAG-REP-002 — Agrippa;
+- MAG-REP-003 — Heptameron;
+- MAG-REP-004 — Arbatel;
+- MAG-REP-005 — Key of Solomon;
+- MAG-REP-006 — De Vita;
+- MAG-REP-007 — Picatrix.
+
+A subbase expande as entidades gerais deste arquivo com testemunho textual, transcrição, segmento textual, correspondência planetária, entidade espiritual, ritual/operação, restauração visual, capa, paratexto, índice planetário e glossário.
+
+Ela deve permanecer vinculada à base geral sem contaminar outros livros ou republicações com regras específicas da magia planetária.
+
+**Última atualização desta integração:** 2026-10-17
