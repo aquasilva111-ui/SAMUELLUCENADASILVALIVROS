@@ -183,7 +183,7 @@ Obra autoral de Samuel centrada em Daimon(s), intensidade não moralizada, Energ
 **Última atualização desta inclusão: 2026-10-17.**
 
 
-## 12. Obra autoral MAG-AUT-002 — 2026-10-17
+## Obra autoral MAG-AUT-002 — 2026-10-17
 
 ### A Magia e Bruxaria Popular Sincrético-Moderna: O Quinto Elemento
 
