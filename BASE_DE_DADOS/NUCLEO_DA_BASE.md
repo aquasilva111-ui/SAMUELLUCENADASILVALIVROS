@@ -410,3 +410,110 @@ Saturação não significa manuscrito finalizado.
 - Quais setups ainda não receberam payoff?
 - Quais payoffs ainda não possuem setup?
 - Quais contradições continuam abertas?
+
+
+## 21. NÚCLEO EDITORIAL
+
+**Adicionado em:** 2026-10-16
+
+Campos:
+- nucleo_editorial_id
+- nome
+- descricao
+- escopo
+- obras[]
+- republicacoes[]
+- subnucleos[]
+- metodologias_aplicadas[]
+- metodologias_nao_aplicadas_automaticamente[]
+- identidade_visual
+- regras
+- data_criacao
+- data_update
+
+### Regra de segregação
+
+Núcleo editorial, metodologia e universo não são sinônimos.
+
+Exemplo confirmado em 2026-10-16:
+- `NUC-MAGIA` é núcleo editorial;
+- Core Visions é metodologia editorial independente;
+- Beauty Trending é núcleo/linha independente;
+- uma obra de Magia não herda Core Visions ou Beauty Trending sem decisão explícita.
+
+## 22. REPUBLICAÇÃO / EDIÇÃO HISTÓRICA
+
+**Adicionado em:** 2026-10-16
+
+Campos:
+- republicacao_id
+- nucleo_editorial_id
+- obra_historica
+- autor_historico
+- pseudonimo
+- ano_base
+- edicao_base
+- idioma_original
+- dominio_publico_status
+- verificacao_por_territorio
+- traducao_propria
+- traducoes_localizadas[]
+- concorrentes[]
+- imagens_historicas[]
+- prompts[]
+- estrategia_multilingue[]
+- produtos_planejados[]
+- fatos_bibliograficos[]
+- observacoes_de_mercado[]
+- inferencias_editoriais[]
+- hipoteses_comerciais[]
+- questoes_abertas[]
+- data_update
+
+### Regra autoral
+
+Republicar, traduzir, restaurar ou dirigir editorialmente uma obra histórica não transforma Samuel em autor do texto histórico. Registrar separadamente:
+- autor histórico;
+- tradutor;
+- editor;
+- diretor editorial;
+- autor de introdução/notas, quando houver.
+
+## 23. DIREITOS E PROVENIÊNCIA EDITORIAL
+
+Campos:
+- direitos_id
+- entidade
+- territorio
+- texto_original_status
+- traducao_status
+- imagens_status
+- paratextos_status
+- fonte_da_verificacao
+- data_verificacao
+- incertezas[]
+- restricoes[]
+
+Regra:
+**texto em domínio público ≠ tradução moderna em domínio público ≠ digitalização/imagem moderna automaticamente livre.**
+
+## 24. OPORTUNIDADE EDITORIAL POR IDIOMA
+
+Campos:
+- oportunidade_id
+- obra_id
+- idioma
+- variante
+- edicoes_localizadas[]
+- traducao_equivalente_localizada
+- lacuna_percebida
+- tamanho_de_mercado_estimado
+- concorrencia
+- diferencial
+- prioridade
+- força_da_evidencia
+- data_da_pesquisa
+- fontes[]
+- status
+
+Nunca registrar “não existe” quando a evidência é apenas “não foi localizado na busca”.
