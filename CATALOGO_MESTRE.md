@@ -261,7 +261,7 @@ Foram integrados ao repositório:
 
 ## Registros adicionados em 2026-10-17
 
-- **O Pilar e o Silício: A Arquitetura do Masculino Sagrado** — tratado de soberania masculina; título revisado por decisão autoral, sem a expressão «na Era Digital». Registro: [README](LIVROS/O_PILAR_E_O_SILICIO_A_ARQUITETURA_DO_MASCULINO_SAGRADO/README.md). Conteúdo original integral e detalhes dos três pilares pendentes de recuperação.
+- **O Pilar do Meio: A Arquitetura do Masculino Sagrado** — tratado de soberania masculina; título revisado por decisão autoral, sem a expressão «na Era Digital». Registro: [README](LIVROS/O_PILAR_DO_MEIO_A_ARQUITETURA_DO_MASCULINO_SAGRADO/README.md). Conteúdo original integral e detalhes dos três pilares pendentes de recuperação.
 - **The Gen Z Zeitgeist: Premature Burnout** — projeto da linha editorial de crônicas jornalísticas The Zeitgeist, potencialmente expansível a livro; não converter automaticamente em livro definitivo. Registro: [README](LIVROS/THE_GEN_Z_ZEITGEIST_PREMATURE_BURNOUT/README.md).
 
 **Atualização:** 2026-10-17.
