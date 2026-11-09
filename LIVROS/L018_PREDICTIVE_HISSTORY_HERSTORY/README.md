@@ -1,8 +1,8 @@
 # Predictive Hisstory and Herstory
 
 **ID:** L018  
-**Última atualização:** 2026-10-17  
-**Status:** metodologia definida; núcleo conceitual expandido; capítulos 1–3 em desenvolvimento  
+**Última atualização:** 2026-11-09  
+**Status:** metodologia definida; núcleo conceitual expandido; esqueleto macro de 28 capítulos registrado; capítulos 1–3 mais maduros  
 **Formato:** coleção histórica / vários volumes  
 **Meta provisória:** 90.000 palavras por volume
 
@@ -106,6 +106,7 @@ documentada / fortemente sustentada / plausível / especulativa / altamente espe
 - [Núcleo Completo](01_NUCLEO_E_CANONE/NUCLEO_COMPLETO.md)
 - [Banco de Dados Criativo 2026-10-17](01_NUCLEO_E_CANONE/BANCO_DE_DADOS_CRIATIVO_2026-10-17.md)
 - [Esqueleto dos Capítulos 1–3](02_ESQUELETO/ESQUELETO_CAPITULOS_01_A_03_2026-10-17.md)
+- [Esqueleto Macro do Livro — 28 capítulos](02_ESQUELETO/ESQUELETO_LIVRO_COMPLETO_2026-11-09.md)
 - [Compilados Jiang e Método de Adaptação](03_REFERENCIAS_E_PESQUISA/PROF_JIANG_XUEQIN_COMPILADOS_E_METODO_2026-10-17.md)
 - [Identidade Visual e Prompts](04_IMAGENS_E_PROMPTS/IDENTIDADE_VISUAL_E_PROMPTS_2026-10-17.md)
 - [Histórico do Update 2026-10-17](05_HISTORICO/UPDATE_2026-10-17.md)
@@ -116,3 +117,5 @@ documentada / fortemente sustentada / plausível / especulativa / altamente espe
 - 2026-10-17 — Convenções de Realidade integradas ao Capítulo 1 e à teoria do poder.
 - 2026-10-17 — método de adaptação das aulas de Jiang formalizado.
 - 2026-10-17 — capítulos 1, 2 e 3 estruturados e desenvolvidos em prosa de trabalho.
+
+- 2026-11-09 — esqueleto macro provisório do livro registrado em 5 Partes e 28 capítulos; capítulos 1–3 permanecem mais maduros e capítulos posteriores seguem sujeitos ao Processo de Abelha e enriquecimento das fontes.
