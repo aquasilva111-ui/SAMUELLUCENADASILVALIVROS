@@ -23,7 +23,7 @@ Não incluir aqui Aesthetic Cinematic Universe, Past World, Falstello/Universo d
 | L015 | CONVENÇÕES DE REALIDADE — Volume 1: Conceito, Teoria e Inteligência Artificial | teoria autoral, realidade, cognição, IA, Autômatos | série / volume 1 | tratado, banco de dados, esqueleto de 16 capítulos, Autômatos e identidade visual atualizados em 2026-10-17 |
 | L016 | Sociedades Solares e o Dilema Lunar | teoria social / civilizacional | a definir | conceito |
 | L017 | Personal Love: The Collective Power | amor, psicologia, poder coletivo | a definir | conceito |
-| L018 | Predictive Hisstory and Herstory | filosofia da história, revisionismo, teoria social, Convenções de Realidade, futuro | coleção de vários volumes | núcleo expandido; método Jiang→esqueleto→adaptação autoral; capítulos 1–3 em desenvolvimento; banco, esqueleto e identidade visual consolidados em 2026-10-17 |
+| L018 | Predictive Hisstory and Herstory | filosofia da história, revisionismo, teoria social, Convenções de Realidade, futuro | coleção de vários volumes | núcleo expandido; método Jiang→esqueleto→adaptação autoral; esqueleto macro provisório de 5 Partes e 28 capítulos registrado em 2026-11-09; capítulos 1–3 mais maduros |
 | L019 | The Mad King — O Rei Louco | ficção | predecessor de Solar Attachment | conceito |
 | L020 | Solar Attachment — Ancoramento do Sol | ficção | sucede The Mad King | conceito |
 | L021 | O Mistério Falo | a definir | a definir | título registrado |
@@ -265,3 +265,20 @@ Foram integrados ao repositório:
 - **The Gen Z Zeitgeist: Premature Burnout** — projeto da linha editorial de crônicas jornalísticas The Zeitgeist, potencialmente expansível a livro; não converter automaticamente em livro definitivo. Registro: [README](LIVROS/THE_GEN_Z_ZEITGEIST_PREMATURE_BURNOUT/README.md).
 
 **Atualização:** 2026-10-17.
+
+
+## Atualização L018 — 2026-11-09
+
+Foi registrado o **esqueleto macro provisório de Predictive Hisstory and Herstory**, organizado em 5 Partes e 28 capítulos.
+
+**Estrutura:**
+- Parte I — A Engenharia da Realidade;
+- Parte II — Quando o Poder se Torna Sistema;
+- Parte III — Quando a Humanidade Aprendeu a Imaginar o Mundo;
+- Parte IV — A Captura do Sagrado;
+- Parte V — Predictive History.
+
+Os capítulos 1–3 permanecem mais maduros. Os capítulos 4–24 são arquitetura provisória derivada do material-fonte e precisam passar pelo Processo de Abelha antes de consolidação. A Parte V foi registrada como necessária à identidade do projeto, mas ainda precisa de enriquecimento autoral.
+
+**Arquivo:** [Esqueleto Macro 2026-11-09](LIVROS/L018_PREDICTIVE_HISSTORY_HERSTORY/02_ESQUELETO/ESQUELETO_LIVRO_COMPLETO_2026-11-09.md).  
+**Última atualização:** 2026-11-09.
